@@ -684,7 +684,7 @@ def main(_):
             drop_remainder=False)
 
         result = estimator.predict(input_fn=predict_input_fn)
-        output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
+        output_predict_file = os.path.join("./output/result_dir", "label_test.txt")
         #here if the tag is "X" means it belong to its before token, here for convenient evaluate use
         # conlleval.pl we  discarding it directly
         Writer(output_predict_file,result,batch_tokens,batch_labels,id2label)
