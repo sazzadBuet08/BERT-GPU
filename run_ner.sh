@@ -5,10 +5,8 @@ export BERT_BASE_DIR=gs://test-bert-konok/cased_L-12_H-768_A-12
   python BERT_NER.py\
     --task_name="NER"  \
     --do_lower_case=False \
-    --use_tpu=True \
-    --tpu_name=$TPU_NAME \
     --crf=True \
-    --do_train=True   \
+    --do_train=False   \
     --do_eval=True   \
     --do_predict=True \
     --data_dir=data   \
