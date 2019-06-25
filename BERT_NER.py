@@ -649,16 +649,16 @@ def main(_):
             is_training=False,
             drop_remainder=eval_drop_remainder)
         result = estimator.evaluate(input_fn=eval_input_fn)
-        output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
-        # with open(output_eval_file,"w") as wf:
-        logging.info("***** Eval results *****")
-        confusion_matrix = result["confusion_matrix"]
-        p,r,f = metrics.calculate(confusion_matrix,len(label_list)-1)
-        logging.info("***********************************************")
-        logging.info("********************P = %s*********************",  str(p))
-        logging.info("********************R = %s*********************",  str(r))
-        logging.info("********************F = %s*********************",  str(f))
-        logging.info("***********************************************")
+        output_eval_file = os.path.join("./output/result_dir", "eval_results.txt")
+        with open(output_eval_file,"w") as wf:
+            logging.info("***** Eval results *****")
+            confusion_matrix = result["confusion_matrix"]
+            p,r,f = metrics.calculate(confusion_matrix,len(label_list)-1)
+            logging.info("***********************************************")
+            logging.info("********************P = %s*********************",  str(p))
+            logging.info("********************R = %s*********************",  str(r))
+            logging.info("********************F = %s*********************",  str(f))
+            logging.info("***********************************************")
 
 
     if FLAGS.do_predict:
