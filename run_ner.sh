@@ -1,13 +1,12 @@
 #!/usr/bin/env bash
-
+#    --do_train=False   \
+#    --do_eval=False   \
 export BERT_BASE_DIR=gs://bert_bucket_test/cased_L-12_H-768_A-12
 
   python BERT_NER.py\
     --task_name="NER"  \
     --do_lower_case=False \
     --crf=True \
-    --do_train=False   \
-    --do_eval=False   \
     --do_predict=True \
     --data_dir=data   \
     --vocab_file=$BERT_BASE_DIR/vocab.txt \
