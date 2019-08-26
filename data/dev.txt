@@ -1,336 +1,808 @@
 Education O
-: O
 
+Cumilla Education_Institution_Name
+Zilla Education_Institution_Name
+School Education_Institution_Name
 
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
+Secondary Education_Degree
+School Education_Degree
+Certicate Education_Degree
+( O
+Science Education_Subject
+) O
+; O
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+/ Education_Result
+5.00 Education_Result
+
+Cumilla Education_Institution_Name
+Victoria Education_Institution_Name
+Govt Education_Institution_Name
+. Education_Institution_Name
+College Education_Institution_Name
+
+Higher Education_Degree
+Secondary Education_Degree
+Certicate Education_Degree
+( O
+Science Education_Subject
+) O
+; O
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+/ Education_Result
+5.00 Education_Result
+
+Bangladesh Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+
+B.Sc Education_Degree
 in O
 Computer Education_Subject
 Science Education_Subject
 and Education_Subject
 Engineering Education_Subject
-
-
-January Education_Start_Year
-2013 Education_Start_Year
-to O
-September Education_End_Year
-2016 Education_End_Year
-
+; O
 CGPA Education_Result
 : Education_Result
-3.61(Out Education_Result
-of Education_Result
-4 Education_Result
-) Education_Result
+3.29 Education_Result
+/ Education_Result
+4.00 Education_Result
 
+Education O
 
-Credit O
-Completed- O
-142 O
-
-American Education_Institution_Name
-International Education_Institution_Name
+Passed O
+2019 Education_End_Year
+B.Sc.in Education_Degree
+CSE Education_Subject
+Hajee Education_Institution_Name
+Mohammad Education_Institution_Name
+Danesh Education_Institution_Name
+Science Education_Institution_Name
+& Education_Institution_Name
+Technology Education_Institution_Name
 University Education_Institution_Name
-, Education_Institution_Name
-Bangladesh Education_Institution_Name
-. Education_Institution_Name
+, O
+Dinajpur Education_Location
 
-
-Relevant O
-course O
-completed O
-: O
-
-
-Software O
-Quality O
-and O
-Testing O
-
-Software O
-Requirement O
-Engineering O
-
-Object O
-Oriented O
-Analysis O
-and O
-Design O
-
-
-Higher Education_Degree
-secondary Education_Degree
-Certificate Education_Degree
-( Education_Degree
-H.S.C)-Science Education_Degree
-
-Year-2011 Education_End_Year
-
-
-Pabna Education_Institution_Name
-Govt Education_Institution_Name
-. Education_Institution_Name
-Women Education_Institution_Name
-s Education_Institution_Name
+Passed O
+2012 Education_End_Year
+HSC Education_Degree
+IN O
+SCIENCE Education_Subject
+Cantonment Education_Institution_Name
 College Education_Institution_Name
 , O
-Pabna Education_Location
+Jessore Education_Location
 
-GPA-5.00 Education_Result
-( Education_Result
-out Education_Result
-of Education_Result
-5 Education_Result
-) Education_Result
+Passed O
+2010 Education_End_Year
+SSC Education_Degree
+IN O
+SCIENCE Education_Subject
+Nilmonigonj Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+, O
+Chuadanga Education_Location
 
+
+CGPA Education_Result
+- Education_Result
+3.42 Education_Result
+/4.00 Education_Result
+
+GPA-5.00/5.00 Education_Result
+
+GPA-5.00/5.00 Education_Result
+
+EDUCATION O
+
+	 O
+Masters Education_Degree
+in O
+Computer Education_Subject
+Application Education_Subject
+JSPM Education_Institution_Name
+s Education_Institution_Name
+, O
+EINCA O
+, O
+Wagholi Education_Location
+, Education_Location
+Pune Education_Location
+. O
+
+2014 Education_End_Year
+( O
+69.5 Education_Result
+% Education_Result
+) O
+. O
+
+	 O
+Bachelors Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+LLP O
+, O
+Vivekananda Education_Institution_Name
+College Education_Institution_Name
+, O
+Aurangabad Education_Location
+. O
+
+2011 Education_End_Year
+( O
+71 Education_Result
+% Education_Result
+) O
+. O
+
+	 O
+HSC Education_Degree
+( O
+Electronics Education_Subject
+Science Education_Subject
+) O
+, O
+PJN Education_Institution_Name
+College Education_Institution_Name
+, O
+Ashti Education_Location
+, Education_Location
+Maharashtra Education_Location
+State O
+Board O
+. O
+
+2008 Education_End_Year
+( O
+65.33 Education_Result
+% Education_Result
+) O
+. O
+
+	 O
+SSC Education_Degree
+Jogeshwari Education_Institution_Name
+Vidyalay Education_Institution_Name
+, O
+Pargaon Education_Location
+, O
+Ashti Education_Location
+, Education_Location
+Maharashtra Education_Location
+state O
+Board O
+. O
+
+2006 Education_End_Year
+( O
+78.19 Education_Result
+% Education_Result
+) O
+. O
+
+COURSES O
+/ O
+CERTIFICATIONS O
+
+	 O
+
+											 O
+Title O
+
+											 O
+Organized O
+by O
+
+											 O
+Duration O
+
+											 O
+Year O
+
+											 O
+CAT O
+C++ O
+
+											 O
+CAT O
+Pune O
+
+											 O
+3 O
+Months O
+. O
+
+											 O
+2009 O
+. O
+
+											 O
+NCC O
+
+											 O
+Academic O
+Program O
+
+											 O
+1 O
+Year O
+. O
+
+											 O
+2009 O
+. O
+
+Completed O
+course O
+of O
+Java O
+Developer O
+
+											 O
+Techno O
+Corp O
+, O
+Pune O
+
+											 O
+1 O
+Year O
+. O
+
+2012 O
+. O
+
+EDUCATION O
+
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Industrial Education_Subject
+and Education_Subject
+Systems Education_Subject
+Engineering Education_Subject
+
+Qatar Education_Institution_Name
+University Education_Institution_Name
+, O
+Doha Education_Location
+- Education_Location
+Qatar Education_Location
+( O
+2015 Education_End_Year
+) O
+
+Higher Education_Institution_Name
+Secondary Education_Institution_Name
+Certificate Education_Institution_Name
+( O
+Science Education_Subject
+Group O
+) O
+
+Bangladesh Education_Institution_Name
+M.H.M. Education_Institution_Name
+School Education_Institution_Name
+& Education_Institution_Name
+College Education_Institution_Name
+, O
+Doha Education_Location
+- Education_Location
+Qatar Education_Location
+( O
+2009 Education_End_Year
+) O
 
 Secondary Education_Degree
 School Education_Degree
 Certificate Education_Degree
-( Education_Degree
-S.S.C Education_Degree
-) Education_Degree
-- O
+( O
 Science Education_Subject
+Group O
+) O
 
-Year-2009 Education_End_Year
-
-
-Kushtia Education_Institution_Name
-Govt Education_Institution_Name
-. Education_Institution_Name
-Girl Education_Institution_Name
-s Education_Institution_Name
+Bangladesh Education_Institution_Name
+M.H.M. Education_Institution_Name
 School Education_Institution_Name
+& Education_Institution_Name
+College Education_Institution_Name
 , O
-Kushtia Education_Location
-
-GPA-5.00 Education_Result
-( Education_Result
-out Education_Result
-of Education_Result
-5 Education_Result
-) Education_Result
+Doha Education_Location
+- Education_Location
+Qatar Education_Location
+( O
+2007 Education_End_Year
+) O
 
 
+EXPERIENCES O
+: O
 
+Working O
+as O
+an O
+Information O
+Analyst O
+in O
+ACI O
+( O
+Advanced O
+Chemical O
+Industries O
+) O
+, O
+Dhaka- O
+
+Bangladesh O
+from O
+May O
+2017 O
+till O
+present O
+. O
+
+Proactively O
+addresses O
+intricate O
+performance O
+enhancement O
+issues O
+that O
+have O
+potential O
+
+Impact O
+on O
+the O
+business O
+. O
+
+Prepare O
+operational O
+manuals O
+for O
+developed O
+software O
+and O
+applications O
+. O
+
+Documentation O
+of O
+the O
+whole O
+process O
+from O
+need O
+generation O
+to O
+delivery O
+. O
+
+Overseeing O
+implementation O
+of O
+a O
+new O
+system O
+, O
+supporting O
+users O
+in O
+adapting O
+to O
+the O
+
+System O
+by O
+ensuring O
+proper O
+training O
+and O
+guidelines O
+. O
+
+Keeping O
+up O
+to O
+date O
+with O
+technical O
+and O
+industry O
+developments O
+. O
+
+Interpreting O
+and O
+translating O
+data O
+into O
+valuable O
+information O
+effective O
+for O
+Information O
+
+Analysis O
+purpose O
+. O
+
+Extracting O
+data O
+and O
+generating O
+reports O
+. O
+
+Use O
+highly O
+developed O
+communication O
+skills O
+to O
+keep O
+colleagues O
+up O
+to O
+date O
+with O
+new O
+
+Technologies O
+. O
+
+Client O
+s O
+requirement O
+analysis O
+to O
+provide O
+suggestions O
+in O
+order O
+to O
+deliver O
+products O
+that O
+
+Are O
+aligned O
+with O
+the O
+ultimate O
+business O
+requirement O
+. O
+
+Carrying O
+out O
+all O
+the O
+responsibilities O
+assigned O
+by O
+superior O
+. O
+
+Worked O
+as O
+a O
+Junior O
+Process O
+Engineer O
+in O
+Seero O
+Engineering O
+Consulting O
+, O
+Doha O
+- O
+Qatar O
+
+from O
+Feb2015 O
+till O
+July-2015 O
+. O
 
 Responsibilities O
 : O
-
-
-Working O
-on O
-manual O
-regression O
-and O
-exploratory O
-testing O
-
-Reporting O
-defects O
-on O
-JIRA O
-
-Automating O
-the O
-whole O
-smoke O
-suite O
-, O
-regression O
-suite O
-and O
-sanity O
-tests O
-of O
-multiple O
-
-projects O
-
-Communicating O
-with O
-on O
-shore O
-and O
-off O
-shore O
-clients O
-on O
+Initiating O
 a O
-daily O
-basis O
-
-Training O
-up O
 new O
-resources O
-on O
-automation O
-. O
+web O
+time O
+tracking O
+software O
+for O
+the O
+employees O
+( O
+i.e. O
 
-Updating O
+Replicon O
+) O
+, O
+Recording O
+employees O
+occasional O
+leaves O
 and O
-maintaining O
-the O
-automated O
-test O
-scripts O
-according O
-to O
-the O
-product O
+determining O
+payroll O
+, O
 
-requirements O
+Preparing O
+reports O
+on O
+financial O
+data O
+, O
+Assisting O
+in O
+the O
+recruitment O
+process O
+, O
+Updating O
+
+quality O
+management O
+manuals O
+, O
+Company O
+folders O
+, O
+Information O
+details O
+etc O
 . O
 
 
+1 O
 
+Worked O
+as O
+a O
+part O
+time O
+student O
+employee O
+at O
+Communications O
+Office O
+-Research O
+Office O
+, O
 
-Testing O
-Skills O
+Qatar O
+University O
+from O
+July-2014 O
+till O
+Jan-2015 O
+. O
+
+OTHER O
+ACADEMIC O
+AND O
+RESEARCH O
+EXPERIENCES O
 : O
 
 
-
-
-
-
-
-
-
-Functional O
-Testing O
-
-UI O
-Testing O
-
-Regression O
-Testing O
-
-Smoke O
-Testing O
-
-Exploratory O
-Testing O
-
-Load/ O
-Stress O
-Testing O
-
-Performance O
-Testing O
-
-Automation O
-Testing O
-
-Test O
-Automation O
-Skills O
-: O
-
-
-
-
-
-
-
-
-
-
-
-Selenium O
-Web O
-driver O
+Worked O
+as O
+a O
+part O
+time O
+research O
+employee O
+at O
+Centre O
+for O
+Advanced O
+Materials O
+( O
+CAM O
+) O
 , O
-Selenium O
-IDE O
+Qatar O
 
-Helium O
+University O
+from O
+June-2014 O
+till O
+December-2014 O
+. O
 
-Java O
-
-
-TestNG O
-
-JUnit O
-
-
-Inspection O
-Tool O
-: O
-Firebug O
-, O
-Firepath O
-, O
-FireFinder O
-, O
-Web O
-developer O
-
-
-Maven O
-Dependency O
-
-IDE O
-: O
-Eclipse O
-, O
-IntelliJ O
-IDE O
-
-
-Python O
-
-Cucumber O
-BDD O
-, O
-Gherkin O
-Integration O
-
-Headless O
-Browser O
-Testing O
-with O
-HTML O
-UnitDriver O
+Worked O
+as O
+a O
+part O
+time O
+student O
+employee O
+at O
+the O
+Admission O
 & O
-Phantom O
-JS O
+Registration O
+, O
+Qatar O
+University O
 
+from O
+2013 O
+- O
+2014 O
+. O
 
-Web O
+Active O
+student O
+participation O
+in O
+UREP-15th O
+Cycle O
+, O
+QNRF O
+from O
+March-2014 O
+till O
+2015 O
+. O
+
+Active O
+student O
+participation O
+at O
+International O
+Petroleum O
 Technology O
+Conference O
+, O
+IPTC O
+- O
+Qatar O
+
+on O
+January O
+19 O
+- O
+22 O
+, O
+2014 O
+. O
+
+Attendance O
+at O
+the O
+Annual O
+Technical O
+Conference O
+and O
+Exhibition O
+, O
+SPE O
+at O
+New O
+Orleans O
+, O
+U.S.A. O
+
+on O
+September-2013 O
+. O
+. O
+
+Active O
+participation O
+as O
+a O
+presenter O
+at O
+26th O
+European O
+Conference O
+on O
+Operational O
+Research O
+in O
+
+July-2013 O
+at O
+Sapienza O
+University O
+of O
+Rome O
+, O
+Italy O
+. O
+
+SKILLS O
+/KNOWLEDGE O
+
+Computer O
+Literacy O
 : O
+
+- O
 HTML O
 , O
 CSS O
-, O
-JavaScript O
-, O
-PHP O
+& O
+SQL O
+( O
+Ongoing O
+) O
 
+- O
+Online O
+Course O
+on O
+Primavera O
+( O
+Ongoing O
+) O
 
+- O
+Project O
+Professional O
+Software O
+( O
+Ms O
+Project O
+) O
+
+- O
+Design O
+Application O
+: O
+AutoCAD O
+
+- O
 Database O
+Management O
+System O
 : O
 Oracle O
-Database O
-11 O
-g O
 , O
-MySQL O
-, O
-SQL O
+Simulation O
 
-
-Office O
-Applications O
+Program O
 : O
+Arena O
+
+- O
+Quality O
+& O
+Statistics O
+tools O
+: O
+Minitab O
+, O
+Matlab O
+, O
+SPSS O
+. O
+
+- O
 Microsoft O
 Office O
-2013 O
 ( O
 Word O
 , O
@@ -338,899 +810,456 @@ Excel O
 , O
 PowerPoint O
 , O
-Visio O
+Access O
 , O
 
 Outlook O
+and O
+Ms O
+Visio O
 ) O
 
 
-Operating O
-System O
+Language O
 : O
-Microsoft O
-Windows O
+Fluent O
+in O
+English O
 , O
-Linux O
 
+Bengali O
+, O
+Urdu O
+, O
+and O
+Hindi O
+. O
+Basic O
+
+in O
+Arabic O
+. O
+
+Presentation O
+Skill O
+: O
+Excellent O
 
 Communication O
-Tool O
-: O
-Slack O
-, O
-Cisco O
-WebEx O
-
-
-Compiler O
-: O
-Eclipse O
-, O
-IntelliJ O
-IDE O
-
-
-VCR O
-: O
-GitHub O
-, O
-Bitbucket O
-
-ACADEMIC O
-QUALIFICATION O
+Skill O
 : O
 
-Khulna Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-& Education_Institution_Name
-Technology Education_Institution_Name
-( Education_Institution_Name
-KUET Education_Institution_Name
-) Education_Institution_Name
-, O
-Bangladesh Education_Location
+Proficient O
+at O
+teamwork O
+. O
 
-B.Sc Education_Degree
-. Education_Degree
-In O
-Engineering Education_Subject
-in Education_Subject
-Electronics Education_Subject
-& Education_Subject
-Communication Education_Subject
-Engineering Education_Subject
-, O
-September Education_End_Year
-2014 Education_End_Year
+Leadership O
+skill O
+& O
 
-GPA Education_Result
-3.39/4.0 Education_Result
+Interpersonal O
+skills O
+: O
+Excellent O
 
 Academic O
 Qualification O
+: O
 
-
-B.Sc Education_Degree
-. Education_Degree
+Masters Education_Degree
 in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-( O
-2008 Education_End_Year
-) O
-
-B.Sc Education_Degree
-. Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-( O
-2008 Education_End_Year
-) O
-
-United Education_Institution_Name
-International Education_Institution_Name
-University Education_Institution_Name
-( Education_Institution_Name
-UIU Education_Institution_Name
-) Education_Institution_Name
-, Education_Institution_Name
-Dhaka Education_Institution_Name
-. Education_Institution_Name
-
-United Education_Institution_Name
-International Education_Institution_Name
-University Education_Institution_Name
-( Education_Institution_Name
-UIU Education_Institution_Name
-) Education_Institution_Name
-, Education_Institution_Name
-Dhaka Education_Institution_Name
-. Education_Institution_Name
-
-CGPA Education_Result
-Obtained Education_Result
-: Education_Result
-3.74 Education_Result
-in Education_Result
-scale Education_Result
-of Education_Result
-4.00 Education_Result
-. Education_Result
-
-
-Github O
-Projects O
-
-
-Angular O
-2 O
-: O
-https://easyworkorderclient.herokuapp.com O
-
-
-Ionic O
-3 O
-: O
-https://github.com/jonline/mkit O
-( O
-NodeJs O
-
-
-
-
-Page O
-1 O
-of O
-2 O
-
-https://easyworkorderclient.herokuapp.com O
-Repo O
-: O
-( O
-https://github.com/easyworkorder/angular O
-
-https://github.com/easyworkorder/angular O
-) O
-
-( O
-NodeJs O
-REST O
-API O
-with O
-MongoDB O
-) O
-
-Resume O
-of O
-Md. O
-Shahinur O
-Islam O
-
-Resume O
-of O
-Md. O
-Shahinur O
-Islam O
-
-ACADEMIC O
-QUALIFICATION O
-: O
-
-Khulna Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-& Education_Institution_Name
-Technology Education_Institution_Name
-( Education_Institution_Name
-KUET Education_Institution_Name
-) Education_Institution_Name
-, O
-Bangladesh Education_Location
-
-B.Sc Education_Degree
-. O
-In O
-Engineering Education_Subject
-in Education_Subject
-Electronics Education_Subject
-& Education_Subject
-Communication Education_Subject
-Engineering Education_Subject
-, O
-September Education_End_Year
-2014 Education_End_Year
-
-GPA Education_Result
-3.39/4.0 Education_Result
-
-Education O
-
-Jahangirnagar O
-University O
-
-B.SC O
-. O
-IN O
-COMPUTER O
-SCIENCE O
-AND O
-ENGINEERING O
-
-CGPA O
-3.70 O
-out O
-of O
-4.00 O
-( O
-upto O
-7th O
-semester O
-) O
-
-EDUCATION O
-
-S.S.C. O
-
-DHAKA O
-RESIDENTIAL O
-MODEL O
-COLLEGE O
-
-2008 O
-, O
-GPA(cid:24)5 O
-
-H.S.C. O
-
-DHAKA O
-RESIDENTIAL O
-MODEL O
-COLLEGE O
-
-2010 O
-, O
-GPA(cid:24)5 O
-
-B.Sc O
-. O
-
-AERONAUTICAL O
-ENGINEERING O
-
-MILITARY O
-INSTITUTE O
-OF O
-SCIENCE O
-AND O
-
-TECHNOLOGY O
-, O
-2015 O
-, O
-CGPA(cid:24)3.75 O
-
-CONTACTS O
-
-545/1 O
-PURATAN O
-DONIA O
-, O
-
-KADOMTALI O
-, O
-DHAKA(cid:24)1236 O
-
-+8801677134838 O
-, O
-+8801520102613 O
-
-fardim_drmc_9094@yahoo.com O
-
-ACADEMIC O
-QUALIFICATION O
-
-2015 Education_Start_Year
-- O
-2019 Education_End_Year
-		 O
-B.Sc Education_Degree
-. O
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
+Information Education_Subject
+Technology Education_Subject
 ( Education_Subject
-CSE Education_Subject
+IT Education_Subject
 ) Education_Subject
-
-American Education_Institution_Name
-International Education_Institution_Name
+from O
+Jahangirnagar Education_Institution_Name
 University Education_Institution_Name
-Bangladesh Education_Institution_Name
-( Education_Institution_Name
-AIUB Education_Institution_Name
-) Education_Institution_Name
+from O
+2018 Education_Start_Year
+to O
+present O
 
+( O
+Appeared O
+) O
+. O
+
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+from O
+
+National Education_Institution_Name
+University Education_Institution_Name
+of O
+Bangladesh Education_Location
+in O
+2015 Education_End_Year
+with O
 CGPA Education_Result
-: Education_Result
-3.85 Education_Result
+2.87 Education_Result
 out Education_Result
 of Education_Result
 4.00 Education_Result
 
-2012 Education_Start_Year
-2014 Education_End_Year
-		 O
-Higher Education_Degree
-Secondary Education_Degree
-Certificate Education_Degree
-( Education_Degree
 HSC Education_Degree
-) Education_Degree
-
-Rangpur Education_Institution_Name
-Government Education_Institution_Name
+in O
+Science Education_Subject
+from O
+Police Education_Institution_Name
+Lines Education_Institution_Name
+School Education_Institution_Name
+and Education_Institution_Name
 College Education_Institution_Name
 , O
 Rangpur Education_Location
-
-Group Education_Subject
-: Education_Subject
-Science Education_Subject
-
-Result Education_Result
-: Education_Result
-4.70 Education_Result
-( Education_Result
+in O
+2011 Education_End_Year
+with O
+GPA Education_Result
+3.40 Education_Result
 out Education_Result
 of Education_Result
-5 Education_Result
-) Education_Result
 
-2010 Education_Start_Year
-2012 Education_End_Year
-		 O
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
+5.00 Education_Result
+
 SSC Education_Degree
-) Education_Degree
-
-Rangpur Education_Institution_Name
-Zilla Education_Institution_Name
+in O
+Science Education_Subject
+from O
+Police Education_Institution_Name
+Lines Education_Institution_Name
 School Education_Institution_Name
+and Education_Institution_Name
+College Education_Institution_Name
 , O
 Rangpur Education_Location
-
-Group Education_Subject
-: Education_Subject
-Science Education_Subject
-
-Result Education_Result
-: Education_Result
+in O
+2008 Education_End_Year
+with O
+GPA Education_Result
 5.00 Education_Result
-( Education_Result
 out Education_Result
 of Education_Result
-5 Education_Result
-) Education_Result
 
-ACADEMIC O
-SKILLS O
+5.00 Education_Result
+
+
+
+
+
+
+
+
+
+Volunteer O
+Working O
+Expertise O
+: O
+
+
+Participated O
+National O
+Hackathon O
+2016 O
+Organized O
+by O
+ICT O
+Ministry O
+of O
+Bangladesh O
+. O
+
+Participated O
+different O
+types O
+of O
+ICT O
+fest O
+Organized O
+by O
+ICT O
+Ministry O
+of O
+Bangladesh O
+. O
+
+Participated O
+in O
+many O
+Quiz O
+competitions O
+held O
+in O
+School O
+, O
+college O
+& O
+university O
+. O
+
+Worked O
+as O
+a O
+volunteer O
+on O
+donating O
+Blood O
+at O
+Badhon O
+Rangpur O
+Zone O
+
+Member O
+of O
+Prothom O
+Alo O
+Bondhu O
+Shova O
+. O
+
+
+
+Interest O
+and O
+Hobbies O
+: O
+Traveling O
+, O
+Reading O
+books O
+, O
+Listening O
+music O
+and O
+watching O
+sports O
+etc O
+. O
+
+
+Computer O
+Skill O
+: O
+Microsoft O
+Office O
+, O
+Adobe O
+Illustrator O
+, O
+Photoshop O
+, O
+Graphics O
+Designing O
+, O
+Network O
+
+Troubleshooting O
+, O
+Handling O
+Network O
+Architecture O
+. O
+
 
 Programming O
 Language O
 : O
+Android O
+OS O
+, O
+PHP O
+, O
+JAVA O
+, O
 Java O
+Script O
+, O
+jQuery O
 , O
 C O
 # O
 , O
 C++ O
 , O
-C. O
-
-Web O
-/ O
-Scripting O
-Language O
-: O
-PHP O
-, O
-JavaScript O
+OOP O
 , O
 Laravel O
 , O
-Node O
-. O
-JS O
-, O
-AJAX O
-, O
-Object O
-Oriented O
-PHP O
-, O
-jQuery O
-, O
-XML O
-, O
-JSON O
-, O
-MVC O
+
+CodeIgniter O
+& O
+Wordpress O
 Framework O
-, O
-HTML O
-, O
-CSS O
-, O
-Bootstrap O
 . O
 
-Database O
+
+Professional O
+Strength O
 : O
-MySQL O
+
+
+Highly O
+competent O
+in O
+Web O
+Application O
 , O
-Oracle O
+Android O
+Application O
 , O
-PL O
-/ O
-SQL O
-, O
-LINQ O
+Graphics O
+& O
+MS O
+Office O
 . O
 
-Software O
-Testing O
-: O
-Whitebox O
-testing O
+Report O
+Writing O
+Skills O
 , O
-Blackbox O
-testing O
-, O
-Smoke O
-testing O
-, O
-Agile O
-Software O
-Development O
-, O
-Software O
-Quality O
-Assurance O
-, O
-Test O
-Plan O
-Preparation O
-, O
-Test O
-Case O
-development O
-and O
-execution O
-. O
-
-Operating O
-System O
-: O
-Windows O
-, O
-Linux O
-. O
-
-ACADEMIC O
-RESEARCH O
-
-	 O
 Research O
-Title O
-: O
-Ongoing O
-research O
-based O
-on O
-Artificial O
-Intelligence O
-titled O
-Intelligent O
-Virtual O
-Assistant O
-and O
-Automated O
-Data O
-Analyst O
-. O
-
-	 O
-Role O
-: O
-Team O
-Leader O
-
-	 O
-Description O
-: O
-This O
-thesis O
-aims O
-to O
-build O
-an O
-AI O
-based O
-Intelligent O
-Virtual O
-Assistant O
-which O
-takes O
-user O
-s O
-voice O
-as O
-command O
-and O
-assist O
-User O
-by O
-analyzing O
-data O
-and O
-performing O
-desired O
-tasks O
-. O
-
-		 O
-Link O
-: O
-https://www.bdtourinfo.com/ O
-
-	 O
-
-PROJECTS O
-ACCOMPLISHED O
-
-Laravel O
-: O
-Online O
-Tour O
-Guide O
-( O
-BDTourInfo O
-) O
-
-Language O
 & O
-Other O
-: O
-Laravel O
-, O
-Eloquent O
-, O
-AJAX O
-, O
-MySQL O
-, O
-HTML O
-, O
-CSS O
-, O
-Bootstrap O
-, O
-MVC O
+Analysis O
 
-Description O
-: O
-An O
-Online O
-Tourism O
-portal O
-where O
-User O
-can O
-easily O
-find O
-tourism O
-places O
+Strong O
+analytical O
 , O
-their O
-descriptions O
-, O
-images O
-, O
-map O
-directions O
-, O
-map O
-routes O
-, O
-hotels O
+presentation O
 and O
-other O
-nearby O
-places O
+interpersonal O
+Skill O
 . O
 
-NodeJS O
-: O
-Online O
-Tour O
-Guide O
+Quick O
+learner O
+, O
+proactive O
+, O
+team O
+player O
+, O
+good O
+listener O
+. O
 
-Language O
+
+Interpersonal O
 & O
-Other O
-: O
-Node O
-. O
-JS O
-, O
-AJAX O
-, O
-MySQL O
-, O
-HTML O
-, O
-CSS O
-, O
-Bootstrap O
-, O
-MVC O
-
-Description O
-: O
-An O
-Online O
-Tourism O
-portal O
-where O
-User O
-can O
-easily O
-find O
-tourism O
-places O
-, O
-their O
-descriptions O
-, O
-images O
-, O
-map O
-directions O
-, O
-map O
-routes O
-, O
-hotels O
-and O
-other O
-nearby O
-places O
-. O
-
-PHP O
-: O
-AIUB O
-Project O
-Management O
-System O
-
-Language O
-& O
-Other O
-: O
-PHP O
-, O
-JavaScript O
-, O
-AJAX O
-, O
-MySQL O
-, O
-HTML O
-, O
-CSS O
-, O
-Bootstrap O
-
-Description O
-: O
-An O
-online O
-Student O
-Project O
-Management O
-system O
-by O
-which O
-Students O
-as O
-well O
-as O
-Faculty O
-can O
-easily O
-create O
-, O
-modify O
-, O
-delete O
-project O
-groups O
-and O
-Faculty O
-can O
-take O
-VIVA O
-of O
-the O
-project O
-groups O
-. O
-
-PHP O
-: O
-Online O
-Library O
-Management O
-System O
-
-Language O
-& O
-Other O
-: O
-PHP O
-, O
-Oracle O
-database O
-, O
-HTML O
-, O
-CSS O
-, O
-Bootstrap O
-
-Description O
-: O
-An O
-online O
-Library O
-Management O
-system O
-by O
-which O
-librarian O
-can O
-easily O
-keep O
-trace O
-of O
-the O
-books O
-. O
-
-C O
-# O
-: O
-AIUB O
-Project O
-Management O
-System O
-
-Language O
-& O
-Others O
-: O
-C O
-# O
-, O
-LINQ O
-. O
-
-Description O
-: O
-A O
-Student O
-Project O
-Management O
-system O
-by O
-which O
-Faculty O
-can O
-easily O
-create O
-, O
-modify O
-, O
-delete O
-project O
-groups O
-and O
-take O
-VIVA O
-of O
-the O
-groups O
-. O
-
-JAVA O
-: O
-AIUB O
-Project O
-Management O
-System O
-
-Language O
-& O
-Others O
-: O
-Java O
-, O
-MySQL O
-. O
-
-Description O
-: O
-A O
-Student O
-Project O
-Management O
-system O
-by O
-which O
-Faculty O
-can O
-easily O
-create O
-, O
-modify O
-, O
-delete O
-project O
-groups O
-and O
-take O
-VIVA O
-of O
-the O
-groups O
-. O
-	 O
-
-PERSONAL O
-QUALITIES O
+Communication O
+Skills O
 
 Ability O
 to O
-cope O
-up O
-with O
-different O
-situations O
+do O
+multi O
+task O
+& O
+work O
+under O
+pressure O
+. O
 
-Strong O
-problem O
-- O
-solving O
+Education O
+: O
+
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+engineering Education_Subject
+, O
+CGPA:3.48 Education_Result
+, O
+American Education_Institution_Name
+International Education_Institution_Name
+
+University Education_Institution_Name
+- Education_Institution_Name
+Bangladesh Education_Institution_Name
+( Education_Institution_Name
+AIUB Education_Institution_Name
+) Education_Institution_Name
+
+H.S.C. Education_Degree
+( O
+Science Education_Subject
+) O
+, O
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+, O
+Gaibandha Education_Institution_Name
+Government Education_Institution_Name
+College Education_Institution_Name
+, O
+Gaibandha Education_Location
+, O
+2013 Education_End_Year
+. O
+
+S.S.C. Education_Institution_Name
+( O
+Science Education_Subject
+) O
+, O
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+, O
+Gaibandha Education_Location
+Government Education_Institution_Name
+Girls Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+, O
+Gaibandha Education_Location
+, O
+
+2011 Education_End_Year
+. O
+
+
+Language O
+Proficiency O
+: O
+Bangla O
+, O
+English O
+
+
+Personal O
+Summary O
+: O
+
+Completed O
+a O
+course O
+on O
+Software O
+Quality O
+Assurance O
 and O
-decision O
-- O
-making O
-ability O
+Testing O
+
+A O
+good O
+understanding O
+of O
+the O
+software O
+testing O
+methodology O
 
 Able O
 to O
@@ -1242,92 +1271,3904 @@ meet O
 tight O
 deadlines O
 
-Co O
-- O
-operative O
-, O
-Innovative O
-& O
 Hardworking O
+, O
+punctual O
+and O
+a O
+good O
+team O
+player O
 
-Organizing O
-& O
-leadership O
-competence O
+Responsible O
+, O
+Dependable O
+, O
+Self O
+- O
+directed O
+and O
+self O
+- O
+motivated O
+
+
+Academic O
+Research O
+: O
+
+Did O
+a O
+final O
+year O
+research O
+on O
+Green O
+wireless O
+communication O
+on O
+networks O
+
+Homomorphic O
+encryption O
+for O
+the O
+security O
+purpose O
+of O
+the O
+cloud O
+computing.(Thesis O
+) O
+
+EDUCATION O
+
+2012 Education_End_Year
+	 O
+B.Tech Education_Degree
+. Education_Degree
+In O
+Information Education_Subject
+Technology Education_Subject
+from O
+Aryabhatta Education_Institution_Name
+Institute Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+and Education_Institution_Name
+Management Education_Institution_Name
+Durgapur Education_Location
+affiliated O
+to O
+West Education_Institution_Name
+Bengal Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Technology Education_Institution_Name
+with O
+8.13 Education_Result
+CGPA Education_Result
+
+2005 Education_End_Year
+	 O
+12th Education_Degree
+from O
+Santinagar Education_Institution_Name
+Vidyamandir Education_Institution_Name
+, O
+Burnpur Education_Location
+, O
+affiliated O
+to O
+West Education_Institution_Name
+Bengal Education_Institution_Name
+Council Education_Institution_Name
+of Education_Institution_Name
+Higher Education_Institution_Name
+Secondary Education_Institution_Name
+Education Education_Institution_Name
+with O
+65 Education_Result
+% Education_Result
+
+2003 Education_End_Year
+	 O
+10th Education_Degree
+from O
+Subahspalli Education_Institution_Name
+Bidyaniketan Education_Institution_Name
+, O
+Burnpur Education_Location
+affiliated O
+to O
+West Education_Institution_Name
+Bengal Education_Institution_Name
+Board Education_Institution_Name
+of Education_Institution_Name
+Secondary Education_Institution_Name
+Education Education_Institution_Name
+with O
+71.25 Education_Result
+% Education_Result
 
 PERSONAL O
 DETAILS O
 
-Name O
-: O
-F. O
-M. O
-ASIF O
-- O
-UZ O
-- O
-ZAMAN O
+	 O
 
 Date O
 of O
 Birth O
 : O
-February O
-6 O
-, O
-1997 O
+		 O
+28th O
+October O
+1987 O
 
-Father O
-s O
-Name O
+Blood O
+Group O
 : O
-A. O
-T. O
-M. O
-Asaduzzaman O
-
-Mother O
-s O
-Name O
-: O
-Gafi O
-Farida O
-Zaman O
-
-Present O
-( O
-Mailing O
+		 O
+A+(ve O
 ) O
-address O
-: O
-House O
-: O
-KA O
-164 O
-, O
-Road:1 O
-, O
-Kuril O
-Mridhabari O
-, O
-Kuril O
-, O
-Dhaka-1229 O
 
-Contact O
-No O
+Marital O
+Status O
+: O
+		 O
+Married O
+
+Current O
+Address O
+: O
+	 O
+10th O
+D O
+Main O
+Road O
+, O
+Dodda O
+Banaswadi O
+, O
+Bangalore-560043 O
+
+Permanent O
+Address O
+: O
+	 O
+Puranahat O
+, O
+Near O
+Athletic O
+club O
+, O
+P.O O
+- O
+Burnpur O
+, O
+City O
+- O
+Asansol O
+, O
+West O
+Bengal-713325 O
+
+Languages O
+Known O
+: O
+	 O
+English O
+, O
+Bengali O
+& O
+Hindi O
+
+EDUCATION O
+
+Competed O
+Diploma Education_Degree
+in O
+Advanced Education_Subject
+Computing Education_Subject
+from O
+CDAC Education_Institution_Name
+- O
+Bangalore Education_Location
+in O
+2006 Education_End_Year
+
+M.Sc Education_Degree
+. Education_Degree
+( O
+Computer Education_Subject
+Science Education_Subject
+) O
+in O
+2005 Education_End_Year
+
+B.C.S. Education_Degree
+from O
+MGM Education_Institution_Name
+s Education_Institution_Name
+college Education_Institution_Name
+of O
+Computer Education_Subject
+Science Education_Subject
+in O
+2003 Education_End_Year
+respectively O
+
+PERSONAL O
+DETAILS O
+
+Date O
+of O
+Birth O
+: O
+					 O
+22nd O
+June O
+, O
+1982 O
+
+Languages O
+Known O
+: O
+				 O
+English O
+, O
+Hindi O
+and O
+Marathi O
+
+Passport O
+	 O
+: O
+						 O
+H3335027 O
+valid O
+till O
+08-Apr-2019 O
+and O
+Issued O
+at O
+Bangalore O
+
+EDUCATION O
+
+
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Electrical Education_Subject
+and Education_Subject
+Electronic Education_Subject
+Engineering Education_Subject
+( O
+2014 Education_Start_Year
+- O
+2018 Education_End_Year
+) O
+
+From O
+Ahsanullah Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+& Education_Institution_Name
+Technology Education_Institution_Name
+( Education_Institution_Name
+AUST Education_Institution_Name
+) Education_Institution_Name
+
+CGPA Education_Result
+3.477 Education_Result
+out Education_Result
+of Education_Result
+4.00 Education_Result
+
+
+Higher Education_Degree
+Secondary Education_Degree
+Certificate Education_Degree
+( Education_Degree
+HSC Education_Degree
+) Education_Degree
+( O
+2011 Education_Start_Year
+- O
+2013 Education_End_Year
+) O
+
+From O
+Holy Education_Institution_Name
+Cross Education_Institution_Name
+College Education_Institution_Name
+, O
+Dhaka Education_Location
+
+GPA Education_Result
+5.00 Education_Result
+out Education_Result
+of Education_Result
+5.00 Education_Result
+( O
+without O
+fourth O
+subject O
+) O
+
+
+Secondary Education_Degree
+School Education_Degree
+Certificate Education_Degree
+( Education_Degree
+SSC Education_Degree
+) Education_Degree
+( O
+2011 Education_End_Year
+) O
+
+From O
+Tejgaon Education_Institution_Name
+Government Education_Institution_Name
+Girls Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+Dhaka Education_Location
+
+GPA Education_Result
+5.00 Education_Result
+out Education_Result
+of Education_Result
+5.00 Education_Result
+( O
+without O
+fourth O
+subject O
+) O
+
+
+
+COMPUTER O
+SKILLS O
+
+
+Programming O
+Language O
+: O
+C O
+/ O
+C++ O
+
+Numerical O
+Analysis O
+: O
+MATLAB O
+
+Electrical O
+Circuit O
+Simulation O
+: O
+Orcade O
+
+Word O
+Processing O
+and O
+Presentation O
+: O
+MS O
+Word O
+, O
+MS O
+Power O
+Point O
+, O
+MS O
+Excel O
+
+EDA O
+Tools O
+and O
+IP O
+System O
+Enablement O
+: O
+Cadence O
+
+
+
+THESIS O
+WORKS O
+
+
+Comparing O
+the O
+BER O
+performance O
+of O
+SFBC O
+- O
+OFDM O
+system O
+with O
+STBC O
+- O
+OFDM O
+system O
+in O
+fading O
+
+MIMO O
+channel O
 . O
-: O
-+8801763242444 O
 
-Nationality O
+
+PROJECT O
+WORKS O
+
+
+Determination O
+of O
+level O
+of O
+water O
+using O
+an O
+alarm O
+circuit O
+. O
+
+Design O
+and O
+implementation O
+of O
+fire O
+alarm O
+circuit O
+. O
+
+Design O
+and O
+implementation O
+of O
+blind O
+walking O
+stick O
+using O
+arduino O
+and O
+sensors O
+. O
+
+
+
+LEADERSHIP O
+EXPERIENCE O
+
+
+Served O
+as O
+a O
+volunteer O
+in O
+Engenius O
+, O
+Aust O
+EEE O
+Project O
+Fair O
+
+Senior O
+Member O
+at O
+AUST O
+EEE O
+Society O
+
+Served O
+as O
+Senior O
+Member O
+at O
+Holy O
+Cross O
+College O
+, O
+Dhaka O
+
+EDUCATION O
+
+
+o O
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+, O
+Department O
+of O
+Computer Education_Subject
+Science Education_Subject
+& Education_Subject
+Engineering Education_Subject
+, O
+World Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+
+Bangladesh Education_Institution_Name
+, O
+Dhaka Education_Location
+, Education_Location
+Bangladesh Education_Location
+( O
+GPA Education_Result
+3.25 Education_Result
+Out Education_Result
+of Education_Result
+4.00 Education_Result
+) O
+, O
+2015 Education_End_Year
+. O
+
+
+o O
+Diploma Education_Degree
+- Education_Degree
+in Education_Degree
+- Education_Degree
+Engineering Education_Degree
+, O
+Department O
+of O
+Computer Education_Subject
+Technology Education_Subject
+, O
+Barisal Education_Location
+Polytechnic Education_Institution_Name
+Institute Education_Institution_Name
+, O
+
+Barisal Education_Location
+, Education_Location
+Bangladesh Education_Location
+. O
+( O
+GPA Education_Result
+3.19 Education_Result
+Out Education_Result
+of Education_Result
+4.00 Education_Result
+) O
+, O
+2009 Education_End_Year
+. O
+
+
+o O
+SSC Education_Degree
+, O
+Science Education_Subject
+, O
+Govt Education_Institution_Name
+K.G. Education_Institution_Name
+Union Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+, O
+Barisal Education_Location
+( O
+GPA Education_Result
+4.69 Education_Result
+Out Education_Result
+of Education_Result
+5.00 Education_Result
+) O
+, O
+2005 Education_End_Year
+. O
+
+
+PROJECTS O
+DETAIL O
+
+
+o O
+Title O
+
+
+
+
+Duration O
+
+
+Team O
+Size O
+
+Role O
+Played O
+
+
+Technology O
+Used O
+
+
 : O
+Design O
+and O
+implementation O
+of O
+cloud O
+network O
+using O
+XenServer O
+
+: O
+July O
+2015 O
+October O
+2015 O
+
+: O
+3 O
+
+: O
+Designer O
+and O
+Developer O
+
+: O
+Citrix O
+Xenserver O
+, O
+Red O
+Hat O
+Enterprise O
+Linux O
+, O
+MySQL O
+
+In O
+this O
+project O
+we O
+deploy O
+some O
+server O
+to O
+give O
+related O
+services O
+to O
+a O
+enterprise O
+network O
+. O
+In O
+conventional O
+
+process O
+it O
+requires O
+dedicated O
+hardware O
+for O
+each O
+server O
+. O
+However O
+, O
+in O
+Citrix O
+Xenserver O
+platform O
+all O
+servers O
+
+share O
+their O
+resource O
+pool O
+and O
+all O
+VMs O
+act O
+like O
+as O
+a O
+physical O
+machine O
+. O
+With O
+XenServer O
+, O
+there O
+is O
+no O
+need O
+to O
+
+configure O
+a O
+complex O
+management O
+infrastructure O
+or O
+create O
+a O
+dedicated O
+storage O
+network O
+. O
+Simply O
+install O
+
+XenServer O
+on O
+any O
+x86 O
+, O
+64-bit O
+server O
+that O
+has O
+Intel O
+- O
+VT O
+or O
+AMD O
+- O
+V O
+technology O
+, O
+install O
+Citrix O
+XenCenter O
+on O
+
+any O
+Microsoft O
+Windows O
+desktop O
+, O
+and O
+then O
+start O
+virtualizing O
+workloads O
+. O
+XenCenter O
+management O
+console O
+
+allows O
+IT O
+staff O
+to O
+easily O
+monitor O
+, O
+manage O
+and O
+administer O
+hundreds O
+of O
+VMs O
+from O
+a O
+centralized O
+, O
+highly O
+
+available O
+management O
+console O
+. O
+Using O
+XenCenter O
+, O
+VMs O
+can O
+be O
+started O
+, O
+stopped O
+, O
+migrated O
+, O
+created O
+, O
+copied O
+
+and O
+backed O
+- O
+up O
+all O
+with O
+a O
+couple O
+of O
+mouse O
+clicks O
+. O
+The O
+XenServer O
+management O
+architecture O
+distributes O
+
+server O
+management O
+data O
+across O
+the O
+servers O
+in O
+a O
+resource O
+pool O
+to O
+ensure O
+that O
+there O
+is O
+no O
+single O
+point O
+of O
+
+management O
+failure O
+. O
+
+
+o O
+Title O
+
+
+
+
+Duration O
+
+
+Team O
+Size O
+
+
+Role O
+Played O
+
+Technology O
+Used O
+
+
+: O
+Oracle O
+database O
+configuration O
+on O
+cloud O
+platform O
+
+: O
+Jan O
+2015 O
+March O
+2015 O
+
+: O
+2 O
+
+: O
+Designer O
+and O
+Developer O
+
+: O
+VMware O
+ESXI O
+5.1.0 O
+, O
+Oracle O
+11 O
+g O
+, O
+Oracle O
+Linux O
+5.5 O
+
+Suvas O
+Chandra O
+Das O
+
+Rita O
+Rani O
+Das O
+
+15th O
+October O
+, O
+1990 O
+
+Barisal O
+
 Bangladeshi O
 
-Religion O
-: O
-Islam O
+Hindu O
 
-Website O
+Single O
+
+19900619494000108 O
+
+BK0301221 O
+
+B O
+Positive O
+( O
+B+ O
+) O
+
+We O
+design O
+a O
+robust O
+oracle O
+database O
+on O
+a O
+cloud O
+platform O
+in O
+this O
+project O
+. O
+Ignoring O
+the O
+conventional O
+process O
+
+we O
+using O
+VMware O
+ESXI O
+as O
+a O
+cloud O
+platform O
+and O
+Oracle O
+Linux O
+5.5 O
+as O
+OS O
+for O
+VM O
+. O
+After O
+setup O
+all O
+pre O
+
+repository O
+we O
+configure O
+oracle O
+database O
+in O
+a O
+public O
+cloud O
+. O
+We O
+also O
+use O
+some O
+application O
+whereas O
+their O
+
+database O
+integrated O
+to O
+our O
+public O
+cloud O
+database O
+. O
+
+EDUCATION O
+
+C.S.E Education_Subject
+( O
+Under Education_Degree
+- Education_Degree
+graduation Education_Degree
+) O
+
+BRAC Education_Institution_Name
+University Education_Institution_Name
+
+2015 Education_Start_Year
+2019 Education_End_Year
+
+Education O
+
+Lamar Education_Institution_Name
+University Education_Institution_Name
+	 O
+Beaumont Education_Location
+, Education_Location
+TX Education_Location
+
+Master Education_Degree
+of O
+Computer Education_Subject
+Science Education_Subject
+	 O
+Graduated O
+in O
+2015 Education_End_Year
+
+( O
+USA Education_Location
+) O
+GPA Education_Result
+3.64 Education_Result
+
+Education O
+
+2018 O
+
+2014 O
+
+2012 O
+
+Bsc Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+& Education_Subject
+Engineering Education_Subject
+
+Patuakhali Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+University Education_Institution_Name
+
+Higher Education_Degree
+Secondary Education_Degree
+Certificate Education_Degree
+
+Bangladesh Education_Institution_Name
+Air Education_Institution_Name
+Force Education_Institution_Name
+Shaheen Education_Institution_Name
+College Education_Institution_Name
+Dhaka Education_Location
+
+Secondary Education_Degree
+School Education_Degree
+Certificate Education_Degree
+
+Border Education_Institution_Name
+Guard Education_Institution_Name
+Public Education_Institution_Name
+School Education_Institution_Name
+and Education_Institution_Name
+College Education_Institution_Name
+Sylhet Education_Location
+
+EDUCATION O
+
+
+Ganpat Education_Institution_Name
+University Education_Institution_Name
+[ O
+June Education_Start_Year
+2010 Education_Start_Year
+June Education_End_Year
+2014 Education_End_Year
+] O
+
+Bachelor Education_Degree
+of Education_Degree
+Technology Education_Degree
+
+Electronics Education_Subject
+& Education_Subject
+Communications Education_Subject
+
+Aggregate Education_Result
+Percentage Education_Result
+( Education_Result
+CGPA Education_Result
+) Education_Result
+: Education_Result
+7.37 Education_Result
+( O
+Distinction O
+) O
+
+
+EXTRA O
+CURRICULAR O
+ACTIVITIES O
+
+
+
+
+Participated O
+in O
+convergence O
+on O
 : O
-http://www.asifuzzaman.com/ O
+
+Antenna O
+Design O
+( O
+2013 O
+) O
+
+Circuit O
+Designing O
+( O
+2012 O
+) O
+
+Participated O
+in O
+Xcelero O
+workshop O
+conducted O
+by O
+Think O
+- O
+LABS O
+sine O
+by O
+IIT- O
+
+Bombay O
+. O
+
+ACADEMIC O
+QUALIFICATION O
+: O
+
+	 O
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+( Education_Degree
+B.SC Education_Degree
+. Education_Degree
+) Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+, O
+2018 O
+( O
+2014 Education_Start_Year
+- O
+2019 Education_End_Year
+) O
+
+	 O
+East Education_Institution_Name
+West Education_Institution_Name
+University Education_Institution_Name
+, O
+Dhaka Education_Location
+, Education_Location
+Bangladesh Education_Location
+
+	 O
+CGPA Education_Result
+: Education_Result
+2.52 Education_Result
+( Education_Result
+Out Education_Result
+of Education_Result
+4 Education_Result
+) Education_Result
+
+	 O
+
+	 O
+Higher Education_Degree
+Secondary Education_Degree
+Certificate Education_Degree
+( Education_Degree
+H.S.C),2014 Education_Degree
+
+	 O
+Rangpur Education_Location
+Govt Education_Institution_Name
+. Education_Institution_Name
+College Education_Institution_Name
+
+	 O
+GPA Education_Result
+: Education_Result
+4.50 Education_Result
+( Education_Result
+Out Education_Result
+of Education_Result
+5.00 Education_Result
+) Education_Result
+
+	 O
+
+	 O
+Secondary Education_Institution_Name
+School Education_Institution_Name
+Certificate Education_Institution_Name
+( Education_Institution_Name
+S.S.C Education_Institution_Name
+) Education_Institution_Name
+, O
+2012 Education_End_Year
+
+	 O
+Collectorate Education_Institution_Name
+School Education_Institution_Name
+& Education_Institution_Name
+College Education_Institution_Name
+, O
+Rangpur Education_Location
+
+	 O
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+( Education_Result
+Out Education_Result
+of Education_Result
+5.00 Education_Result
+) Education_Result
+
+	 O
+
+	 O
+TECHNICAL O
+SKILL O
+
+	 O
+Programming O
+Language O
+: O
+C O
+, O
+C++ O
+
+	 O
+
+	 O
+
+	 O
+Scripting O
+Language O
+: O
+JavaScript O
+
+	 O
+Web O
+Based O
+Technology O
+: O
+PHP O
+, O
+OOP O
+PHP O
+, O
+HTML5 O
+
+	 O
+
+	 O
+Hardware O
+: O
+Arduino O
+
+	 O
+
+	 O
+IDE O
+: O
+Code O
+Blocks O
+, O
+Arduino O
+
+	 O
+
+	 O
+
+	 O
+
+	 O
+
+	 O
+PROJECTS O
+: O
+
+Online O
+Job O
+Portal O
+System O
+: O
+A O
+web O
+based O
+project O
+, O
+can O
+be O
+useful O
+for O
+job O
+seekers O
+and O
+employers O
+to O
+finding O
+the O
+right O
+jobs O
+and O
+candidate O
+respectively O
+. O
+
+Language O
+: O
+PHP O
+, O
+HTML5 O
+, O
+CSS3 O
+, O
+Bootstrap O
+, O
+JavaScript O
+, O
+MySQL O
+
+Online O
+Banking O
+System O
+: O
+An O
+object O
+- O
+oriented O
+program O
+to O
+manage O
+the O
+banking O
+system O
+
+Language O
+: O
+C++ O
+
+Low O
+Battery O
+Indicator O
+: O
+A O
+hardware O
+based O
+project O
+to O
+indicate O
+when O
+the O
+battery O
+is O
+in O
+low O
+charge O
+
+Equipment O
+: O
+Breadboard O
+, O
+Voltage O
+Regulator O
+, O
+Resistor O
+, O
+Battery O
+, O
+Connecting O
+wires O
+, O
+LED O
+
+	 O
+
+	 O
+Distance O
+measurement O
+and O
+stable O
+Using O
+Arduino O
+: O
+A O
+microcontroller O
+based O
+project O
+which O
+measure O
+the O
+distance O
+and O
+stable O
+the O
+last O
+distance O
+
+	 O
+
+	 O
+Platform O
+: O
+It O
+is O
+basically O
+a O
+micro O
+- O
+controller O
+and O
+micro O
+- O
+processor O
+based O
+project O
+
+	 O
+
+	 O
+IoT O
+based O
+door O
+lock O
+system O
+: O
+An O
+IoT O
+based O
+project O
+in O
+which O
+a O
+door O
+is O
+automatically O
+open O
+by O
+fingerprint O
+authentication O
+and O
+voice O
+command O
+
+	 O
+
+	 O
+Equipment O
+: O
+Arduino O
+, O
+Fingerprint O
+sensor O
+, O
+Bluetooth O
+module O
+, O
+Servo O
+motor O
+, O
+Voltage O
+regulator O
+, O
+Lipo O
+battery O
+, O
+wires O
+, O
+breadboard O
+
+EDUCATION O
+
+
+Chittagong Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+
+BSc Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+2014 Education_End_Year
+
+
+
+
+CERTIFICATIONS O
+AND O
+TRAININGS O
+
+
+Udacity O
+Nanodegree O
+- O
+Self O
+Driving O
+Car O
+Engineer(Ongoing O
+) O
+
+
+
+NOTABLE O
+COMPETITIONS O
+AND O
+PROJECTS O
+
+Malignancy O
+Classification O
+from O
+DICOM O
+Images O
+of O
+Lungs O
+and O
+Breasts O
+Hosted O
+on O
+
+AWS O
+EC2 O
+
+
+Used O
+neural O
+net O
+, O
+svm O
+and O
+k O
+- O
+nearest O
+neighbors O
+to O
+classify O
+a O
+certain O
+patient O
+data O
+with O
+
+dicom O
+image O
+. O
+Also O
+, O
+used O
+computer O
+vision O
+to O
+extract O
+information O
+from O
+the O
+dicom O
+
+image O
+. O
+
+
+Predicting O
+Subscription O
+Termination O
+of O
+Customers O
+of O
+a O
+Purchased O
+Service O
+Plan O
+
+Hosted O
+on O
+AWS O
+EMR O
+
+
+Used O
+Mahout O
+and O
+Spark O
+for O
+data O
+crunching O
+and O
+applying O
+random O
+forest O
+algorithm O
+. O
+
+
+Auto O
+Generating O
+FAQ O
+Answers O
+for O
+a O
+Non O
+- O
+Profit O
+
+
+Answering O
+questions O
+from O
+users O
+by O
+querying O
+the O
+site O
+s O
+original O
+FAQ O
+and O
+news O
+
+reports O
+. O
+Used O
+Stanford O
+GloVe O
+dataset O
+to O
+find O
+word O
+relevance O
+
+
+Optical O
+Character O
+Recognition O
+System O
+for O
+Chakma O
+Script O
+
+
+Developed O
+the O
+first O
+full O
+- O
+fledged O
+optical O
+character O
+recognition O
+system O
+for O
+Chakma O
+
+alphabet O
+. O
+The O
+code O
+is O
+hosted O
+in O
+Github O
+as O
+an O
+open O
+source O
+project O
+. O
+
+
+NASA O
+s O
+4th O
+Annual O
+Lunabotics O
+Mining O
+Competition O
+, O
+2013 O
+
+
+Participated O
+in O
+the O
+competition O
+as O
+part O
+of O
+university O
+team O
+. O
+Designed O
+and O
+developed O
+
+the O
+teleoperation O
+, O
+control O
+and O
+sensor O
+system O
+in O
+JAVA O
+and O
+C. O
+The O
+competition O
+took O
+
+place O
+in O
+NASA O
+s O
+Kennedy O
+Space O
+Center O
+. O
+Our O
+team O
+took O
+22nd O
+place O
+out O
+50 O
+
+universities O
+from O
+around O
+the O
+world O
+. O
+
+EDUCATION O
+
+Computer Education_Degree
+Science Education_Degree
+& Education_Degree
+Engineering Education_Degree
+
+Bangladesh Education_Institution_Name
+Army Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+& Education_Institution_Name
+Technology Education_Institution_Name
+CGPA Education_Result
+: Education_Result
+3.75 Education_Result
+
+15/02/2015 Education_Start_Year
+21/03/2019 Education_End_Year
+
+Notable O
+Course O
+: O
+
+Data O
+Mining O
+& O
+Data O
+Warehousing O
+
+Artificial O
+Intelligence O
+
+Data O
+& O
+Network O
+Security O
+
+System O
+Analysis O
+& O
+Design O
+
+PROJECTS O
+
+Prediction O
+of O
+Software O
+Defects O
+for O
+Embedded O
+Real O
+- O
+Time O
+Systems O
+
+( O
+https://github.com/Rashid46/Projects/tree/master/Defect_Prediction O
+) O
+
+Machine O
+Learning O
+based O
+system O
+to O
+predict O
+potential O
+defects O
+of O
+different O
+software O
+modules O
+using O
+different O
+
+machine O
+learning O
+classifiers O
+. O
+
+
+Infogain O
+for O
+data O
+preprocessing O
+, O
+Decision O
+tree O
+, O
+Nave O
+Bayes O
+, O
+Support O
+Vector O
+Machine O
+, O
+Multi O
+- O
+Layer O
+
+Perceptron O
+, O
+Ensemble O
+Classifier O
+. O
+
+Routine O
+Management O
+System O
+
+( O
+https://github.com/Rashid46/Projects/tree/master/Routine_Management_System O
+) O
+
+A O
+web O
+based O
+project O
+to O
+create O
+routines O
+of O
+a O
+university O
+easily O
+and O
+effectively O
+. O
+
+Built O
+using O
+PHP O
+, O
+MySQL O
+
+College O
+Management O
+System O
+
+( O
+https://github.com/Rashid46/Projects/tree/master/CMS O
+) O
+
+A O
+file O
+based O
+system O
+that O
+can O
+do O
+several O
+tasks O
+to O
+manage O
+a O
+college O
+. O
+
+Built O
+using O
+C. O
+
+EDUCATION O
+: O
+
+University Education_Institution_Name
+of Education_Institution_Name
+Southern Education_Institution_Name
+California Education_Institution_Name
+, O
+Los Education_Location
+Angeles Education_Location
+
+Master Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Electrical Education_Subject
+Engineering Education_Subject
+
+Relevant O
+Courses O
+: O
+Pattern O
+Recognition O
+, O
+Digital O
+Image O
+Processing O
+, O
+Machine O
+Learning O
+, O
+Deep O
+Learning O
+, O
+Optimization O
+for O
+data O
+science O
+
+Gujarat O
+Technological O
+University O
+, O
+Ahmedabad O
+, O
+India O
+
+May Education_End_Year
+2017 Education_End_Year
+
+Bachelor Education_Degree
+of Education_Degree
+Technology Education_Degree
+in O
+Electrical Education_Subject
+Engineering Education_Subject
+
+Kansas Education_Institution_Name
+State Education_Institution_Name
+University Education_Institution_Name
+, O
+Kansas Education_Location
+June Education_Start_Year
+2016 Education_Start_Year
+August Education_End_Year
+2016 Education_End_Year
+
+Summer O
+Student O
+: O
+Worked O
+on O
+Signal O
+Processing O
+and O
+Wireless O
+Communication O
+
+Education O
+: O
+
+
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering,(CGPA Education_Subject
+: Education_Result
+3.92/4.00 Education_Result
+, O
+American Education_Institution_Name
+International Education_Institution_Name
+University- Education_Institution_Name
+
+Bangladesh Education_Location
+( O
+AIUB O
+) O
+
+H.S.C. Education_Degree
+( O
+Science Education_Subject
+) O
+, O
+Shaheed Education_Institution_Name
+Bir Education_Institution_Name
+Uttam Education_Institution_Name
+Lt Education_Institution_Name
+. Education_Institution_Name
+Anwar Education_Institution_Name
+Girls Education_Institution_Name
+College Education_Institution_Name
+( O
+GPA:5.00/5.00 Education_Result
+) O
+, O
+Dhaka Education_Location
+Board,2014 Education_Location
+
+S.S.C. Education_Degree
+( O
+Science Education_Subject
+) O
+, O
+Bottomley Education_Institution_Name
+Homes Education_Institution_Name
+Girls Education_Institution_Name
+School(GPA:4.88/5.00 Education_Institution_Name
+) O
+, O
+Dhaka Education_Location
+Board,2012 Education_Location
+
+
+
+Achievement O
+: O
+
+
+Dean O
+s O
+List O
+Award O
+. O
+
+
+Junior O
+Talent O
+pool O
+Scholarship O
+. O
+
+EDUCATION O
+
+B.Sc Education_Degree
+in Education_Degree
+Engineering Education_Degree
+
+Department O
+of O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+
+Shahjalal Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+, O
+Sylhet Education_Location
+. O
+
+Higher Education_Degree
+Secondary Education_Degree
+Certicate Education_Degree
+
+Rajuk Education_Institution_Name
+Uttara Education_Institution_Name
+Model Education_Institution_Name
+College Education_Institution_Name
+, O
+Uttara Education_Location
+, Education_Location
+Dhaka-1230 Education_Location
+. O
+
+Secondary Education_Degree
+School Education_Degree
+Certicate Education_Degree
+
+Moulvibazar Education_Institution_Name
+Govt Education_Institution_Name
+. Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+, O
+Moulvibazar-3200 Education_Location
+. O
+
+TECHNICAL O
+STRENGTHS O
+
+Computer O
+Languages O
+
+Software O
+& O
+Tools O
+
+Expertises O
+in O
+
+EDUCATION O
+
+M.Sc.(Engg Education_Degree
+. Education_Degree
+) Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+
+Jahangirnagar Education_Institution_Name
+University Education_Institution_Name
+
+Passing O
+year O
+: O
+2015 Education_End_Year
+. O
+
+
+B.Sc.(Engg Education_Degree
+. Education_Degree
+) Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+
+Jatiya Education_Institution_Name
+Kabi Education_Institution_Name
+Kazi Education_Institution_Name
+Nazrul Education_Institution_Name
+Islam Education_Institution_Name
+University Education_Institution_Name
+
+Passing O
+year O
+: O
+2010 Education_End_Year
+. O
+
+Education O
+
+
+Completed O
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+& Education_Subject
+Engineering Education_Subject
+from O
+American Education_Institution_Name
+International Education_Institution_Name
+
+University Education_Institution_Name
+Bangladesh Education_Institution_Name
+( Education_Institution_Name
+AIUB Education_Institution_Name
+) Education_Institution_Name
+in O
+2017 Education_End_Year
+with O
+a O
+CGPA Education_Result
+of Education_Result
+3.65 Education_Result
+
+
+Passed O
+H.S.C. Education_Degree
+in O
+Science Education_Subject
+from O
+South Education_Institution_Name
+Point Education_Institution_Name
+College Education_Institution_Name
+, O
+Dhaka Education_Location
+in O
+2013 Education_End_Year
+with O
+a O
+GPA Education_Result
+of Education_Result
+4.60 Education_Result
+
+
+Passed O
+S.S.C. Education_Degree
+in O
+Science Education_Subject
+from O
+Banani Education_Institution_Name
+Bidyaniketon Education_Institution_Name
+School Education_Institution_Name
+in O
+2011 Education_End_Year
+with O
+a O
+GPA Education_Result
+of Education_Result
+4.81 Education_Result
+
+Education O
+
+
+ULAB Education_Institution_Name
+B.Sc Education_Degree
+. Education_Degree
+in O
+C.S.E Education_Subject
+( O
+CGPA Education_Result
+: Education_Result
+3.84 Education_Result
+) O
+2011 Education_Start_Year
+- O
+2014 Education_End_Year
+
+
+British Education_Institution_Name
+Council Education_Institution_Name
+A Education_Degree
+levels Education_Degree
+2008 Education_Start_Year
+- O
+2010 Education_End_Year
+
+
+S.F.X Education_Institution_Name
+Greenherald Education_Institution_Name
+Int Education_Institution_Name
+. Education_Institution_Name
+School Education_Institution_Name
+O Education_Degree
+Levels Education_Degree
+1996 Education_Start_Year
+2008 Education_End_Year
+
+EDUCATION O
+
+B.Sc Education_Degree
+Engineering Education_Degree
+
+Bangladesh Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+
+Department O
+of O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+
+Higher Education_Degree
+Secondary Education_Degree
+Certicate Education_Degree
+
+Notre Education_Institution_Name
+Dame Education_Institution_Name
+College Education_Institution_Name
+, O
+Dhaka Education_Location
+
+Secondary Education_Degree
+School Education_Degree
+Certicate Education_Degree
+
+Dewaner Education_Institution_Name
+Char Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+, O
+Belabo Education_Location
+, Education_Location
+Narsingdi Education_Location
+
+RESEARCH O
+AREA O
+
+Natural O
+Language O
+Processing O
+
+Data O
+Mining O
+
+Information O
+Retrieval O
+
+Machine O
+Learning O
+
+43/18 O
+, O
+Sabujkanan O
+, O
+Atish O
+Dipankar O
+road O
+, O
+Dhaka-1214 O
+, O
+Bangladesh O
+
++880 O
+1629007110 O
+
+1305116.mrm@ugrad.cse.buet.ac.bd O
+
+https://www.linkedin.com/in/mia-md-raihan-228a16156/ O
+
+http://www.github.com/RaihanSabique?tab=repositories O
+
+2011 O
+- O
+2013 O
+
+2006 O
+- O
+2010 O
+
+2014 O
+- O
+2019 O
+
+Jun19- O
+
+Running O
+
+Education O
+: O
+
+American Education_Institution_Name
+International Education_Institution_Name
+University Education_Institution_Name
+- O
+Bangladesh Education_Location
+| O
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+
+Computer Education_Subject
+Science Education_Subject
+, O
+2018 Education_End_Year
+
+Dhaka Education_Institution_Name
+College Education_Institution_Name
+| O
+HSC Education_Degree
+
+Science Education_Subject
+, O
+2012 Education_End_Year
+
+Monipur Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+| O
+SSC Education_Degree
+
+Science Education_Subject
+, O
+2009 Education_End_Year
+
+Education O
+
+FreeCodeCamp O
+- O
+Full O
+Stack O
+Developer O
+
+Curriculum O
+[ O
+2 O
+] O
+
+Duration O
+: O
+October O
+, O
+2018 O
+- O
+Present O
+
+Status O
+: O
+Currently O
+learning O
+Redux O
+
+Technologies O
+: O
+HTML O
+, O
+CSS O
+, O
+CSS O
+GRID O
+, O
+CSS O
+Flexbox O
+, O
+
+JavaScript O
+, O
+jQuery O
+, O
+Bootstrap O
+3 O
+, O
+Sass O
+, O
+
+React O
+
+Kaggle O
+Learn O
+[ O
+3 O
+] O
+
+Duration O
+: O
+August O
+, O
+2018 O
+- O
+Present O
+
+Status O
+: O
+Currently O
+in O
+Machine O
+Learning O
+- O
+Level O
+2 O
+
+Technologies O
+: O
+Python O
+, O
+Machine O
+Learning O
+
+DataCamp O
+- O
+Data O
+Scientist O
+with O
+Python O
+
+Track O
+[ O
+4 O
+] O
+
+Duration O
+: O
+January O
+, O
+2019 O
+- O
+Present O
+
+Status O
+: O
+Completed O
+6 O
+out O
+of O
+22 O
+courses O
+
+Technologies O
+: O
+Scikitlearn O
+, O
+NumPy O
+, O
+Pandas O
+, O
+
+Matplotlib O
+
+Military Education_Institution_Name
+Institute Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+
+Technology Education_Institution_Name
+
+Duration O
+: O
+January Education_Start_Year
+, Education_Start_Year
+2014 Education_Start_Year
+- O
+January Education_End_Year
+, Education_End_Year
+2018 Education_End_Year
+
+Degree O
+: O
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+
+and Education_Subject
+Engineering Education_Subject
+
+CGPA Education_Result
+: Education_Result
+3.12/4.00 Education_Result
+
+Related O
+Courses O
+: O
+C O
+, O
+C++ O
+, O
+Java O
+, O
+Data O
+Structure O
+, O
+
+Algorithms O
+, O
+Web O
+Development O
+, O
+
+Android O
+App O
+Development O
+, O
+
+Machine O
+Learning O
+, O
+Pattern O
+
+Recognition O
+
+Activities O
+
+Acquired O
+6 O
+Star O
+in O
+Problem O
+Solving O
+, O
+5 O
+Star O
+in O
+
+C++ O
+, O
+5 O
+Star O
+in O
+Python O
+at O
+HackerRank O
+[ O
+5 O
+] O
+
+Rose O
+to O
+Specialist O
+Rank O
+at O
+Codeforces O
+[ O
+6 O
+] O
+
+Education O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+
+Dhaka Education_Location
+, O
+
+University Education_Institution_Name
+of Education_Institution_Name
+Dhaka Education_Institution_Name
+
+Bangladesh Education_Location
+
+2018 Education_End_Year
+
+BSC Education_Degree
+IN O
+COMPUTER Education_Subject
+SCIENCE Education_Subject
+AND Education_Subject
+
+ENGINEERING Education_Subject
+
+CGPA Education_Result
+: Education_Result
+3.21 Education_Result
+
+SOS Education_Institution_Name
+Hermann Education_Institution_Name
+Gmeiner Education_Institution_Name
+College Education_Institution_Name
+, O
+Dhaka Education_Location
+
+Dhaka Education_Location
+, O
+
+Bangladesh Education_Location
+
+2013 Education_End_Year
+
+HIGHER Education_Degree
+SECONDARY Education_Degree
+SCHOOL Education_Degree
+
+CERTIFICATE Education_Degree
+
+EDUCATION O
+
+Ahsanullah Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+( Education_Institution_Name
+AUST Education_Institution_Name
+) Education_Institution_Name
+( O
+Dhaka Education_Location
+, Education_Location
+Bangladesh Education_Location
+) O
+
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+
+
+CGPA Education_Result
+: Education_Result
+3.10 Education_Result
+on Education_Result
+a Education_Result
+scale Education_Result
+of Education_Result
+4.00 Education_Result
+( O
+projected O
+) O
+
+
+Govt Education_Institution_Name
+. Education_Institution_Name
+Science Education_Institution_Name
+College Education_Institution_Name
+( O
+Dhaka Education_Location
+, Education_Location
+Bangladesh Education_Location
+) O
+
+Higher Education_Degree
+Secondary Education_Degree
+Certificate Education_Degree
+; O
+
+Academic O
+Qualification O
+: O
+
+
+Post Education_Degree
+- Education_Degree
+Graduate Education_Degree
+Diploma Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+from O
+Bangladesh Education_Institution_Name
+Institute Education_Institution_Name
+of Education_Institution_Name
+Management Education_Institution_Name
+( O
+Former O
+Bangladesh O
+
+Management O
+Development O
+Centre O
+) O
+( O
+1997 Education_Start_Year
+- O
+1998 Education_End_Year
+) O
+
+M. Education_Degree
+Sc Education_Degree
+. Education_Degree
+in O
+Applied Education_Subject
+Mathematics Education_Subject
+from O
+Dhaka Education_Institution_Name
+University Education_Institution_Name
+( O
+1995 Education_End_Year
+) O
+
+B. Education_Degree
+Sc Education_Degree
+. Education_Degree
+( O
+Hons O
+. O
+) O
+in O
+Mathematics Education_Subject
+from O
+Dhaka Education_Institution_Name
+University Education_Institution_Name
+( O
+1994 Education_End_Year
+) O
+
+ACADEMIC O
+QUALIFICATION O
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL O
+KNOWLEDGE O
+
+
+
+
+
+
+
+I O
+would O
+like O
+to O
+pursue O
+my O
+career O
+in O
+a O
+work O
+environment O
+that O
+will O
+utilize O
+and O
+reinforce O
+my O
+
+technical O
+skills O
+and O
+abilities O
+and O
+also O
+to O
+apply O
+and O
+gain O
+new O
+cutting O
+edge O
+skills O
+and O
+experience O
+
+in O
+a O
+rapidly O
+changing O
+field O
+. O
+
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+, O
+March Education_End_Year
+2013 Education_End_Year
+
+Shahjalal Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+( Education_Institution_Name
+SUST Education_Institution_Name
+) Education_Institution_Name
+, O
+Sylhet Education_Location
+. O
+
+CGPA Education_Result
+: Education_Result
+3.10 Education_Result
+( Education_Result
+out Education_Result
+of Education_Result
+4.00 Education_Result
+) Education_Result
+. O
+
+Session O
+: O
+2008 Education_Start_Year
+- O
+09 O
+
+Higher Education_Degree
+Secondary Education_Degree
+Certificate Education_Degree
+in O
+Science Education_Subject
+Group,2008 Education_Subject
+
+Cambrian Education_Institution_Name
+College Education_Institution_Name
+, O
+
+Dhaka Education_Location
+. O
+
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+. O
+
+Secondary Education_Degree
+School Education_Degree
+Certificate Education_Degree
+in O
+Science Education_Subject
+Group,2006 Education_Subject
+
+Rupasdi Education_Institution_Name
+B.B.High Education_Institution_Name
+School Education_Institution_Name
+, O
+B.Baria Education_Location
+. O
+
+GPA Education_Result
+: Education_Result
+5.00 Education_Result
+. O
+
+Languages O
+: O
+Objective O
+- O
+C O
+, O
+Swift O
+, O
+Java O
+, O
+C O
+, O
+PHP O
+, O
+
+Mobile O
+Platform O
+: O
+iOS O
+, O
+Android O
+
+Web O
+Framework O
+: O
+Codeigniter O
+
+Web O
+Development O
+: O
+PHP O
+, O
+Opencart O
+, O
+WordPress O
+, O
+HTML O
+, O
+HTML5 O
+, O
+CSS O
+, O
+CSS3 O
+, O
+XML O
+, O
+
+JavaScrip O
+, O
+jQuery O
+, O
+Twitter O
+Bootstrap O
+3 O
+. O
+
+RDBMS O
+: O
+Oracle O
+9i O
+, O
+10 O
+g O
+, O
+11 O
+g O
+, O
+MySQL O
+
+Programming O
+Environments O
+: O
+NetBeans O
+IDE O
+, O
+Eclipse O
+Notepade++ O
+, O
+
+Application O
+Software O
+: O
+Matlab O
+, O
+Microsoft O
+Office O
+, O
+Adobe O
+Photoshop O
+, O
+
+Operating O
+Systems O
+: O
+Windows(98 O
+, O
+2000 O
+, O
+XP O
+, O
+Win7,Win8 O
+) O
+, O
+OS O
+X O
+10.6.8 O
+. O
+
+
+CodeBlocks O
+, O
+Macromedia O
+Dreamweaver O
+
+
+PROFESSIONAL O
+EXPERIENCE O
+: O
+
+
+Company O
+Name O
+: O
+Appnomentry O
+
+
+Company O
+Address O
+: O
+Banani O
+, O
+Dhaka O
+
+Web O
+: O
+www.appnomentry.com O
+
+Working O
+Period O
+: O
+Januray O
+, O
+2014 O
+December O
+, O
+2014 O
+
+Post O
+: O
+PHP O
+, O
+CodeIgniter O
+, O
+WordPress O
+, O
+Opencart O
+. O
+
+
+
+Company O
+Name O
+: O
+Group O
+7.co.li O
+
+Working O
+Period O
+: O
+June O
+, O
+2014 O
+November O
+, O
+2015 O
+
+Post O
+: O
+PHP O
+, O
+CodeIgniter O
+, O
+WordPress O
+, O
+Web O
+Design O
+& O
+Development O
+. O
+
+
+
+Professional O
+Projects O
+: O
+
+
+WordPress O
+: O
+
+http://www.uniglobeedu.com/ O
+
+www.mriyanevents.com O
+
+http://proquestsolutions.co.uk/ O
+
+http://ysmz.org O
+
+http://pdtuk.com O
+
+http://bhuiyanassociate.com/ O
+
+http://acplumbing.co.il O
+
+
+OS O
+- O
+Commerce O
+: O
+https://traveldealisrael.com/ O
+
+
+PHP O
+: O
+http://www.icloudberry.com/ O
+
+
+
+REFERRENCES O
+
+
+Dr. O
+M O
+Zafar O
+Iqbal O
+
+
+Professor O
+
+CSE O
+, O
+SUST O
+
+E O
+- O
+mail O
+: O
+mzi@sust.edu O
+
+Phone O
+: O
++880 O
+- O
+821 O
+- O
+713850 O
+( O
+office O
+) O
+
+EDUCATION O
+
+Khulna Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Engineering Education_Institution_Name
+& Education_Institution_Name
+Technology Education_Institution_Name
+, O
+Khulna Education_Location
+, Education_Location
+Bangladesh Education_Location
+
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Electrical Education_Subject
+& Education_Subject
+Electronic Education_Subject
+Engineering. Education_Subject
+
+Thesis O
+: O
+Bangla O
+Speech O
+Recognition O
+using O
+WaveNet. O
+
+
+Education O
+: O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+
+Bachelor Education_Degree
+of O
+Computer Education_Subject
+Science Education_Subject
+
+International Education_Institution_Name
+Islamic Education_Institution_Name
+University Education_Institution_Name
+Malaysia Education_Institution_Name
+( Education_Institution_Name
+IIUM Education_Institution_Name
+) Education_Institution_Name
+
+( O
+2018 Education_End_Year
+) O
+
+A Education_Degree
+- Education_Degree
+levels Education_Degree
+
+Mastermind Education_Institution_Name
+School Education_Institution_Name
+
+( O
+2013 Education_End_Year
+) O
+
+Education O
+
+Shahjalal Education_Institution_Name
+University Education_Institution_Name
+of Education_Institution_Name
+Science Education_Institution_Name
+and Education_Institution_Name
+Technology Education_Institution_Name
+
+Bachelor Education_Degree
+of Education_Degree
+Science Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+; O
+GPA Education_Result
+: Education_Result
+3.58/4.00 Education_Result
+
+Nilphamari Education_Institution_Name
+Govt Education_Institution_Name
+. Education_Institution_Name
+College Education_Institution_Name
+
+Higher Education_Degree
+Secondary Education_Degree
+Certicate Education_Degree
+( O
+Science Education_Subject
+) O
+; O
+GPA Education_Result
+: Education_Result
+5.00/5.00 Education_Result
+
+Nilphamari Education_Institution_Name
+Govt Education_Institution_Name
+. Education_Institution_Name
+High Education_Institution_Name
+School Education_Institution_Name
+
+Secondary Education_Degree
+School Education_Degree
+Certicate Education_Degree
+( O
+Science Education_Subject
+) O
+; O
+GPA Education_Result
+: Education_Result
+5.00/5.00 Education_Result
+
+Sylhet O
+, O
+Bangladesh O
+
+Jan. O
+2012 O
+Oct. O
+2016 O
+
+Nilphamari O
+, O
+Bangladesh O
+
+Mar. O
+2009 O
+Mar. O
+2011 O
+
+Nilphamari O
+, O
+Bangladesh O
+
+Mar. O
+2005 O
+Mar. O
+2009 O
+
+Projects O
+
+NanoMapper O
+: O
+A O
+Mapping O
+tool O
+using O
+gapped O
+minimizer O
+and O
+BWT O
+FM O
+- O
+index O
+. O
+URL O
+: O
+
+https://github.com/MKGAURAB/NanoMapper O
+. O
+I O
+along O
+with O
+my O
+thesis O
+partner O
+developed O
+this O
+tool O
+for O
+mapping O
+short O
+or O
+
+long O
+reads O
+to O
+the O
+reference O
+genome O
+for O
+our O
+undergrad O
+nal O
+year O
+thesis O
+. O
+
+Contest O
+- O
+Manager O
+: O
+A O
+PHP O
+based O
+web O
+application O
+where O
+User O
+can O
+create O
+contest O
+and O
+run O
+a O
+programming O
+contest O
+in O
+
+C++ O
+. O
+Submissions O
+would O
+be O
+judged O
+by O
+a O
+backend O
+JAVA O
+server O
+. O
+URL O
+: O
+
+https://github.com/MKGAURAB/Contest-Manager O
+. O
+I O
+along O
+with O
+my O
+project O
+partner O
+developed O
+this O
+application O
+as O
+part O
+
+for O
+our O
+WEB O
+Engineering O
+Project O
+. O
+
+Machine O
+- O
+Learning O
+- O
+Project O
+: O
+A O
+JAVA O
+Swing O
+based O
+desktop O
+application O
+where O
+User O
+can O
+input O
+a O
+specic O
+dimensional O
+
+data O
+and O
+then O
+get O
+project O
+that O
+data O
+reducing O
+a O
+dimension O
+using O
+Principal O
+Component O
+Analysis O
+. O
+URL O
+: O
+
+https://github.com/MKGAURAB/Machine-Learning-Project O
+. O
+I O
+solely O
+developed O
+this O
+application O
+as O
+part O
+for O
+our O
+Machine O
+
+Learning O
+Course O
+. O
+
+Education O
+
+of O
+Engineering O
+and O
+Technology O
+( O
+RUET Education_Institution_Name
+) O
+, O
+Rajshahi Education_Location
+. O
+
+Education O
+: O
+
+B.Sc Education_Degree
+. Education_Degree
+in O
+Computer Education_Subject
+Science Education_Subject
+and Education_Subject
+Engineering Education_Subject
+( O
+CGPA Education_Result
+: Education_Result
+3.89/4.00 Education_Result
+, O
+Completed O
+148 O
+
+credits O
+out O
+of O
+148 O
+credits O
+) O
+, O
+American Education_Institution_Name
+International Education_Institution_Name
+University Education_Institution_Name
+- O
+Bangladesh O
+( O
+AIUB O
+) O
+
+H.S.C. Education_Degree
+( O
+Science Education_Subject
+) O
+, O
+GPA Education_Result
+5 Education_Result
+Notre Education_Institution_Name
+Dame Education_Institution_Name
+College Education_Institution_Name
+, O
+Dhaka Education_Location
+, O
+2014 Education_End_Year
+
+S.S.C. Education_Degree
+( O
+Science Education_Subject
+) O
+, O
+GPA Education_Result
+5 Education_Result
+Ideal Education_Institution_Name
+School Education_Institution_Name
+and Education_Institution_Name
+College Education_Institution_Name
+, O
+Motijheel Education_Location
+, O
+Dhaka Education_Location
+, O
+2012 Education_End_Year
+
+
+
+Achievement O
+: O
+100 O
+% O
+Attendance O
+Certificate O
+( O
+Notre O
+Dame O
+College O
+) O
+, O
+Deans O
+List O
+Honors O
+for O
+
+fall O
+2016 O
+- O
+2017 O
+, O
+Spring O
+2016 O
+- O
+2017 O
+, O
+Certificate O
+of O
+Participation O
+( O
+The O
+Zen O
+Of O
+Python O
+workshop O
+
+organized O
+by O
+ACC O
+) O
+. O
+
+
+Language O
+Proficiency O
+: O
+Bangla O
+, O
+English O
+
+
+Personal O
+Summary O
+: O
+
+Completed O
+a O
+course O
+on O
+Software O
+Quality O
+Assurance O
+and O
+Testing O
+
+A O
+good O
+understanding O
+of O
+the O
+software O
+testing O
+methodology O
+
+Sound O
+knowledge O
+on O
+writing O
+Test O
+Plan O
+based O
+on O
+
+the O
+requirements O
+and O
+
+functionalities O
+of O
+the O
+system O
+
+Expert O
+in O
+designing O
+, O
+writing O
+and O
+executing O
+Test O
+Cases O
+and O
+preparing O
+bug O
+report O
+
+Strong O
+problem O
+- O
+solving O
+skills O
+using O
+a O
+logical O
+methodology O
+
+Capable O
+of O
+learning O
+new O
+tools O
+and O
+technology O
+very O
+quickly O
+
+Able O
+to O
+work O
+under O
+pressure O
+to O
+meet O
+tight O
+deadlines O
+
+Hardworking O
+, O
+punctual O
+and O
+a O
+good O
+team O
+player O
+
+Responsible O
+, O
+Dependable O
+, O
+Self O
+- O
+directed O
+and O
+self O
+- O
+motivated O
