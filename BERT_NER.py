@@ -227,7 +227,8 @@ class NerProcessor(DataProcessor):
         """
 #         return ["[PAD]", "O", "X","[CLS]","[SEP]", "Companies_worked_at", "Skills", "Graduation_Year", "College_Name", "Degree", "Duration", "Location", "Designation", "Email_Address", "Name", "Years_of_Experience", "UNKNOWN", "dur"]
 #         return ["[PAD]", "O", "X","[CLS]","[SEP]", "Personal_Info", "Objectives", "Education", "Work_Experience", "Projects", "Skills", "Certifications",  "Achievements", "Publication", "References", "Additional_Info", "UNKNOWN"]
-        return ["Education_Institution_Name", "Education_Location", "Education_Degree", "Education_Subject", "Education_Start_Year", "Education_End_Year", "Education_Result", "UNKNOWN", "[PAD]", "O", "X","[CLS]","[SEP]"]
+#         return ["Education_Institution_Name", "Education_Location", "Education_Degree", "Education_Subject", "Education_Start_Year", "Education_End_Year", "Education_Result", "UNKNOWN", "[PAD]", "O", "X","[CLS]","[SEP]"]
+        return ["WE_Company_Name", "WE_Job_Role", "WE_Job_Duration", "WE_Company_Location", "WE_Company_Website", "UNKNOWN", "[PAD]", "O", "X","[CLS]","[SEP]"]
 
 
     def _create_example(self, lines, set_type):
