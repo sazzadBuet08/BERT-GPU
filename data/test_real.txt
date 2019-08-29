@@ -1,1270 +1,372 @@
-Education O
-: O
+EXPERIENCE O
 
-2017 Education_End_Year
+2016 WE_Job_Duration
+- WE_Job_Duration
+current WE_Job_Duration
 
-East Education_Institution_Name
-West Education_Institution_Name
-University Education_Institution_Name
-, O
-Dhaka Education_Location
-, Education_Location
-Bangladesh Education_Location
-. O
+KONA WE_Company_Name
+Software WE_Company_Name
+Lab WE_Company_Name
+LTD WE_Company_Name
+. WE_Company_Name
 
-EDUCATIONAL O
-BACKGROUND O
-: O
+Assistant WE_Job_Role
+Project WE_Job_Role
+Manager WE_Job_Role
 
-	 O
-2014 Education_End_Year
-, O
-B.Sc Education_Degree
-. Education_Degree
-in O
-EEE Education_Subject
-, O
-University Education_Institution_Name
-of Education_Institution_Name
-Asia Education_Institution_Name
-Pacific Education_Institution_Name
-
-	 O
-2008 Education_End_Year
-, O
-H.S.C Education_Degree
-( O
-Science Education_Subject
-) O
-, O
-Govt Education_Institution_Name
-. Education_Institution_Name
-Tolaram Education_Institution_Name
-College Education_Institution_Name
-, O
-Narayangonj Education_Location
-. O
-
-	 O
-2006 Education_End_Year
-, O
-S.S.C Education_Subject
-( O
-Science Education_Subject
-) O
-, O
-Sanarpar Education_Institution_Name
-Sheikh Education_Institution_Name
-Mortoza Education_Institution_Name
-Ali Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-, O
-Narayangonj Education_Location
-. O
-
-SKILLS O
-POSSESSED O
-: O
-
-Design O
+Planning O
 and O
-implement O
-data O
-models O
-, O
-perform O
-statistical O
-analysis O
-, O
+Defining O
+Scope O
+
+Activity O
+Planning O
 and O
-create O
-predictive O
-models O
-. O
+Sequencing O
 
-Experienced O
-in O
-using O
-statistical O
-analysis O
-tools O
+Resource O
+Planning O
+
+Developing O
+Schedules O
+
+Time O
+Estimating O
+
+Risk O
+Management O
 and O
-scripting O
-language O
-- O
-Python O
-. O
-
-Excellent O
-problem O
-solving O
-and O
-data O
-analysis O
-skills O
-in O
-order O
-to O
-apply O
-machine O
-learning O
-algorithms O
-. O
-
-Comfortable O
-in O
-handling O
-Python O
-s O
-libraries O
-for O
-statistical O
-analysis O
-and O
-machine O
-learning O
-: O
-
-Linear O
-algebra O
-and O
-data O
-manipulation O
-libraries O
-: O
-Numpy O
-, O
-Scipy O
-, O
-and O
-Pandas O
-
-Data O
-visualization O
-libraries O
-: O
-Matplotlib O
-, O
-Seaborn O
-, O
-Plotly O
-
-Big O
-data O
-visualization O
-library O
-: O
-Datashader O
-
-Geospatial O
-data O
-visualization O
-library O
-: O
-Folium O
-
-Machine O
-learning O
-library O
-: O
-SciKit O
-Learn O
-
-Basic O
 documentation O
-skill O
-
-Knowledge O
-of O
-SQL O
-
-
-COURSES O
-: O
-
-Introduction O
-to O
-Python O
-for O
-Data O
-Science O
-from O
-edX O
-
-Essential O
-Mathematics O
-for O
-Artificial O
-Intelligence O
-from O
-edX O
-
-Introduction O
-to O
-Machine O
-Learning O
-from O
-UDACITY O
-
-Machine O
-Learning O
-by O
-Andrew O
-Ng O
 , O
-Stanford O
-University O
+etc O
+. O
 
-PROJECTS O
-: O
+2015 WE_Job_Duration
+- WE_Job_Duration
+2016 WE_Job_Duration
 
-Titanic O
-: O
-Machine O
-Learning O
-from O
-Disaster O
-Hosted O
-by O
-Kaggle O
-( O
-Top O
-8 O
-% O
-) O
+Impel WE_Company_Name
+IT WE_Company_Name
+Solutions WE_Company_Name
+LTD WE_Company_Name
+. WE_Company_Name
 
-GitHub O
-link O
-: O
-https://github.com/faysal37/titanic_hosted_by_kaggle O
+Scrum WE_Job_Role
+Master WE_Job_Role
+& WE_Job_Role
+Business WE_Job_Role
+Analyst WE_Job_Role
 
-Kaggle O
-kernel O
-link O
-: O
-https://www.kaggle.com O
-/ O
-eraaz1/a O
-- O
-comprehensive O
-- O
-guide O
-- O
-to- O
-titanic O
-- O
-machine O
-- O
-learning O
-
-House O
-Prices O
-: O
-Advanced O
-Regression O
-Techniques O
-Hosted O
-by O
-Kaggle O
-( O
-Top O
-12 O
-% O
-) O
-
-Kaggle O
-kernel O
-link O
-: O
-https://www.kaggle.com/eraaz1/a-comprehensive-guide-to O
-advanced O
-- O
-regression O
-/ O
-notebook O
-
-GitHub O
-link O
-: O
-https://github.com/faysal37/house_prices_advanced_regression O
-
-New O
-York O
-City O
-Taxi O
-Fare O
-Prediction O
-
-Kaggle O
-kernel O
-link O
-: O
-https://www.kaggle.com/eraaz1/taxi-fare-with-linear-regression O
-
-EXTRA O
-CURRICULAR O
-ACTIVITIES O
-: O
-
-Participated O
-in O
-collecting O
+Guiding O
+the O
+team O
 and O
-distributing O
-winter O
-clothes O
-among O
-the O
-destitute O
-for O
-free O
-. O
-
-Encouraged O
-people O
+organization O
+on O
+how O
 to O
-contribute O
-to O
-the O
-blood O
-donation O
-program O
-organized O
-by O
-us O
-. O
 
-Organized O
-several O
-sporting O
-events O
-as O
-an O
-active O
-member O
+use O
+Agile O
+/ O
+Scrum O
+practices O
+and O
+values O
+to O
+
+delight O
+customers O
+
+Guiding O
+the O
+team O
+on O
+how O
+to O
+get O
+the O
+most O
 of O
-sports O
-club O
-. O
 
-EDUCATIONAL O
-BACKGROUND O
-: O
+self O
+- O
+organization O
 
-B.sc Education_Degree
-.in O
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-Engineering Education_Subject
-. O
+Business O
+Requirement O
+Analysis O
+( O
+Functional O
 
-Institution O
-: O
-World Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Bangladesh Education_Institution_Name
+and O
+non O
+- O
+functional O
+) O
 
-Status O
-	      O
-: O
-WUB O
-03/15/34/1681 O
+Prepare O
 
-Result O
-: O
-Appearing Education_Result
+like O
 
-Diploma Education_Degree
-in Education_Degree
-Engineering Education_Degree
-. O
-: O
+documents O
 
-Institution O
-: O
-Rangpur Education_Institution_Name
-Polytechnic Education_Institution_Name
-Institute Education_Institution_Name
+supporting O
+
+wireframes O
 , O
-Rangpur Education_Location
-
-Group O
-: O
-Computer Education_Subject
-
-Passing O
-Year O
-: O
-2015 Education_End_Year
-
-Result O
-: O
-CGPA-2.90 Education_Result
-( Education_Result
-Out Education_Result
-of Education_Result
-CGPA-4.00 Education_Result
-) Education_Result
-
-Board O
-: O
-BTEB O
+process O
+flows O
 , O
-Dhaka Education_Location
+use O
+cases O
+, O
+etc O
 . O
 
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
-S.S.C Education_Degree
-) Education_Degree
-: O
+Develop O
+Processes O
+for O
+ISO O
+9001 O
 
-Group O
-: O
-Science Education_Subject
+Coordination O
+between O
+different O
+teams O
+, O
+etc O
+. O
 
-Institute O
+Southtech O
+LTD O
+. O
+
+Business O
+Analyst O
+
+Business O
+Requirement O
+Analysis O
+( O
+Functional O
+
+and O
+non O
+- O
+functional O
+) O
+
+Prepare O
+
+documents O
+
+like O
+
+supporting O
+
+wireframes O
+, O
+process O
+flows O
+, O
+use O
+case O
+, O
+etc O
+. O
+
+Maintaining O
+the O
+CMMI O
+level O
+3 O
+compliance O
+
+supporting O
+documents O
+. O
+
+Project O
+coordination O
+with O
+different O
+teams O
+, O
+
+etc O
+. O
+
+
+2013 O
+- O
+2015 O
+
+PROFILE O
+
 Name O
-: O
-Shibram Education_Institution_Name
-Al Education_Institution_Name
-- Education_Institution_Name
-haz Education_Institution_Name
-Md Education_Institution_Name
-. Education_Institution_Name
-Hossain Education_Institution_Name
-Smirity Education_Institution_Name
-School Education_Institution_Name
-and Education_Institution_Name
-College Education_Institution_Name
+Sharmeen O
+Akhter O
 
-Board O
-: O
-Rajshahi Education_Location
-. O
+DOB O
+July O
+26 O
+1987 O
 
-Passing O
-Year O
-: O
-2008 Education_End_Year
+Relationship O
+Married O
 
-Result O
-: O
-4.56 Education_Result
-( Education_Result
-Out Education_Result
-of Education_Result
-5.00 Education_Result
-) Education_Result
+Nationality O
+Bangladeshi O
 
-EDUCATION O
-QUALIFICATION O
-: O
+Language O
+English O
+/ O
+Bangla O
 
+CONTACT O
 
-B.SC Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-: O
+Phone O
++8801911713102 O
 
+Email O
+aneyju@gmail.com O
 
-Institute O
-: O
-State Education_Institution_Name
-University Education_Institution_Name
-of O
-Bangladesh Education_Location
-. O
+Skype O
+sharmeen.aney O
 
-Status O
-: O
-Completed O
-( O
-CGPA Education_Result
-3.76 Education_Result
-) O
-
-Passing O
-Years O
-: O
-2018 Education_End_Year
-
-
-
-
-
-HIGHER Education_Degree
-SECONDARY Education_Degree
-SCHOOL Education_Degree
-CERTIFICATE Education_Degree
-( Education_Degree
-H.S.C Education_Degree
-) Education_Degree
-: O
-
-
-Group O
-: O
-Science Education_Subject
-. O
-
-Institute O
-: O
-Carmichael Education_Institution_Name
-College Education_Institution_Name
-Rangpur Education_Institution_Name
-. O
-
-Board O
-: O
-Dinajpur Education_Location
-. O
-
-Status O
-: O
-GPA Education_Result
-4.44 Education_Result
-
-Passing O
-Years O
-: O
-2014 Education_End_Year
-. O
-
-
-SECONDARY Education_Degree
-SCHOOL Education_Degree
-CERTIFICATE Education_Degree
-( Education_Degree
-S.S.C Education_Degree
-) Education_Degree
-: O
-
-
-Group O
-: O
-Science Education_Subject
-. O
-
-Institute O
-: O
-Pirgachha Education_Institution_Name
-J.N. Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-. O
-
-Board O
-: O
-Dinajpur Education_Location
-. O
-
-Status O
-: O
-GPA Education_Result
-5.00 Education_Result
-
-Passing O
-Years O
-: O
-2012 Education_End_Year
-. O
-
-
-EXPERIENCES O
-: O
-
-
-
-Completed O
-4 O
-months O
-Android O
-development O
-course O
-from O
-Latent O
-Soft O
-. O
-
-I O
-have O
-solved O
-120 O
-( O
-UVa O
-Online O
-Judge O
-) O
-problem O
-; O
-
-Link O
-: O
-https://uhunt.onlinejudge.org/id/801777 O
-
-I O
-have O
-also O
-solved O
-12 O
-( O
-LightOj O
-) O
-problem O
-. O
-
-Link O
-: O
-http://www.lightoj.com/volume_userstat.php O
-
-I O
-was O
-the O
-General O
-Secretary O
-of O
-our O
-Department O
-of O
-CSE O
-
-I O
-make O
-some O
-Android O
-Application O
-Called O
-Blood O
-Book O
+Address O
+House O
+102 O
 , O
-My O
-To O
-Do O
-List O
+Road O
+18 O
 , O
-and O
-Rules O
-of O
-Mathematics O
-. O
 
-
-
-
-
-SELF O
-ASSESSMENT O
-: O
-
-
-Independent O
+Sector O
+14 O
 , O
-Strong O
-Analytical O
-ability O
+Uttara O
 , O
-Sincere O
-, O
-and O
-Attentive O
+Dhaka-1230 O
 . O
 
-Disciplined O
-, O
-Responsible O
-and O
-Dynamic O
-. O
-
-Self O
-- O
-motivate O
-and O
-committed O
-to O
-works O
-. O
-
-Willingness O
-to O
-take O
-challenges O
-. O
-
-Always O
-punctual O
-. O
-
-
-COMPUTER O
-LITERACY O
-: O
-
+Software O
+Expertise O
 
 Microsoft O
-word O
-. O
-
-Microsoft O
-Excel O
-. O
+Word O
 
 Microsoft O
 Power O
 Point O
-. O
 
 Microsoft O
-Access O
-. O
+Excel O
 
-Internet O
-browsing O
-and O
-maintain O
+Microsoft O
+Project O
+
+JIRA O
+
+Confluence O
+
+Browsing O
+
 Email O
-. O
 
-Windows O
-set O
+Experience O
+
+Voluntary O
+
+Work O
+
+
+
+President WE_Job_Role
+| O
+January WE_Job_Duration
+2010 WE_Job_Duration
+- WE_Job_Duration
+December WE_Job_Duration
+2010 WE_Job_Duration
+
+YWCA WE_Company_Name
+Student WE_Company_Name
+Debating WE_Company_Name
+Club WE_Company_Name
+
 - O
-up O
-. O
-
-Photoshop O
-( O
-basic O
-) O
-. O
-
-
-PROGRAMMING O
-LANGUAGE O
-: O
-
-
-I O
-know O
-about O
-C O
-( O
-Code O
-Blocks O
-) O
+Organizing O
+workshops O
 and O
-Java O
-( O
-Net O
-Beans O
-) O
-. O
+inter O
+school O
+debate O
+competitions O
 
-I O
-also O
-know O
-basic O
-HTML O
+Programming O
+Languages O
+: O
+Python O
+, O
+Java O
+
+Web O
+Development O
+: O
+Django O
+Framework O
+, O
+PHP O
+, O
+HTML5 O
 , O
 CSS O
-, O
-PHP O
-, O
-and O
-MYSQL O
-from O
-W3 O
-School O
-. O
 
-Education O
-
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-
-Engineering Education_Subject
-( O
-2007 Education_Start_Year
+Libraries O
+: O
+Scikit O
 - O
-2012 Education_End_Year
-) O
-
-Bangladesh Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-& Education_Institution_Name
-Technology Education_Institution_Name
-. O
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Honors O
-& O
-Awards O
-
-
-2nd O
-Runner O
-up O
+learn O
 , O
-2nd O
-Citi O
-Financial O
-IT O
-Case O
-
-Competition O
-, O
-Citibank O
-N.A. O
-, O
-2010 O
-. O
-
-Developed O
-Java O
-Application O
-named O
-Virtual O
-Money O
-
-
-
-
-
-Transaction O
-
-
-
-
-Extra O
-Curricular O
-Activities O
-
-Lead O
-Coordinator O
-, O
-CSE O
-Festival O
-, O
-BUET O
-, O
-2011 O
-. O
-
-
-
+Pandas O
 
 Other O
-Interests O
-
-Cricket O
-, O
-Football O
-, O
-Novels O
-, O
-Music O
-, O
-Movies O
-, O
-TV O
-Shows O
-
-
-
-
-Professional O
-Profile O
-
-Linkedin O
-
-https://www.linkedin.com/in/sunoyon O
-
-
-Github O
-Repository O
-
-https://github.com/Sunoyon O
-
-Academic O
-Qualification O
 : O
+Android O
+Programming O
+, O
+Git O
+, O
+Wordpress O
+, O
+MySQL O
+, O
+JavaFX O
+, O
+Firebase O
 
-Exam O
-Title O
 
-Concentration O
-/ O
-Major O
+Ghost O
+Game O
 
-Institute O
-
-Result O
-
-Passing O
-Year O
-
-Duration O
-
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-
-Software Education_Subject
-Engineering Education_Subject
-
-Daffodil Education_Institution_Name
-International Education_Institution_Name
-University Education_Institution_Name
-
-CGPA:3.42 Education_Result
-
-out Education_Result
-of Education_Result
-4 Education_Result
-
-2016 Education_End_Year
-
-4 O
-years O
-
-Higher Education_Degree
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-
-Science Education_Subject
-
-Dania Education_Institution_Name
-College Education_Institution_Name
-
-CGPA:4.60 Education_Result
-
-out Education_Result
-of Education_Result
-5 Education_Result
-
-2009 Education_End_Year
-
-2 O
-Years O
-
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-
-Science Education_Subject
-
-A.K. Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-
-CGPA:4.44 Education_Result
-
-out Education_Result
-of Education_Result
-5 Education_Result
-
-2007 Education_End_Year
-
-2 O
-years O
-
-Training O
-Summary O
-: O
-
-Training O
-Title O
-
-Topic O
-
-Institute O
-
-Country O
-
-Location O
-
-Year O
-
-Duration O
-
-PHP O
-
-Beginning O
+The O
+user O
+plays O
+as O
+a O
+ghost O
+. O
+User O
+s O
+goal O
+is O
 to O
-Mid O
-level O
-Skill O
-on O
-PhP O
-
-SOLO O
-LEARN O
-INC O
-
-California O
-, O
-United O
-States O
-
-Online O
-Training O
-
-2016 Education_End_Year
-
-2 O
-week O
-
-Professional O
-Networking O
-
-CCNA O
-
-CREATIVE O
-IT O
-
-Bangladesh O
-
-Rd:04,Dhanmondi O
-
-2017 O
-
-3 O
-month O
-
-SEIP O
-
-C#(Asp O
-. O
-Net O
-) O
-
-BITM O
-
-Bangladesh O
-
-Karwan O
-Bazar O
-, O
-Dhaka O
-, O
-
-Bangladesh O
-. O
-
-2018 O
-
-3month O
-
-Professional O
-Diploma O
-
-Diploma O
-in O
-WebDevelopment(Laravel O
-) O
-
-BKIICT O
-, O
-Bangladesh O
-Computer O
-Council O
-
-Bangladesh O
-
-Agargaon O
-, O
-Dhaka O
-
-2019 O
-
-1year(appeared O
-) O
-
-Career O
-and O
-Application O
-Information O
-: O
-
-Looking O
-For O
-
-: O
-Entry O
-Level O
-Job O
-
-Available O
-For O
-
-: O
-Full O
-Time O
-
-Preferred O
-Location O
-
-: O
-Dhaka O
-& O
-Outside O
-. O
-
-Extra O
-Curricular O
-Activities O
-: O
-
-Cricket O
-, O
-Chess O
-. O
-Practice O
-: O
-English O
-
-Education O
-: O
-
-Bachelor Education_Degree
-of O
-Business Education_Subject
-
-Administration Education_Subject
-
-East Education_Institution_Name
-West Education_Institution_Name
-University Education_Institution_Name
-
-Credit O
-Earned O
-: O
-124 O
-
-Graduated O
-in O
-September Education_End_Year
-, Education_End_Year
-2015 Education_End_Year
-
-CGPA-3.01 Education_Result
-
-Training O
-& O
-workshops O
-: O
-
-
-Participated O
-in O
-a O
-Training O
-program O
-on O
-Problem O
-- O
-solving O
-and O
-Communications O
-efficiency O
+move O
+upward O
 by O
-
-
-
-
-
-Windmill O
-educations O
-services O
-limited O
-. O
-
-
-
-
-Attended O
-a O
-day O
-- O
-long O
-workshop O
-on O
-Interest O
-Based O
-Negotiations O
-and O
-Joint O
-Problem O
-solving O
-
-
-
-
-
-organized O
-by O
-MBA O
-, O
-EMBA O
-and O
-MBM O
-programs O
-of O
-East O
-West O
-University O
-. O
-
-Participated O
-on O
-Social O
-Business O
-Youth O
-Summit O
-as O
-well O
-as O
-a O
-workshop O
-on O
-social O
-business O
+avoiding O
 
 
 
@@ -1272,3651 +374,16149 @@ business O
 
 
 
-arranged O
-by O
-SBYN O
-( O
-social O
-business O
-youth O
-network O
-2014 O
-) O
-
-Participated O
-workshop O
-on O
-conflict O
-management O
-organized O
-by O
-MBA O
-Club O
-East O
-West O
-University O
-
-
-
-Extra O
-Curricular O
-Activities O
-: O
-
-Executive O
-member O
-at O
-East O
-West O
-University O
-Creative O
-Marketing O
-Club O
-( O
-EWUCMC O
-) O
-
-Organized O
-Creative O
-Fiesta O
-, O
-Intra O
-University O
-Marketing O
-Quiz O
-Competition O
-, O
-Workshop O
-on O
-Supply O
-
-
-
-
-
-
-
-Chain O
+obstacles O
 with O
-East O
-West O
-University O
-Creative O
-Marketing O
-Club O
+speed O
+increasing O
+over O
+time O
 . O
-
-Participated O
+High O
+scores O
+get O
+stored O
 in O
-Unilever O
-Bizmaestros2013&2014 O
+
+
+
+
+Firebase O
+database O
+for O
+all O
+users O
+to O
+compete O
+globally O
+
+Tech O
+Stack O
+- O
+Android O
+Programming O
+, O
+Firebase O
+database O
+
+Course O
+- O
+Android O
+Programming O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Virtual O
+Mail O
+Server O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A O
+mail O
+serving O
+website O
+where O
+users O
+can O
+sign O
+up O
+and O
+send O
+/ O
+receive O
+emails O
+
+
+
+
+to O
+/ O
+from O
+other O
+virtual O
+domains O
+. O
+Group O
+mailing O
+, O
+saving O
+draft O
+, O
+sorting O
+and O
+
+
+
+deleting O
+mail O
+etc O
+. O
+services O
+are O
+enabled O
 . O
 
-Working O
-as O
-a O
-founder O
-member O
-of O
-EWU O
-Pioneers O
-( O
-' O
-' O
-ULTIMATE O
-SOCIAL O
-& O
-CULTURAL O
-WORK O
-' O
-' O
-) O
-
-
-Key O
-Skills O
+Tech O
+Stack O
 : O
-
-
-Professional O
-: O
-
-Create O
+Django O
+Framework O
 , O
-introduce O
-and O
-achieve O
-frameworks O
+Sqlite O
+database O
+, O
+Postfix O
+, O
+Shell O
+Script O
+
+Course O
+- O
+Programming O
 for O
 the O
-team O
-. O
+Internet O
 
 
-
-
-
-
-
-
-
-
-
-
-
-Page O
-| O
-2 O
-
-Experience O
-of O
-Essential O
-software O
+Bookworm O
+- O
+A O
+Social O
+Network O
 for O
-data O
-compilation O
+Book O
+Lovers O
+
+A O
+social O
+networking O
+website O
+for O
+authors O
+, O
+critics O
 and O
-analysis O
+readers O
 . O
+Users O
+can O
 
-Experience O
-of O
-working O
-to O
-tight O
-deadlines O
+
+
+
+rate O
+, O
+review O
+and O
+comment O
+on O
+books O
+. O
+They O
+can O
+also O
+interact O
 with O
-limited O
-resources O
+each O
+other O
+
+
+
+
+
+
+and O
+update O
+their O
+own O
+profile O
 . O
 
-Highly O
-organized O
+Tech O
+Stack O
+: O
+PHP O
 , O
-proactive O
+MySQL O
 , O
-hardworking O
+HTML5 O
 , O
-focused O
-, O
-& O
-have O
-attention O
-to O
-detail O
-. O
+CSS O
 
-Experience O
+Course O
+- O
+Database O
+System O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spyware O
+for O
+Windows O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A O
+spyware O
+that O
+gets O
+installed O
+with O
+a O
+simple O
+tic O
+tac O
+toe O
+game O
+. O
+It O
+launches O
+at O
+
+
+
+
+
+startup O
+and O
+runs O
 in O
-managing O
-large O
-quantities O
-of O
-data O
+a O
+background O
+thread O
+. O
+The O
+spyware O
+takes O
+screenshot O
+
+
+
+
+and O
+sends O
+all O
+the O
+images O
+in O
+a O
+low O
+quality O
+JPEG O
+format O
+to O
+a O
+specific O
+gmail O
+
+
+
+address O
 . O
 
-Personal O
+Tech O
+Stack O
+: O
+Java O
+, O
+JavaFX O
+, O
+batch O
+commands O
+
+Course O
+- O
+Object O
+Oriented O
+Programming O
+
+
+
+Bengali O
+( O
+Native O
+) O
+, O
+English O
+( O
+Fluent O
+) O
+
+Mahbub O
+Alam O
+Majumdar O
+
+Professor O
+
+Department O
+of O
+Computer O
+Science O
+and O
+Engineering O
+, O
+
+BRAC O
+University O
+
+Contact O
+: O
++8801678127693 O
+
+Email O
+: O
+where.is.mahbub@gmail.com O
+
+
+Yeshim O
+Iqbal O
+
+Doctoral O
+Candidate O
+
+Applied O
+Psychology O
+, O
+New O
+York O
+University O
+
+Contact O
+: O
++16072441940 O
+
+Email O
+: O
+yi330@nyu.edu O
+
+Work O
+Experience O
+
+EUNOIA WE_Company_Name
+IT WE_Company_Name
+SOLUTIONS WE_Company_Name
+, O
+MALAYSIA WE_Company_Location
+[ O
+June WE_Job_Duration
+2016-Dec WE_Job_Duration
+2016 WE_Job_Duration
+] O
+
+Trainee WE_Job_Role
+Android WE_Job_Role
+Application WE_Job_Role
+Developer WE_Job_Role
+
+Duties O
+
+Working O
+alongside O
+with O
+the O
+senior O
+developer O
+to O
+deliver O
+optimum O
+per- O
+
+formance O
+of O
+clients O
+requirements O
+
+Preparing O
+reports O
+and O
+keeping O
+clients O
+up O
+to O
+speed O
+with O
+the O
+develop- O
+
+ment O
+process O
+
+Analyzing O
+Requirements O
+and O
+developing O
+application O
+
+Making O
+UI O
+designs O
+and O
+wire O
+frames O
+
+Black O
+- O
+box O
+Testing O
+
+Ofce O
+Projects O
+
+Lanka O
+Bangla O
+Power O
+Solution O
+: O
+Android O
+Application O
+where O
+user O
+can O
+
+control O
+his O
+property O
+using O
+GPS O
+and O
+web O
+service O
+from O
+remote O
+location O
+
+( O
+Android O
+, O
+PHP O
+) O
+. O
+
+Responsibilities O
+: O
+* O
+Convert O
+the O
+code O
+into O
+different O
+IDE O
+
+* O
+Maintaining O
+communication O
+with O
+senior O
+developer O
+
+* O
+Further O
+modication O
+
+* O
+Testing O
+and O
+version O
+upgrading O
+
+Location O
+nder O
+: O
+Location O
+based O
+service O
+application O
+, O
+gives O
+user O
+different O
+
+type O
+of O
+place O
+information O
+, O
+place O
+distance O
+, O
+place O
+map O
+view O
+etc O
+. O
+
+Live O
+here O
+: O
+https://github.com/taqi92/MAPapp O
+
+Responsibilities O
+: O
+* O
+Idea O
+Generation O
+
+* O
+Requirement O
+analysis O
+and O
+design O
+
+* O
+Develop O
+the O
+application O
+
+* O
+Further O
+modication O
+and O
+testing O
+
+CALC O
+: O
+Basic O
+Operational O
+Calculator O
+with O
+advanced O
+features O
+. O
+( O
+Android O
+) O
+
+Live O
+here O
+: O
+https://github.com/taqi92/CalculatorEIS O
+
+Responsibilities O
+: O
+* O
+Requirement O
+analysis O
+and O
+design O
+
+* O
+Develop O
+the O
+application O
+
+* O
+Further O
+modication O
+and O
+testing O
+
+Projects O
+
+Krishi O
+Barta(Team O
+Member O
+; O
+UI O
+/ O
+UX O
+, O
+Requirement O
+Analysis O
+) O
+
+Application O
+including O
+web O
+service O
+which O
+can O
+provide O
+online O
+help O
+to O
+farm- O
+
+ers O
+. O
+( O
+Android O
+, O
+spring O
+) O
+
+Hat O
+- O
+Bazar(Team O
+Member O
+; O
+UI O
+/ O
+UX O
+, O
+Requirement O
+Analysis O
+) O
+
+Online O
+shopping O
+space O
+for O
+farmers O
+. O
+( O
+Android O
+, O
+PHP O
+) O
+
+Live O
+Here O
+: O
+https://bitbucket.org/sifatuap/farmer-bazar O
+
+Diagram O
+manager O
+
+Visualizing O
+circuit O
+diagram O
+for O
+basic O
+logic O
+gates O
+and O
+ip O
+- O
+ops(language O
 : O
 
-Aimed O
-at O
+Android O
+) O
+
+MediHelp O
+
+Emergency O
+medical O
+service O
+and O
+rst O
+- O
+aid O
+with O
+phone O
+numbers O
+of O
+medical O
+
+and O
+ambulances O
+. O
+
+Web O
+Application O
+
+Bookworms.net O
+
+Agent O
+game O
+where O
+user O
+have O
+to O
+interact O
+with O
+rational O
+agent O
+( O
+machine O
+) O
+
+and O
+make O
+smart O
+move O
+to O
+defeat O
+the O
+agent O
+. O
+( O
+Articial O
+Intelligence O
+, O
+Javascript O
+) O
+
+JavaScript O
+Application O
+
+Nem O
+Game O
+
+Storage O
+for O
+books O
+in O
+pdf O
+format O
+where O
+user O
+can O
+upload O
+and O
+download O
+
+books O
+from O
+the O
+site O
+. O
+( O
+Wordpress O
+, O
+HTML O
+) O
+
+EXPERIENCE O
+
+Company O
+Name O
+: O
+Unique WE_Company_Name
+Infoway WE_Company_Name
+Limited WE_Company_Name
+( WE_Company_Name
+IGW WE_Company_Name
+) WE_Company_Name
+, O
+Banani WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+. O
+
+Name O
+of O
+the O
+Position O
+: O
+Junior WE_Job_Role
+Engineer WE_Job_Role
+( O
+NOC O
+Department O
+) O
+
+Duration O
+: O
+August15 WE_Job_Duration
+Present WE_Job_Duration
+
+Responsibilities O
+: O
+
+1 O
+. O
+C7 O
+/ O
+SS7 O
+, O
+ISDN O
+- O
+PRI O
+links O
+commissioning O
+, O
+monitoring O
+, O
+maintaining O
+and O
+troubleshooting O
+
+2 O
+. O
+Configuring O
+Audio O
+Codes O
+Media O
+Gateways O
+in O
+the O
+MSC O
+
+3 O
+. O
+Configuring O
+call O
+processing O
+features O
+- O
+digit O
+translation O
+and O
+call O
+routing O
+, O
+tones O
+and O
+announcement O
+
+4 O
+. O
+CDR O
+Analysis O
+Call O
 success O
+and O
+failure O
+rate O
+and O
+the O
+root O
+cause O
+of O
+call O
+failure O
+
+5 O
+. O
+Troubleshooting O
+core O
+network O
+node O
+( O
+MSC O
+, O
+MGWs O
+, O
+HLR O
+) O
+related O
+issues O
+
+6 O
+. O
+Regular O
+maintenance O
+of O
+the O
+Sun O
+Servers O
+of O
+the O
+core O
+network O
+
+7 O
+. O
+Maintaining O
+the O
+Cisco O
+routers O
+of O
+the O
+IP O
+Backbone O
+
+8 O
+. O
+Troubleshooting O
+IP O
+Routing O
+and O
+Cisco O
+router O
+related O
+problems O
+
+9 O
+. O
+Network O
+Implementation O
+and O
+upgradation O
+
+10 O
+. O
+Preparing O
+performance O
+report O
+of O
+the O
+core O
+network O
+fortnightly O
+and O
+monthly O
+basis O
+
+11 O
+. O
+Core O
+Network O
+Equipments O
+performance O
+- O
+availability O
+, O
+system O
+health O
+, O
+application O
+status O
+. O
+
+WORK O
+EXPERIENCE O
+
+1 WE_Job_Duration
+Jun WE_Job_Duration
+2016Present WE_Job_Duration
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+P1 WE_Company_Name
+Team WE_Company_Name
+, O
+Bashundhara O
+Group O
+
+Bashundhara WE_Company_Location
+Residential WE_Company_Location
+Area WE_Company_Location
+, WE_Company_Location
+Kaler WE_Company_Location
+Kontho WE_Company_Location
+Office WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+( WE_Company_Location
+Bangladesh WE_Company_Location
+) WE_Company_Location
+
+Business O
+or O
+sector O
+Information O
+and O
+communication O
+
+4 WE_Job_Duration
+May WE_Job_Duration
+201531 WE_Job_Duration
+May WE_Job_Duration
+2016 WE_Job_Duration
+Programmer WE_Job_Role
+Analyst WE_Job_Role
+
+Dcastalia WE_Company_Name
+, O
+Banani WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+( WE_Company_Location
+Bangladesh WE_Company_Location
+) WE_Company_Location
+
+http://www.dcastalia.com WE_Company_Website
+
+Business O
+or O
+sector O
+Information O
+and O
+communication O
+
+10 WE_Job_Duration
+Jan WE_Job_Duration
+201210 WE_Job_Duration
+Oct WE_Job_Duration
+2012 WE_Job_Duration
+Management WE_Job_Role
+Trainee WE_Job_Role
+
+Primordial WE_Company_Name
+Energy WE_Company_Name
+Limited WE_Company_Name
+, O
+Banani WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+( WE_Company_Location
+Bangladesh WE_Company_Location
+) WE_Company_Location
+
+Business O
+or O
+sector O
+Electricity O
+, O
+gas O
+, O
+steam O
+and O
+air O
+conditioning O
+supply O
+
+EDUCATION O
+AND O
+TRAINING O
+
+28 O
+Oct O
+201414 O
+Mar O
+2015 O
+
+Fast O
+Track O
+Future O
+Leader O
+( O
+FTFL O
+) O
+
+Ministry O
+of O
+ICT O
+, O
+Dhaka O
+( O
+Bangladesh O
+) O
+
+http://www.bcc.net.bd O
+
+1 O
+May O
+20061 O
+Oct O
+2011 O
+B.Sc O
+in O
+Electrical O
+and O
+Electronics O
+Engineering O
+
+United O
+International O
+University O
+, O
+Dhaka O
+( O
+Bangladesh O
+) O
+
+1 O
+Jan O
+20131 O
+Jun O
+2014 O
+M.Sc O
+in O
+Computer O
+Science O
+and O
+Engineering O
+
+Jahangirnagor O
+University O
+, O
+Savar O
+, O
+Dhaka O
+( O
+Bangladesh O
+) O
+
+3 O
+Mar O
+201225 O
+Oct O
+2012 O
+Cisco O
+Associate O
+Level O
+Certification O
+( O
+CCNA O
+) O
+
+United O
+International O
+University O
+, O
+Dhanmondi O
+, O
+Dhaka O
+
+PERSONAL O
+SKILLS O
 
 Communication O
 skills O
 
-Ambitious O
+English O
 
-Drive O
-& O
-resilience O
+6/5/17 O
 
-Delivering O
-results O
+European O
+Union O
+, O
+2002 O
+- O
+2017 O
+| O
+http://europass.cedefop.europa.eu O
 
-Analytical O
-mind O
+Page O
+1 O
+/ O
+2 O
 
-High O
-levels O
+Nusrat O
+Jahan O
+
+
+Curriculum O
+vitae O
+
+Speaking O
+: O
+Fluent O
+
+Writing O
+: O
+Professional O
+
+Reading O
+: O
+Professional O
+
+Listening O
+: O
+Professional O
+
+Job O
+- O
+related O
+skills O
+
+IELTS O
+score O
+6.5 O
+
+Professional O
+Experience O
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+2013 WE_Job_Duration
+- WE_Job_Duration
+Present WE_Job_Duration
+
+Brain WE_Company_Name
+Station WE_Company_Name
+23 WE_Company_Name
+
+My O
+fascination O
+and O
+passion O
+toward O
+technology O
+shaped O
+my O
+career O
+and O
+drove O
+me O
 of O
-integrity O
+contributing O
 
-Negotiating O
-
-Good O
-listener O
-
-
-Areas O
+to O
+burgeoning O
+IT O
+sector O
 of O
-interest O
+country O
+. O
+That O
+'s O
+why O
+I O
+have O
+developed O
+notable O
+android O
+apps O
+for O
+big O
+
+company O
+/ O
+client O
+which O
+expand O
+from O
+banking O
+app O
+to O
+e O
+- O
+commerce O
+app O
+. O
+Simple O
+admission O
+test O
+
+app O
+to O
+unity O
+app O
+. O
+There O
+are O
+notable O
+project O
+which O
+I O
+want O
+to O
+highlight O
+are O
+described O
+below O
+
+Banking O
+Apps O
 : O
 
-Technology O
-& O
-innovation O
+Anchored O
+the O
+mobile O
+development O
+team O
+for O
+The O
+City O
+Bank O
+. O
+Worked O
+with O
+b O
+ank O
+authority O
+and O
+
+key O
+executives O
+to O
+develop O
+two O
+cutting O
+edge O
+applications O
+, O
+which O
+mobilized O
+routine O
+banking O
+
+functions O
+and O
+enticed O
+new O
+customers O
+, O
+without O
+jeopardizing O
+data O
+privacy O
+or O
+security O
+. O
+Increasing O
+
+usability O
+along O
+with O
+enhancing O
+security O
 . O
 
-Marketing O
-strategy O
-& O
-growth O
+Tasks O
+and O
+responsibilities O
+
+Conceptualized O
+, O
+designed O
+, O
+developed O
+and O
+deployed O
+mobile O
+applications O
+for O
+banking O
+
+customers O
+. O
+
+Increase O
+customer O
+usability O
+. O
+
+Developed O
+update O
+patches O
+, O
+modules O
+and O
+components O
+to O
+mitigate O
+security O
+risks O
+. O
+
+Researched O
+application O
+acceptance O
+and O
+solicited O
+feedback O
+from O
+users O
+to O
+boost O
+adoption O
+
+rates O
+. O
+
+Communicated O
+effectively O
+with O
+stakeholders O
+to O
+manage O
+expectations O
+. O
+
+Integrating O
+embedded O
+and O
+adaptive O
+system O
+. O
+
+Share O
+my O
+knowledge O
+to O
+other O
+platform O
+app O
+developer O
+. O
+
+Selected O
+accomplishments O
+
+Spearheaded O
+the O
+design O
+and O
+development O
+of O
+Citytouch O
+and O
+MYCA O
+App O
+. O
+
+Easing O
+authentication O
+by O
+introducing O
+three O
+types O
+of O
+authentication O
+process O
+( O
+User O
+ID O
+, O
+PIN O
+, O
+
+Fingerprint O
+) O
+. O
+
+Security O
+enhancement O
+by O
+integration O
+of O
+fingerprint O
+and O
+Irish O
+authentication O
+. O
+
+Adaptive O
+method O
+integration O
+for O
+system O
+learning O
+for O
+managing O
+transaction O
+risk O
+. O
+
+Almost O
+70 O
 - O
-oriented O
+80 O
+percent O
+customer O
+use O
+Citytouch O
+app O
+for O
+internet O
+banking O
+. O
+
+Amex O
+Card O
+user O
+use O
+MYCA O
+app O
+. O
+
+Reduced O
+ATM O
+and O
+teller O
+lines O
+at O
+peak O
+hours O
+significantly O
+through O
+internet O
+banking O
+
+functionality O
+. O
+
+Accelerated O
+the O
+company O
+s O
+expansion O
+by O
+creating O
+2 O
+mobile O
+applications O
+utilizing O
+JSON O
+
+Ecommerce O
+Apps O
+: O
+
+Anchored O
+the O
+mobile O
+development O
+team O
+for O
+e O
+- O
+commerce O
+mobile O
+apps O
 development O
 . O
+Worked O
 
-Movies O
+with O
+designer O
 and O
-Music O
+key O
+executives O
+to O
+develop O
+two O
+beautiful O
+applications O
+using O
+two O
+di(cid:38)erent O
+
+Work O
+experience O
+
+
+Brain WE_Company_Name
+Station WE_Company_Name
+23 WE_Company_Name
+
+
+Software WE_Job_Role
+Engineer WE_Job_Role
 , O
-Traveling O
+May WE_Job_Duration
+2014 WE_Job_Duration
+present WE_Job_Duration
+
+
+Brain WE_Company_Name
+Station WE_Company_Name
+23 WE_Company_Name
+
+Junior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+, O
+May WE_Job_Duration
+2013 WE_Job_Duration
+April WE_Job_Duration
+2014 WE_Job_Duration
+
+Projects O
+: O
+
+AB O
+Direct O
+Internet O
+Banking O
+: O
+Android O
+app O
+; O
+Java O
+, O
+XML O
+, O
+REST O
+API O
+; O
+AB O
+Bank O
+Ltd O
+; O
+Notable O
+features O
+: O
+Fund O
+transfer O
+, O
+
+bill O
+payment O
+, O
+account O
+, O
+loan O
+& O
+card O
+summary O
+/ O
+statement O
+etc O
+. O
+
+
+Incepta O
+mSFA O
+: O
+Android O
+app O
+; O
+Java O
+, O
+XML O
+, O
+REST O
+, O
+SQLite O
+; O
+Incepta O
+Pharmaceuticals O
+Ltd O
+; O
+Notable O
+features O
+: O
+Order O
+
+submission O
+, O
+Doctor O
+Visit O
+, O
+Daily O
+Expense O
+submission O
+, O
+prescription O
+survey O
+etc O
+. O
+
+Aristo O
+mSFA O
+: O
+Android O
+app O
+; O
+Java O
+, O
+XML O
+, O
+REST O
+, O
+SQLite O
+; O
+Aristopharma O
+Ltd O
+; O
+Notable O
+features O
+: O
+Order O
+submission O
+, O
+
+Order O
+approval O
+, O
+sample O
+management O
+etc O
+. O
+
+Citytouch O
+: O
+Web O
+portal O
+, O
+Backend O
+/ O
+API O
+, O
+Admin O
+Portal O
+; O
+Java O
+, O
+Spring O
+, O
+Hibernate O
+, O
+JSP O
+; O
+The O
+City O
+Bank O
+Ltd O
+; O
+Notable O
+
+features O
+: O
+scheduled O
+fund O
+transfer O
+& O
+bill O
+payment O
+, O
+RTGS O
+fund O
+transfer O
+, O
+Adaptive O
+Authentication O
+; O
+
+MYCA O
+: O
+Web O
+portal O
+, O
+Backend O
+/ O
+API O
+; O
+Java O
+, O
+Spring O
+, O
+Hibernate O
+, O
+JSP O
+; O
+The O
+City O
+Bank O
+Ltd O
+; O
+Notable O
+features O
+: O
+AMEX O
+card O
+
+information O
+, O
+payment O
+, O
+reward O
+point O
+management O
+etc O
+. O
+
+FDI O
+Automation O
+: O
+Web O
+portal O
+, O
+Admin O
+portal O
+; O
+Java O
+, O
+Spring O
+, O
+Hibernate O
+, O
+JSP O
+; O
+HSBC O
+Bangladesh O
+; O
+Automation O
+of O
+
+Foreign O
+direct O
+invest O
+reporting O
+to O
+central O
+bank O
+. O
+
+
+ICT O
+Monitoring O
+App O
+: O
+Android O
+app O
+, O
+Admin O
+portal O
+, O
+Backend O
+; O
+Android O
+, O
+Java O
+, O
+Spring O
+, O
+Hibernate O
+, O
+JSP O
+; O
+LGED O
+, O
+
+Bangladesh O
+; O
+Customize O
+Open O
+data O
+kit O
+android O
+and O
+build O
+custom O
+reporting O
+and O
+administrative O
+panel O
+. O
+
+Web O
+Application O
+: O
+PHP O
+, O
+Codeigniter O
+, O
+MySQL O
+; O
+
+o O
+Question O
+Bank O
+for O
+Bangladesh O
+College O
+of O
+Physicians O
+and O
+Surgeons O
+. O
+
+o O
+ATM O
+and O
+Branch O
+Locator O
+Portal O
+for O
+the O
+City O
+Bank O
+Ltd. O
+
+o O
+Dynamic O
+FAQ O
+management O
+& O
+Bookmark O
+System O
+for O
+British O
+council O
+Bangladesh O
+. O
+
+o O
+Community O
+Database O
+Management O
+System O
+for O
+Voluntary O
+Service O
+Overseas O
+Bangladesh O
+( O
+VSOB O
+) O
+
+
+Academic O
+Qualifications O
+
+B.Sc O
+. O
+Engineering O
+in O
+Computer O
+Science O
+& O
+Engineering O
+, O
+
+Chittagong O
+University O
+of O
+Engineering O
+& O
+Technology O
+
+Professional O
+Experience O
+: O
+
+Company WE_Company_Name
+Name WE_Company_Name
+: WE_Company_Name
+Redefine WE_Company_Name
+Lab WE_Company_Name
+
+Designation WE_Job_Role
+: WE_Job_Role
+Intern WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+Responsibilities O
+: O
+Web O
+design O
+, O
+Development O
+, O
+Database O
+Design O
+, O
+Collect O
+Client O
+
+Requirement O
+, O
+Post O
+Production O
+Support O
+, O
+and O
+Making O
+Project O
+Proposal O
+, O
+Learning O
+
+about O
+New O
+Technologies O
+etc O
+. O
+
+Declaration O
+and O
+Authenticity O
+: O
+
+I O
+declare O
+hereby O
+that O
+all O
+information O
+I O
+have O
+presented O
+so O
+far O
+are O
+true O
+to O
+my O
+
+knowledge O
+. O
+If O
+required O
+and O
+where O
+application O
+, O
+this O
+document O
+can O
+be O
+
+supported O
+by O
+authentic O
+certificates O
+/ O
+paper O
+. O
+
+Professional O
+Experience O
+: O
+
+SoftwarePeople WE_Job_Role
+
+Plot-76/A(3rd WE_Company_Location
+Floor WE_Company_Location
+) WE_Company_Location
+
+Road-11 WE_Company_Location
+, WE_Company_Location
+Block WE_Company_Location
+- WE_Company_Location
+M WE_Company_Location
+, WE_Company_Location
+Banani WE_Company_Location
+
+Dhaka-1213 WE_Company_Location
+
+Sr WE_Job_Role
+. WE_Job_Role
+System WE_Job_Role
+Developer WE_Job_Role
+
+
+CRM O
+systems O
+by O
+which O
+user O
+can O
+create O
+wikis O
+, O
+blog O
+, O
+site O
+according O
+to O
+their O
+need O
+. O
+
+
+Responsibilities O
+
+Involved O
+in O
+application O
+development O
+using O
+Java O
+, O
+technologies O
+, O
+Struts O
+, O
+apache O
+torque O
+
+Analyzing O
+the O
+client O
+requirements O
+and O
+functional O
+areas O
+of O
+the O
+existing O
+system O
+, O
+coordinating O
+
+
+
+
+
+
+
+with O
+the O
+team O
+members O
+on O
+critical O
+problems O
+and O
+solving O
+, O
+technical O
+guidance O
+. O
+
+Developed O
+and O
+update O
+new O
+and O
+existence O
+feature O
+
+Environment O
+: O
+Java O
+1.6 O
+, O
+Struts,Eclipse O
+4.2 O
+, O
+Apache O
+torque O
+, O
+Log4j O
+, O
+RESTful O
+Web O
+Services O
+, O
+
+
+
+JQuery O
+, O
+Jersey O
+, O
+JSON O
+, O
+Tomcat O
+6 O
+. O
+
+
+
+May WE_Company_Location
+2014 WE_Company_Location
+to WE_Company_Location
+Continue WE_Company_Location
+
+Dynamic WE_Company_Location
+Solution WE_Company_Location
+Innovator(DSi WE_Company_Location
+) WE_Company_Location
+
+H#185,R#2 WE_Company_Location
+, WE_Company_Location
+Mohakhali WE_Company_Location
+DOHS WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+
+
+Sr WE_Job_Role
+. WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+
+Higher O
+Education O
+Software O
+systems O
+is O
+cloud O
+base O
+system O
+provide O
+a O
+unique O
+combination O
+of O
+
+innovative O
+educational O
+administration O
+software O
+, O
+strategies O
+, O
+and O
+services O
+developed O
+exclusively O
+
+for O
+higher O
+education O
+. O
+Cloud O
+Services O
+works O
+with O
+top O
+- O
+tier O
+commercial O
+data O
+centers O
+to O
+provide O
+
+world O
+- O
+class O
+colocation O
+facilities O
+that O
+meet O
+, O
+at O
+a O
+minimum O
+, O
+N+1 O
+redundancy O
+standards O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsibilities O
+
+Involved O
+in O
+backend O
+application O
+development O
+using O
+Java O
+, O
+JX O
+Framework O
+
+Responsible O
+for O
+creation O
+of O
+html O
+page O
+from O
+json O
+using O
+handlebars O
+. O
+
+Developed O
+file O
+structuring O
+system O
+to O
+upload O
+file O
+in O
+amazon O
+S3 O
+bucket O
+( O
+Simple O
+Storage O
+
+
+
+
+
+
+
+
+
+Service). O
+
+Integration O
+and O
+implement O
+AWS O
+Event O
+Notification O
+System O
+( O
+ENS O
+) O
+. O
+
+Integrate O
+AWS O
+Key O
+Management O
+Service(KMS O
+) O
+. O
+
+Integrate O
+AWS O
+Gateway O
+API O
+to O
+expose O
+Rest O
+services O
+. O
+
+Integrate O
+AWS O
+Lambda O
+to O
+run O
+some O
+process O
+
+Integrate O
+AWS O
+Identity O
+and O
+Access O
+Management O
+for O
+token O
+based O
+authentication O
+
+Integrate O
+Payment O
+gateway O
+Cashnet O
+, O
+Virtual O
+merchant O
+, O
+Payza O
+. O
+
+Environment O
+: O
+Java O
+1.8 O
+, O
+JX O
+Framework,Eclipse O
+4.2 O
+, O
+RabbitMQ(Cloude O
+amqp) O
+, O
+AmazonS3 O
+, O
+
+Amazon O
+SNS O
+, O
+Amazon O
+SQS O
+, O
+Amazon O
+KMS O
+, O
+AWS O
+Lamda O
+, O
+AWS O
+gateway O
+API O
+, O
+AWS O
+
+IAM O
+, O
+Swagger O
+2.0 O
+, O
+Heroku O
+, O
+Jetty O
+. O
+
+
+
+Progoti WE_Company_Location
+Systems WE_Company_Location
+LTD WE_Company_Location
+
+March WE_Company_Location
+2013 WE_Company_Location
+to WE_Company_Location
+March WE_Company_Location
+2014 WE_Company_Location
+
+R#11 WE_Company_Location
+, WE_Company_Location
+Bonany WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+
+Sr WE_Job_Role
+. WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+
+SureCash O
+is O
+a O
+Mobile O
+Financial O
+Service O
+( O
+MFS O
+) O
+network O
+offering O
+a O
+hosted O
+mobile O
+banking O
+and O
+
+payment O
+services O
+involving O
+banks O
+, O
+NGOs O
+, O
+mobile O
+network O
+operators O
+and O
+payment O
+affiliates O
+such O
+
+as O
+utility O
+companies O
+, O
+merchants O
+/ O
+retailers O
+, O
+employers O
+, O
+insurance O
+organizations O
+and O
+government O
+
+departments O
+. O
+
+Project O
+Involved O
+
+Surecash O
+API O
+to O
+perform O
+transaction O
+with O
+core O
+system O
+, O
+Surecash O
+gateway O
+for O
+smart O
+app O
+, O
+
+Payment O
+switch O
+for O
+interbank O
+transaction O
+
+Responsibilities O
+
+Involved O
+in O
+application O
+development O
+using O
+Java O
+, O
+Restful O
+, O
+J2EE O
+technologies O
+, O
+Spring O
+, O
+
+
+
+
+
+
+Hibernate O
+, O
+JPA O
+
+
+Responsible O
+for O
+updates O
+, O
+develop O
+service O
+of O
+Surecash O
+API O
+and O
+develop O
+gateway O
+for O
+smart O
+
+
+
+
+
+
+
+
+
+
+app O
+. O
+
+Developed O
+Gateway O
+for O
+smart O
+app O
+client O
+. O
+Here O
+implement O
+RSA O
+algorithm O
+and O
+create O
+a O
+
+
+
+
+
+
+
+
+dedicated O
+channel O
+using O
+private O
+and O
+public O
+key O
+encryption O
+. O
+
+Add O
+features O
+to O
+modify O
+user O
+information O
+on O
+the O
+Admin O
+site O
+
+Using O
+Spring O
+as O
+the O
+loC O
+container O
+and O
+Spring O
+transaction O
+management O
+
+Using O
+Grails O
+as O
+web O
+container O
+to O
+accept O
+user O
+requests O
+, O
+process O
+business O
+logic O
+and O
+
+
+
+
+
+
+
+
+
+
+
+respond O
+back O
+to O
+user O
+
+Developed O
+RESTful O
+Web O
+Services O
+as O
+middle O
+layer O
+to O
+retrieving O
+data O
+from O
+database O
+and O
+
+
+
+
+
+
+
+
+
+
+
+
+produce O
+Json O
+to O
+represent O
+data O
+in O
+restclient O
+. O
+
+Write O
+GQL O
+to O
+obtain O
+user O
+information O
+and O
+details O
+to O
+use O
+in O
+applications O
+
+Using O
+Hibernate O
+as O
+ORM O
+for O
+persisting O
+the O
+data O
+and O
+preform O
+HQL O
+, O
+to O
+perform O
+db O
+related O
+
+
+
+
+
+
+
+
+
+
+
+task O
+in O
+Surecash O
+API O
+and O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Struts,Eclipse O
+4.2 O
+, O
+
+
+
+RESTful O
+Web O
+
+Hibernate O
+3.5 O
+, O
+Log4j O
+, O
+
+
+
+
+
+January O
+2009 O
+to O
+February O
+2013 O
+
+JUnit O
+used O
+for O
+unit O
+testing O
+
+Log4j O
+used O
+to O
+log O
+messages O
+
+Environment O
+: O
+
+
+Java O
+1.6 O
+, O
+
+
+
+
+Services O
+, O
+Spring O
+3.2.3 O
+, O
+JQuery O
+, O
+Jersey O
+, O
+JSON O
+, O
+Tomcat O
+6 O
+. O
+
+
+
+Business WE_Company_Name
+Automation WE_Company_Name
+ltd WE_Company_Name
+. WE_Company_Name
+
+Level#9 WE_Company_Location
+, WE_Company_Location
+BDBL WE_Company_Location
+Bhaban WE_Company_Location
+, WE_Company_Location
+12 WE_Company_Location
+, WE_Company_Location
+Kawranbazar WE_Company_Location
+, WE_Company_Location
+Dhaka-1215 WE_Company_Location
+. WE_Company_Location
+
+Sr WE_Job_Role
+. WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+
+Project O
+: O
+
+Queue O
+Management O
+System O
+manages O
+a O
+queue O
+smartly O
+to O
+help O
+the O
+users O
+through O
+providing O
+
+
+
+
+better O
+service O
+to O
+customers O
+from O
+the O
+service O
+desk O
+with O
+a O
+specific O
+time O
+and O
+maintaining O
+serial O
+as O
+
+
+
+
+
+well O
+as O
+various O
+options O
+and O
+assure O
+priority O
+. O
+
+
+Module O
+1 O
+: O
+The O
+Queue O
+manager O
+which O
+is O
+the O
+main O
+server O
+application O
+containing O
+the O
+queue O
+
+
+
+
+
+
+
+algorithm O
+and O
+give O
+and O
+take O
+responds O
+to O
+and O
+from O
+other O
+modules O
+. O
+
+Module O
+2 O
+: O
+
+QData O
+Synchronizer O
+application O
+responsibility O
+is O
+to O
+synchronize O
+data O
+between O
+central O
+server O
+
+
+
+
+and O
+local O
+server O
+with O
+given O
+time O
+interval O
+. O
+The O
+central O
+server O
+and O
+local O
+server O
+have O
+different O
+type O
+
+
+
+
+
+
+
+
+
+of O
+databases O
+i.e. O
+central O
+server O
+may O
+contain O
+mysql O
+or O
+mssql O
+database O
+which O
+is O
+also O
+true O
+for O
+local O
+
+
+
+
+server O
+. O
+
+The O
+application O
+is O
+fully O
+compatible O
+for O
+following O
+combinations O
+. O
+
+Local O
+Server= O
+> O
+Central O
+Server O
+
+MYSQL O
+= O
+> O
+MSSQL O
+
+MYSQL O
+= O
+> O
+MYSQL O
+
+MSSQL O
+= O
+> O
+MYSQL O
+
+MSSQL O
+= O
+> O
+MSSQL O
+
+
+Module O
+3 O
+: O
+
+Qshowcase O
+is O
+a O
+display O
+system O
+in O
+which O
+token O
+and O
+associate O
+counter O
+numbers O
+are O
+listed O
+in O
+a O
+
+
+
+
+
+
+big O
+display O
+system O
+.It O
+is O
+a O
+swing O
+application O
+. O
+
+
+Module O
+4 O
+: O
+
+Token O
+disperser O
+is O
+a O
+kiosk O
+machine O
+in O
+which O
+service(s O
+) O
+are O
+selected O
+by O
+a O
+touch O
+screen O
+device O
+. O
+
+
+
+
+
+
+It O
+is O
+a O
+swing O
+application O
+. O
+
+
+Responsibilities O
+
+Analyzing O
+the O
+client O
+requirements O
+and O
+functional O
+areas O
+of O
+the O
+existing O
+system O
+, O
+
+coordinating O
+with O
+the O
+team O
+members O
+on O
+critical O
+problems O
+and O
+solving O
+, O
+technical O
+
+guidance O
+. O
+
+Developed O
+Licensing O
+for O
+Queue O
+system O
+which O
+verity O
+number O
+of O
+user O
+and O
+expire O
+date O
+
+using O
+True O
+License O
+API. O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implement O
+Observer O
+Design O
+pattern O
+and O
+guide O
+the O
+team O
+for O
+developing O
+Queue O
+
+showcase O
+for O
+Android O
+TV O
+box O
+
+Redesign O
+the O
+entire O
+Qshowcase O
+architecture O
+. O
+The O
+design O
+pattern O
+has O
+been O
+used O
+for O
+this O
+
+architecture O
+are O
+: O
+MVC O
+and O
+Observer. O
+
+Redesign O
+the O
+entire O
+token O
+dispenser O
+architecture O
+for O
+the O
+implementation O
+of O
+MVC O
+pattern O
+
+and O
+also O
+design O
+theme O
+for O
+buttons O
+i.e. O
+there O
+are O
+different O
+type O
+of O
+buttons O
+like O
+raise O
+button O
+, O
+
+round O
+button O
+etc O
+, O
+the O
+buttons O
+of O
+entire O
+application O
+will O
+be O
+changed O
+only O
+by O
+configuration O
+. O
+
+Developed O
+and O
+update O
+new O
+and O
+existence O
+feature O
+of O
+Queue O
+management O
+server O
+side O
+
+system O
+. O
+
+Used O
+Jersey O
+for O
+Queue O
+Server O
+as O
+Restful O
+implementation O
+
+Developed O
+and O
+design O
+multiple O
+database O
+management O
+system O
+for O
+supporting O
+different O
+
+database O
+system O
+using O
+factory O
+and O
+single O
+tone O
+design O
+pattern. O
+
+Used O
+HTML O
+, O
+JSP O
+, O
+JSTL O
+, O
+and O
+JQuery O
+for O
+Front O
+End O
+User O
+Interface O
+Design O
+. O
+
+Used O
+iReport O
+as O
+reporting O
+tool O
+and O
+JFree O
+chart O
+for O
+various O
+chart O
+in O
+web O
+frontend O
+. O
+
+
+Developed O
+Queue O
+data O
+synchronizer O
+which O
+is O
+able O
+to O
+sync O
+data O
+between O
+central O
+and O
+
+
+
+
+
+
+
+
+
+
+distributed O
+database O
+system O
+. O
+
+Design O
+Architecture O
+for O
+button O
+theme O
+and O
+instruct O
+team O
+to O
+implement O
+it O
+in O
+kiosk O
+which O
+
+
+
+
+
+
+
+
+
+
+is O
+swing O
+base O
+software O
+named O
+token O
+issuer O
+. O
+
+
+
+
+
+
+Involved O
+in O
+doing O
+various O
+testing O
+as O
+per O
+the O
+specifications O
+and O
+test O
+cases O
+including O
+Unit O
+
+
+
+
+
+
+and O
+Integration O
+testing O
+using O
+Junit4. O
+
+
+
+
+Environment O
+: O
+Java O
+1.6 O
+, O
+JSP O
+, O
+Servlets O
+2.5,Jersey,Android,Swing O
+, O
+JDBC O
+, O
+Tomcat O
+6 O
+, O
+Eclipse3.2 O
+, O
+
+
+
+
+UML O
+, O
+HTML O
+, O
+XML O
+, O
+Java O
+Web O
+Start O
+( O
+JNLP O
+) O
+. O
+, O
+Json O
+, O
+DHTML O
+, O
+MYSQL O
+, O
+MSSQL O
+, O
+jQuery O
+, O
+Junit O
+4 O
+. O
 
 
 Personal O
-Details O
+Detail O
 : O
 
-Father O
 
-Mother O
+Fathers O
+Name O
+
+: O
+S.M. O
+Aftab O
+Uddin O
+
+Mothers O
+Name O
+
+
+: O
+Begum O
+Umme O
+Salaha O
+
+Permanent O
+Address O
+: O
+Vill O
+: O
+Mongal O
+baria O
+bazar O
+, O
+P.O O
+: O
+Kushtia O
+, O
+P.S O
+: O
+Kushita O
+, O
+Dist O
+: O
+Kushtia O
+
+Current O
+Address O
+
+: O
+1st O
+floor O
+, O
+H#53,R#2 O
+, O
+Adarsa O
+Nagar O
+, O
+Modda O
+Badda O
+( O
+Link O
+road O
+) O
+, O
+Dhaka O
+
+Nationality O
+
+
+: O
+Bangladeshi O
+
+: O
+Islam O
+
+Religion O
+
 
 Date O
 of O
 Birth O
 
-Nationality O
+: O
+10th O
+January O
+, O
+1984 O
+
+: O
+Male O
+
+Sex O
+
+
+: O
+Married O
 
 Marital O
 Status O
 
-Gender O
+Experience O
 
-Blood O
-Group O
-
-Education O
-
-B.sc Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-
-East Education_Institution_Name
-West Education_Institution_Name
-University Education_Institution_Name
-
-HSC Education_Degree
-( O
-Science Education_Subject
-) O
-
-Rajshahi Education_Institution_Name
-Govt Education_Institution_Name
-. Education_Institution_Name
-City Education_Institution_Name
-College Education_Institution_Name
-
-SSC Education_Degree
-( O
-Science Education_Subject
-) O
-
-Rustompur Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-
-EDUCATION O
-
-CONTINUING O
-
-MBA Education_Degree
-( O
-Executive O
-) O
-/ O
-IBA Education_Institution_Name
+Solution WE_Job_Role
+Engineer WE_Job_Role
 , O
-Jahangirnagar Education_Institution_Name
+Oracle O
+Applications O
+at O
+TigerIT WE_Company_Name
+Bangladesh WE_Company_Name
+Ltd. WE_Company_Name
 
-University Education_Institution_Name
+November WE_Job_Duration
+2013 WE_Job_Duration
+- WE_Job_Duration
+Present WE_Job_Duration
+
+Oracle O
+Middleware O
+Applications O
+e.g. O
+Identity O
+and O
+Access O
+Management O
 , O
-Dhaka Education_Location
-
-Expected O
-to O
-complete O
-in O
-2018 O
-with O
-Major O
-in O
-MIS O
-
-SEPTEMBER Education_End_Year
-2010 Education_End_Year
-
-B.Sc Education_Degree
-. Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-
-Engineering Education_Subject
-/ O
-Khulna Education_Institution_Name
-University Education_Institution_Name
+Access O
+Manager O
 , O
+Oracle O
+RAC O
+, O
+EMC O
 
-Bangladesh Education_Location
-
-It O
-was O
-a O
-four O
-years O
-degree O
-with O
-160 O
-credits O
+SAN O
+, O
+Linux O
+, O
+Windows O
+Server O
+, O
+SQL O
+Server O
+, O
+ObserveIT O
+etc O
 . O
 
-Education O
-
-
-
-B.Sc Education_Degree
-. Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
+Senior O
+Engineer O
 ( O
-20072011 Education_Start_Year
-) O
-
-From O
-Ahsanullah Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Science Education_Institution_Name
-& Education_Institution_Name
-Technology Education_Institution_Name
-( Education_Institution_Name
-AUST Education_Institution_Name
-) Education_Institution_Name
-, O
-CGPA Education_Result
-3.612 Education_Result
-out Education_Result
-of Education_Result
-4.00 Education_Result
-
-Higher Education_Degree
-Secondary Education_Degree
-Certificate Education_Degree
-( Education_Degree
-HSC Education_Degree
-) Education_Degree
-( O
-2004 Education_Start_Year
-2006 Education_End_Year
-) O
-
-From O
-B.A.F. Education_Location
-Shaheen Education_Location
-College Education_Location
-( O
-Kurmitola O
-) O
-, O
-Dhaka Education_Location
-Mahanagari Education_Location
-, O
-GPA Education_Result
-4.60 Education_Result
-out Education_Result
-of Education_Result
-5.00 Education_Result
-
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
-SSC Education_Degree
-) Education_Degree
-( O
-2002 Education_Start_Year
-2004 Education_End_Year
-) O
-
-From O
-Motijheel Education_Institution_Name
-Model Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-, O
-Dhaka Education_Location
-, O
-GPA Education_Result
-4.31 Education_Result
-out Education_Result
-of Education_Result
-5.00 Education_Result
-
-Academic O
-Awards O
-
-University O
-Merit O
-Scholarship O
-( O
-in O
-three O
-semesters O
-out O
-of O
-eight O
-semesters O
-) O
-
-
-
-
-Contests O
-
--IAPC O
-programming O
-contest O
-2010 O
-: O
-7th O
-
--IUPC O
-programming O
-contest O
-2009 O
-: O
-43th O
-
--IAPC O
-programming O
-contest O
-2008 O
-: O
-13th O
-
--Participant O
-of O
-JICA O
-contest O
-
-EDUCATION O
-
-Bangladesh Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-and Education_Institution_Name
-Technology Education_Institution_Name
-
-Dhaka Education_Location
-, Education_Location
-Bangladesh Education_Location
-
-B.Sc Education_Degree
-, O
-Computer Education_Subject
-Science Education_Subject
-
-CGPA Education_Result
-: Education_Result
-3.29 Education_Result
-( Education_Result
-Maximum Education_Result
-GPA Education_Result
-: Education_Result
-3.85 Education_Result
-) Education_Result
-
-Thesis O
-Title O
-: O
-An O
-Ecient O
-Hybrid O
-Approach O
-for O
-Printed O
-Bengali O
-Character O
-Recognion O
-
-Bangladesh Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-and Education_Institution_Name
-Technology Education_Institution_Name
-
-Dhaka Education_Location
-, Education_Location
-Bangladesh Education_Location
-
-M.Sc Education_Degree
-, O
-Computer Education_Degree
-Science Education_Degree
-
-Thesis O
-Title O
-: O
-Development O
-of O
-A O
-Muldimensional O
-Anonymizaon O
-Technique O
-for O
-Preserving O
-Privacy O
-in O
-
-Parcipatory O
-Sensing O
-System O
-
-RESEARCH O
-WORKS O
-
-Topic O
-: O
-Encrypon O
-free O
-Privacy O
-Preservaon O
-in O
-Parcipatory O
-Sensing O
-( O
-Crowdsourcing O
-) O
+Network O
 and O
-it O
-'s O
-Security O
+Systems O
+) O
+at O
+nazdaqTechnologies O
+Inc. O
+
+August O
+2011 O
+- O
+October O
+2013 O
+( O
+2 O
+years O
+2 O
+months O
+) O
+
+Citrix O
+XenServer O
+, O
+XenDesktop O
+, O
+NAS O
+, O
+Vyatta O
+, O
+MS O
+Active O
+Directory O
+, O
+DNS O
+, O
+DHCP O
+, O
+Mail O
+, O
+Windows O
+Server O
+, O
+
+Ubuntu O
+etc O
+. O
+
+Network WE_Job_Role
+Engineer WE_Job_Role
+
+June WE_Job_Duration
+2010 WE_Job_Duration
+- WE_Job_Duration
+December WE_Job_Duration
+2010 WE_Job_Duration
+( WE_Job_Duration
+6 WE_Job_Duration
+months WE_Job_Duration
+) WE_Job_Duration
+
+PC O
+and O
+IP O
+Camera O
+Networking O
+, O
+Customer O
+support O
+
+PROFESSIONAL O
+EXPERIENCE O
+: O
+
+Project WE_Job_Role
+Manager WE_Job_Role
+
+1 O
+. O
+Jun WE_Job_Duration
+, WE_Job_Duration
+2016 WE_Job_Duration
+
+- WE_Job_Duration
+Still WE_Job_Duration
+to WE_Job_Duration
+Day WE_Job_Duration
+
+KONA WE_Company_Name
+Software WE_Company_Name
+Lab WE_Company_Name
+Limited WE_Company_Name
+
+Z WE_Company_Location
+Tower WE_Company_Location
+, WE_Company_Location
+House-4 WE_Company_Location
+, WE_Company_Location
+Road-132 WE_Company_Location
+, WE_Company_Location
+Gulshan-1 WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+. WE_Company_Location
+
+Job O
+Responsibility O
+: O
+
+Project O
+Planning O
+
+Prepare O
+Project O
+Plan O
+, O
+Estimate O
+effort O
+, O
+Time O
+Schedule O
+, O
+Budgeting O
+, O
+WBS O
+, O
+Risk O
+assessment O
+
+Business O
+requirement O
+& O
+process O
+analysis O
+Requirement O
+and O
+Change O
+Management O
+
+Defines O
+project O
+requirements O
+and O
+Identifying O
+project O
+milestones O
+, O
+
+Collaborate O
+with O
+stakeholders O
+and O
+review O
+Requirements O
+and O
+Design O
+
+Identifying O
+required O
+and O
+optional O
+changes O
+in O
+project O
+scope O
+; O
+negotiates O
+change O
+orders O
+
+Manage O
+project O
+team O
+and O
+coordinating O
+all O
+project O
+resources O
+
+Manages O
+resources O
+in O
+accordance O
+with O
+project O
+wise O
+schedule O
+. O
+Identifying O
+resources O
+needed O
+for O
+
+project O
+completion O
+and O
+assigning O
+individual O
+responsibilities O
+on O
+a O
+task O
+- O
+by O
+- O
+task O
+basis O
+
+Oversee O
+development O
+, O
+test O
+, O
+deployment O
+, O
+and O
+support O
+. O
+Communicate O
+status O
+with O
+stakeholders O
+, O
+
+and O
+resolve O
+issues O
+in O
+a O
+timely O
+manner O
+. O
+
+Monitor O
+/ O
+control O
+project O
+progress O
+to O
+ensure O
+project O
+is O
+built O
+on O
+schedule O
+and O
+within O
+budget O
+
+Develop O
+the O
+project O
+document O
+like O
+as O
+status O
+report O
+, O
+progress O
+report O
+and O
+lessons O
+learned O
+etc O
+. O
+
+Ensure O
+project O
+quality O
+on O
+the O
+project O
+and O
+respects O
+commitments O
+
+Technology WE_Job_Role
+Project WE_Job_Role
+Manager WE_Job_Role
+( O
+Deputy O
+Director O
+) O
+
+Dnet WE_Company_Name
+( O
+non O
+- O
+profit O
+Social O
+Enterprise O
+) O
+
+Head WE_Company_Location
+Office WE_Company_Location
+: WE_Company_Location
+4/8 WE_Company_Location
+Humayun WE_Company_Location
+Road WE_Company_Location
+, WE_Company_Location
+Block WE_Company_Location
+- WE_Company_Location
+B WE_Company_Location
+, WE_Company_Location
+Mohammadpur WE_Company_Location
+, WE_Company_Location
+Dhaka-1207 WE_Company_Location
+. WE_Company_Location
+
+2 O
+. O
+Apr WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
+
+- WE_Job_Duration
+Dec WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
+
+Job O
+Responsibility O
+: O
+
+Project O
+Planning O
+
+Prepare O
+Project O
+estimation O
+, O
+Project O
+Plan O
+, O
+Staff O
+planning O
+, O
+Time O
+Schedule O
+, O
+Budgeting O
+, O
+WBS O
+, O
+
+WBS O
+Dictionary O
+, O
+Carrying O
+out O
+Risk O
+assessment O
+
+Business O
+requirement O
+& O
+process O
+analysis O
+Requirement O
+and O
+Change O
+Management O
 
 Analysis O
+of O
+business O
+requirements O
+; O
+Defines O
+project O
+requirements O
+& O
+milestones O
+. O
 
-
-Status O
-: O
-Improved O
-an O
-O(N O
-! O
-) O
-algorithm O
-to O
-O(N O
-) O
+Reviews O
+and O
+edits O
+requirements O
+, O
+specifications O
 and O
 make O
-it O
-muldimensional O
-, O
-fault O
-tolerant O
+budget O
+for O
+change O
 and O
-robust O
+development O
+. O
+
+Project O
+Management O
+
+Lead O
+the O
+project O
+team O
+and O
+coordinating O
+all O
+project O
+resources O
+
+Manages O
+resources O
 in O
+accordance O
+with O
+project O
+wise O
+schedule O
+. O
+Identifying O
+resources O
+needed O
+for O
 
-many O
-aspect O
-
-EDUCATION O
-
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-Engineering Education_Subject
-, O
-University Education_Institution_Name
-of Education_Institution_Name
-Dhaka Education_Institution_Name
-
-M.Sc Education_Degree
-. Education_Degree
-2011 Education_Start_Year
+project O
+completion O
+and O
+assigning O
+individual O
+responsibilities O
+on O
+a O
+task O
 - O
-2012 Education_End_Year
-
-B.Sc Education_Degree
-. Education_Degree
-2005 Education_Start_Year
+by O
 - O
-2010 Education_End_Year
+task O
+basis O
 
+Monitor O
+/ O
+control O
+project O
+progress O
+to O
+ensure O
+project O
+is O
+built O
+on O
+schedule O
+and O
+within O
+budget O
 
-Dhaka Education_Institution_Name
-College Education_Institution_Name
+Develop O
+the O
+project O
+document O
+like O
+as O
+status O
+report O
 , O
-Dhaka Education_Location
+progress O
+report O
+and O
+lessons O
+learned O
+etc O
+. O
 
-H.S.C. Education_Degree
-2005 Education_Start_Year
+Organize O
+and O
+coordinate O
+User O
+Acceptance O
+Testing O
+with O
+the O
+business O
+users O
+and O
+Solutions O
+team O
 
+to O
+ensure O
+all O
+scenarios O
+are O
+conducted O
+and O
+results O
+properly O
+documented O
 
-Government Education_Institution_Name
-Laboratory Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
-, O
-Dhaka Education_Location
+Prepare O
+/ O
+define O
+different O
+Process O
+and O
+Artifact O
+. O
 
-S.S.C. Education_Degree
-2003 Education_End_Year
+Maintain O
+continues O
+process O
+improvement O
+cycle O
+. O
 
-EDUCATION O
-
-
-
-BSc Education_Degree
+Promote O
+best O
+practice O
 in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-
-American Education_Institution_Name
-International Education_Institution_Name
-University Education_Institution_Name
-- O
-Bangladesh Education_Location
-
-CGPA Education_Result
-: Education_Result
-2.78 Education_Result
-out Education_Result
-of Education_Result
-4.00 Education_Result
-
-Credit O
-Completed O
-: O
-148 O
+the O
+development O
 of O
-148 O
-( O
-ID O
+information O
+systems O
+. O
+
+Ensure O
+development O
+, O
+implementation O
+and O
+maintenance O
+of O
+all O
+policies O
+related O
+to O
+ICT O
+services O
+
+Testing O
+and O
+QC O
+
+Additional O
+Job O
+Responsibility O
 : O
-13 O
-- O
-24958 O
-- O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System WE_Job_Role
+Analyst WE_Job_Role
+& WE_Job_Role
+Project WE_Job_Role
+Manager WE_Job_Role
+, O
+TechnoVista WE_Company_Name
+Limited WE_Company_Name
+. O
+
+North WE_Company_Location
+Tower WE_Company_Location
+( WE_Company_Location
+12th WE_Company_Location
+Floor WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+Sector WE_Company_Location
+7 WE_Company_Location
+, WE_Company_Location
+Uttara WE_Company_Location
+Model WE_Company_Location
+Town WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+1230 WE_Company_Location
+. WE_Company_Location
+
 3 O
-) O
-
-
-
-Higher Education_Degree
-Secondary Education_Degree
-Certificate Education_Degree
-
-Ananda Education_Institution_Name
-Mohon Education_Institution_Name
-College Education_Institution_Name
-, O
-Mymensingh Education_Location
-
-GPA Education_Result
-: Education_Result
-4.30 Education_Result
-out Education_Result
-of Education_Result
-5.00 Education_Result
-
-Group O
-: O
-Science Education_Subject
-
-
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-
-
-Mymensingh Education_Institution_Name
-Zilla Education_Institution_Name
-School Education_Institution_Name
 . O
-Mymensingh Education_Location
-. O
+Jun WE_Job_Duration
+, WE_Job_Duration
+2012 WE_Job_Duration
 
-GPA Education_Result
-: Education_Result
-5.00 Education_Result
-out Education_Result
-of Education_Result
-5.00 Education_Result
+- WE_Job_Duration
+Mar WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
 
-Group O
-: O
-Science Education_Subject
-
-Education O
+Job O
+Responsibility O
 : O
 
-Bachelors Education_Degree
-of Education_Degree
-Engineering Education_Degree
-from O
-Medicaps Education_Institution_Name
-Institute Education_Institution_Name
-of Education_Institution_Name
-Technology Education_Institution_Name
-and Education_Institution_Name
-Management Education_Institution_Name
+Project O
+Management- O
+Estimate O
+Project O
+effort O
 , O
-Indore Education_Location
-
-in O
-2011 Education_End_Year
-. O
-
-Education O
-
-B.E Education_Degree
-( O
-Electronics Education_Subject
-and Education_Subject
-Telecommunication Education_Subject
-) O
-from O
-Goa Education_Institution_Name
-University Education_Institution_Name
+Prepare O
+Project O
+plan O
 , O
-in O
-2008 Education_End_Year
-with O
-65 Education_Result
-% Education_Result
-marks Education_Result
-
-XII Education_Degree
-from O
-Goa Education_Institution_Name
-Board Education_Institution_Name
-In O
-2004 Education_End_Year
-with O
-72 Education_Result
-% Education_Result
-marks Education_Result
-
-X Education_Degree
-from O
-CBSE Education_Institution_Name
-Board O
-in O
-2002 Education_End_Year
-with O
-80 Education_Result
-% Education_Result
-marks Education_Result
-
-Education O
-
-
-Name O
-of O
-Institution O
-
+WBS O
+, O
+Staffing O
+Planning O
+, O
 Time O
-of O
-Graduation O
-
-Name O
-of O
-Degree O
-
-University Education_Institution_Name
-of Education_Institution_Name
-Texas Education_Institution_Name
-at Education_Institution_Name
-Dallas Education_Institution_Name
+Schedule O
 , O
-U.S.A Education_Location
-December Education_End_Year
-2003 Education_End_Year
 
-Master Education_Degree
-of Education_Degree
-Science Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
+Budgeting O
+. O
 
+Software O
+Requirements O
+Collection O
+
+Determines O
+operational O
+objectives O
+by O
+studying O
+business O
+functions O
+; O
+gathering O
+information O
+; O
+
+evaluating O
+output O
+requirements O
+and O
+formats O
+. O
+
+Defines O
+project O
+requirements O
+by O
+identifying O
+project O
+milestones O
+, O
+phases O
+, O
+and O
+elements O
+; O
+forming O
+
+project O
+team O
+; O
+establishing O
+project O
+budget O
+. O
+
+Software O
+Documentation O
+Preparation O
+and O
+writing O
+
+Designs O
+new O
+computer O
+programs O
+by O
+analyzing O
+requirements O
+; O
+constructing O
+workflow O
+charts O
+and O
+
+diagrams O
+; O
+studying O
+system O
+capabilities O
+; O
+writing O
+specifications O
+. O
+
+Write O
+Business O
+Requirements O
+Specification O
 ( O
-Telecommunication O
-Network O
+BRS O
+) O
+, O
+Write O
+Inception O
+report O
+, O
+Prepare O
+Software O
+
+Requirements O
+Specification O
+( O
+SRS O
+) O
+, O
+High O
+Level O
+Design O
+( O
+HLD O
+) O
+and O
+Low O
+Level O
+Design O
+( O
+LLD O
 ) O
 
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-University Education_Institution_Name
-of Education_Institution_Name
-Texas Education_Institution_Name
-at Education_Institution_Name
-Dallas Education_Institution_Name
+document O
+
+Change O
+Management O
+: O
+Reviews O
+and O
+edits O
+requirements O
 , O
-U.S.A Education_Location
-December Education_End_Year
-2001 Education_End_Year
+specifications O
+and O
+make O
+budget O
+for O
 
-Training O
-Summary O
+change O
+& O
+development O
+. O
+
+Testing O
+and O
+QC O
+
+Participates O
+in O
+functional O
+and O
+integration O
+testing O
+
+Organize O
+and O
+coordinate O
+User O
+Acceptance O
+Testing O
+with O
+the O
+business O
+users O
+and O
+Solutions O
+team O
+
+to O
+ensure O
+all O
+scenarios O
+are O
+conducted O
+and O
+results O
+properly O
+documented O
+
+Document O
+test O
+scenarios O
+for O
+User O
+Acceptance O
+Testing O
+
+Business O
+Process O
+or O
+System O
+Analysis- O
+Study O
+& O
+Analyze O
+client O
+current O
+business O
+process O
+. O
+
+Additional O
+Job O
+Responsibility O
+: O
+
+Manage O
+projects O
+as O
+a O
+Project O
+Manager O
+for O
+CMMi O
+level-3 O
+appraisal O
+process O
+. O
+
+Prepare O
+/ O
+define O
+different O
+Process O
+and O
+Artifact O
+. O
+
+Maintain O
+continues O
+process O
+improvement O
+cycle O
+. O
+
+Provide O
+training O
+& O
+orientation O
+for O
+different O
+CMMi O
+process O
+. O
+
+Develop O
+the O
+project O
+document O
+like O
+as O
+project O
+risk O
+, O
+issues O
+, O
+status O
+report O
+, O
+progress O
+report O
+and O
+
+lessons O
+learned O
+etc O
+
+Business WE_Job_Role
+Analyst WE_Job_Role
+, O
+CSL WE_Company_Name
+SoftwareResource WE_Company_Name
+Ltd. WE_Company_Name
+
+House WE_Job_Duration
+# WE_Job_Duration
+53 WE_Job_Duration
+, WE_Job_Duration
+Road WE_Job_Duration
+# WE_Job_Duration
+7 WE_Job_Duration
+, WE_Job_Duration
+Sector WE_Job_Duration
+# WE_Job_Duration
+4 WE_Job_Duration
+, WE_Job_Duration
+Uttara WE_Job_Duration
+. WE_Job_Duration
+Phone O
+: O
+02 O
+- O
+8958176 O
+, O
+8955334 O
+; O
+
+4 O
+. O
+May WE_Job_Duration
+, WE_Job_Duration
+2010 WE_Job_Duration
+
+- WE_Job_Duration
+Jun WE_Job_Duration
+, WE_Job_Duration
+2012 WE_Job_Duration
+
+Job O
+Responsibility O
+: O
+
+Project O
+Management- O
+
+Defining O
+a O
+project O
+plan O
+that O
+takes O
+into O
+consideration O
+all O
+business O
+process O
+and O
+information O
+system O
+aspects O
+, O
+
+and O
+managing O
+the O
+project O
+to O
+meet O
+its O
+requirement O
+, O
+time O
+, O
+quality O
+, O
+and O
+cost O
+objectives O
+
+Develop O
+organizational O
+plan O
+, O
+communication O
+plan O
+, O
+roles O
+and O
+responsibilities O
+matrix O
+, O
+implementation O
+plan O
+, O
+
+developing O
+project O
+schedule O
+, O
+conducting O
+meetings O
+, O
+status O
+reporting O
+including O
+project O
+accounting O
+. O
+Facilitate O
+
+project O
+deliverables O
+such O
+as O
+business O
+requirements O
+, O
+conceptual O
+and O
+technical O
+design O
+documents O
+, O
+
+development O
+work O
+, O
+testing O
+, O
+conducting O
+pilots O
+and O
+deployment O
+of O
+solution O
+
+Business O
+Process O
+Analysis O
+and O
+Change O
+Management- O
+
+Study O
+Client O
+s O
+business O
+process O
+, O
+Requirement O
+Analysis O
+( O
+Identifying O
+top O
+management O
+objectives O
+) O
+, O
+the O
+
+strategic O
+objectives O
+, O
+change O
+management O
+issues O
+. O
+
+Analysis O
+the O
+process O
+& O
+Requirements O
+of O
+Merchandise O
+Planning O
+, O
+Fabric O
+& O
+Garments O
+Production O
+, O
+
+Production O
+Accounting O
+, O
+Supply O
+chain O
+& O
+Inventory O
+Management O
+, O
+International O
+Trade O
+Payment O
+and O
+other O
+
+Functional O
+Requirements O
+of O
+finance O
+and O
+accounting O
+, O
+procurement O
+, O
+sales O
+, O
+distribution O
+and O
+quality O
+Control O
+. O
+
+Reviews O
+and O
+edits O
+requirements O
+, O
+specifications O
+, O
+business O
+processes O
+and O
+recommendations O
+related O
+to O
+
+proposed O
+solution O
+. O
+
+Gap O
+Analysis O
+( O
+Analysis O
+of O
+gaps O
+between O
+current O
+situation O
+and O
+final O
+business O
+objective O
+) O
+, O
+Mapping O
+of O
+Business O
+
+Rules O
+into O
+ERP O
+System O
+. O
+Analyzing O
+current O
+software O
+system O
+and O
+reporting O
+bugs O
 
 
-Training O
-Title O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testing O
+and O
+QC O
+
+Project O
+Implementation/ O
+Execution O
+
+Follow O
+proper O
+testing O
+methodology- O
+functional O
+and O
+integration O
+testing O
+
+Leading O
+the O
+QA O
+team O
+and O
+reviewing O
+deliverables O
+prior O
+to O
+project O
+completion O
+
+Organize O
+and O
+coordinate O
+User O
+Acceptance O
+Testing O
+with O
+the O
+business O
+users O
+and O
+Solutions O
+team O
+to O
+ensure O
+
+all O
+scenarios O
+are O
+conducted O
+and O
+results O
+properly O
+documented O
+
+Preparing O
+the O
+Demo O
+Databases O
+specific O
+to O
+the O
+client O
+and O
+present O
+the O
+product O
+( O
+ERP O
+) O
+functional O
+
+demonstration O
+
+Developing O
+technical O
+specifications O
+and O
+diagrams O
+using O
+Microsoft O
+Visio O
+, O
+System O
+Configuration O
+and O
+
+Structure O
+to O
+Assisted O
+team O
+members O
+in O
+designs O
+, O
+plans O
+, O
+and O
+coordination O
+with O
+work O
+teams O
+
+Assists O
+in O
+the O
+facilitation O
+of O
+team O
+and O
+client O
+meetings O
+. O
+
+Plan O
+and O
+manage O
+training O
+approach O
+and O
+Provide O
+training O
+to O
+user O
+and O
+organized O
+presentations O
+
+Manages O
+resources O
+in O
+accordance O
+with O
+project O
+schedule O
+. O
+Identifying O
+resources O
+needed O
+for O
+project O
+
+completion O
+and O
+assigning O
+individual O
+responsibilities O
+on O
+a O
+task O
+- O
+by O
+- O
+task O
+basis O
+
+Effectively O
+managing O
+project O
+risk O
+and O
+exposure O
+
+Consistently O
+delivers O
+high O
+- O
+quality O
+services O
+. O
+Understands O
+the O
+components O
+of O
+running O
+a O
+fiscally O
+successful O
+
+Project O
+. O
+
+Executive WE_Job_Role
+, O
+Planning O
+& O
+Installation O
+, O
+Creative O
+Paper O
+Mills O
+Ltd. O
+( O
+CPML O
+) O
+
+Head O
+Office O
+: O
+Amin WE_Company_Location
+Court WE_Company_Location
+( WE_Company_Location
+2nd WE_Company_Location
+fl WE_Company_Location
+. WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+62 WE_Company_Location
+- WE_Company_Location
+63 WE_Company_Location
+, WE_Company_Location
+Motijheel WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+, WE_Company_Location
+Dhaka-1000 WE_Company_Location
+. WE_Company_Location
+
+Factory O
+: O
+Rupshi O
+, O
+Rupgonj O
+, O
+Narayangonj O
+. O
+Phone O
+: O
+9561926 O
+, O
+7160245 O
+
+5.1 O
+Jul O
+, O
+2008 O
+
+- O
+May O
+2010 O
+
+Job O
+Responsibility O
+: O
+
+Taking O
+responsibility O
+for O
+the O
+effective O
+flow O
+of O
+information O
+between O
+team O
+members O
+, O
+participants O
+in O
+
+project O
+activities O
+. O
+Facilitate O
+Coordination O
+with O
+all O
+departments O
+to O
+ensure O
+completion O
+of O
+data O
+
+updates O
+, O
+process O
+improvements O
+and O
+projects O
+
+Regular O
+liaison O
+with O
+the O
+head O
+office O
+, O
+oversee O
+contract O
+& O
+consultant O
+( O
+Civil O
+, O
+Mechanical O
+, O
+Electrical O
+, O
+
+Business O
+) O
+and O
+chief O
+of O
+different O
+department O
+of O
+the O
+project O
+- O
+drawing O
+, O
+and O
+other O
+related O
+matters O
+. O
+
+Design O
+, O
+Planning O
+and O
+Drawing O
+of O
+the O
+project O
+drawn O
+by O
+AutoCAD O
+
+Ongoing O
+evaluation O
+of O
+project O
+activity O
+and O
+reporting O
+on O
+project O
+progress O
+to O
+the O
+top O
+management O
+. O
+
+To O
+monitor O
+the O
+overall O
+Record O
+keeping O
+, O
+MIS O
+activities O
+in O
+the O
+office O
+. O
+
+Make O
+financial O
+budget O
+for O
+material O
+and O
+material O
+procurement O
+and O
+make O
+comparative O
+financial O
+
+statement O
+of O
+supplier O
+for O
+different O
+product O
+. O
+
+Supervision O
+of O
+fabrication O
+work O
+and O
+implementation O
+work O
+of O
+the O
+project O
+
+Executive WE_Job_Role
+, O
+HR O
+& O
+MIS O
+, O
+Creative WE_Company_Name
+Engineers WE_Company_Name
+Ltd. WE_Company_Name
+( O
+CEL O
+) O
+
+Amin WE_Company_Location
+Court WE_Company_Location
+( WE_Company_Location
+2nd WE_Company_Location
+fl WE_Company_Location
+. WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+62 WE_Company_Location
+- WE_Company_Location
+63 WE_Company_Location
+, WE_Company_Location
+Motijheel WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+, WE_Company_Location
+Dhaka-1000.Phone WE_Company_Location
+: O
+9561926 O
+, O
+9567379 O
+; O
+
+5.2 O
+. O
+Jan WE_Job_Duration
+, WE_Job_Duration
+2008 WE_Job_Duration
+
+- WE_Job_Duration
+Jun WE_Job_Duration
+, WE_Job_Duration
+2008 WE_Job_Duration
+
+Job O
+Responsibility O
+: O
+
+To O
+monitor O
+the O
+overall O
+activities O
+in O
+the O
+office O
+, O
+Automation O
+, O
+Record O
+keeping O
+, O
+MIS O
+
+Development O
+and O
+Analysis O
+. O
+
+HRIS O
+planning O
+, O
+reporting O
+, O
+updates O
+the O
+information O
+
+Personnel O
+Services O
+, O
+Protocol O
+and O
+reporting O
+etc O
+. O
+
+To O
+assist O
+the O
+HRIS O
+Management O
+in O
+the O
+development O
+, O
+Implementation O
+of O
+policies O
+and O
+
+Monitor O
+it O
+s O
+regular O
+practices O
+. O
+Personnel O
+Services O
+, O
+Protocol O
+and O
+reporting O
+
+7169439 O
+
+6 O
+. O
+May O
+, O
+2006 O
+Executive WE_Job_Role
+( O
+IT O
+Support O
+) O
+, O
+Bio WE_Company_Name
+- WE_Company_Name
+Access WE_Company_Name
+Tech WE_Company_Name
+Co. WE_Company_Name
+
+-Nov O
+, O
+2007 O
+Baitul WE_Company_Location
+Hossain WE_Company_Location
+Building WE_Company_Location
+( WE_Company_Location
+Suite#1204 WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+27 WE_Company_Location
+, WE_Company_Location
+Dilkusha WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+, WE_Company_Location
+Dhaka-1000 WE_Company_Location
+. WE_Company_Location
+Phone O
+: O
+9556208 O
+, O
+
+Job O
+Responsibility O
+: O
+
+Design O
+, O
+Develop O
+, O
+Testing O
+Bio O
+- O
+HRMS O
+software O
+, O
+
+Provide O
+technical O
+Support O
+for O
+hardware O
+and O
+software O
+, O
+Maintains O
+clients O
+Database O
+/ O
+information O
+, O
+
+Configure O
+the O
+fingerprint O
+/ O
+RF O
+- O
+card O
+device O
+and O
+Software O
+, O
+
+Trouble O
+- O
+shooting O
+and O
+routine O
+maintenance O
+of O
+IT O
+equipments O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT O
+: O
+
+Project O
+Name O
+and O
+Client O
+
+Project O
+: O
+Develop O
+, O
+Implement O
+and O
+
+Maintain O
+MIS O
+at O
+BARC O
+and O
+NARS O
+
+Institutes O
+
+( O
+Government O
+of O
+Bangladesh O
+( O
+GOB O
+) O
+
+is O
+implementing O
+the O
+National O
+
+Agricultural O
+Technology O
+Project O
+
+( O
+NATP O
+) O
+with O
+financial O
+assistance O
+
+from O
+the O
+World O
+Bank O
+) O
+
+Client O
+: O
+Bangladesh O
+Agricultural O
+
+Research O
+Council O
+( O
+BARC O
+) O
+
+Project O
+: O
 Project O
 Management O
 
-PMP O
-Exam O
+Information O
+System O
+( O
+PMIS O
+) O
 
-Preparation O
+Client O
+: O
+Integrated O
+Agriculture O
 
-Topic O
+Productivity O
+Project O
+( O
+IAPP O
+) O
+
+( O
+Funded O
+by O
+World O
+Bank O
+. O
+) O
 
 Project O
+: O
+University O
+Automation O
 
-Management O
+Software O
 
-Project O
+( O
+Higher O
 
-Management O
+Experience O
+
+Mobile WE_Job_Role
+App WE_Job_Role
+Developer WE_Job_Role
+- O
+( O
+UI O
+Design O
+and O
+Development O
+) O
+
+DigiTechLabs WE_Company_Name
+
+10/2016 WE_Job_Duration
+	 WE_Job_Duration
+	 WE_Job_Duration
+Present WE_Job_Duration
+
+Dhaka WE_Company_Location
+, WE_Company_Location
+Bangladesh WE_Company_Location
+
+Since O
+	 O
+2011 O
+, O
+	 O
+Digitech O
+	 O
+Labs O
+	 O
+has O
+	 O
+been O
+	 O
+delivering O
+	 O
+full O
+	 O
+cycle O
+	 O
+software O
+	 O
+development O
+	 O
+services O
+	 O
+to O
+	 O
+customers O
+	 O
+in O
+	 O
+over O
+	 O
+30 O
+	 O
+countries O
+	 O
+worldwide O
+. O
+	 O
+Digitech O
+	 O
+Labs O
+	 O
+is O
+	 O
+an O
+
+expert O
+	 O
+in O
+	 O
+development O
+, O
+	 O
+customization O
+	 O
+and O
+	 O
+integration O
+	 O
+of O
+	 O
+complex O
+	 O
+enterprise O
+- O
+level O
+	 O
+solutions O
+, O
+	 O
+advanced O
+	 O
+web O
+	 O
+and O
+	 O
+mobile O
+	 O
+applications O
+	 O
+oering O
+	 O
+a O
+	 O
+well- O
+
+balanced O
+	 O
+blend O
+	 O
+of O
+	 O
+technology O
+	 O
+skills O
+, O
+	 O
+domain O
+	 O
+knowledge O
+, O
+	 O
+hands O
+- O
+on O
+	 O
+experience O
+, O
+	 O
+eective O
+	 O
+methodology O
+	 O
+and O
+	 O
+passion O
+	 O
+for O
+	 O
+IT O
+. O
+
+Tasks O
+/ O
+Achievements O
+
+Mobile O
+Application O
+UI O
+Design O
+( O
+iOS O
+and O
+Android O
+) O
+
+Mobile O
+Application O
+UX O
+Design O
+( O
+iOS O
+and O
+Android O
+) O
+
+Ensuring O
+The O
+Quality O
+Of O
+The O
+Mobile O
+Application O
+By O
+Performing O
+Manual O
+and O
+Automated O
+Testing O
+
+Preparing O
+SRS O
+( O
+Software O
+Requirement O
+Specication O
+) O
+
+Preparing O
+Dierent O
+Prototype O
+Using O
+( O
+Invision O
+, O
+Principle O
+, O
+Flinto O
+, O
+Framer O
+) O
+
+Skills O
+& O
+Competences O
+
+Software O
+Development O
+
+Service O
+Architecture O
+
+UX O
+Design O
+
+HTML O
+, O
+CSS O
+, O
+J O
+S O
 
 Professional O
-( O
-PMP O
+Experience O
 
-under O
-PMI O
-) O
+Junior WE_Job_Role
+Developer WE_Job_Role
+at O
+DataRobin WE_Company_Name
+from O
+January WE_Job_Duration
+to WE_Job_Duration
+August WE_Job_Duration
+2016 WE_Job_Duration
+where O
+I O
+worked O
+on O
+Data O
 
-Institute O
-
-Country O
-
-Jobs O
-ICT O
-Bangladesh O
-
-WIZARDEA O
-Bangladesh O
-
-Location O
-
-Dhaka O
+Representation O
 , O
-
-Bangladesh O
-
-Dhaka O
+Penny O
+Stock O
+Market O
+Analysis O
 , O
-
-Bangladesh O
-
-Year O
-Duration O
-
-2008 O
-40 O
-hours O
-
-2011 O
-40 O
-Hours O
-
-Academic O
-Qualification O
-: O
-
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-Engineering Education_Subject
-( O
-Appeared O
-) O
-
-Institution O
-: O
-Stamford Education_Institution_Name
-University Education_Institution_Name
-Bangladesh Education_Location
+Face O
+Recognition O
 . O
 
-Year O
+Intern O
+at O
+Solution O
+Art O
+for O
+the O
+month O
 of O
-passing O
-: O
-2018 Education_End_Year
+November O
+2014 O
+where O
+I O
+worked O
+on O
+Embedded O
+
+System O
+to O
+ensure O
+Home O
+Security O
+. O
 
 
-Higher Education_Degree
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
-H. Education_Degree
-S. Education_Degree
-C. Education_Degree
-) Education_Degree
+Leadership O
+Experience O
 
+
+Librarian O
+for O
+2011 O
+- O
+2012 O
+and O
+Volunteer O
 Group O
+Leader O
+at O
+CLUSTER O
+- O
+IT O
+Club O
+of O
+Khulna O
+
+University O
+. O
+
+Vice O
+President O
+of O
+Volunteer O
+for O
+Bangladesh O
+, O
+Khulna O
+for O
+2012 O
+- O
+2014 O
+. O
+
+Vice O
+President O
+of O
+Publication O
+at O
+Notre O
+Dame O
+College O
+Nature O
+Study O
+Club O
+. O
+
+Participated O
+as O
+Youth O
+Leader O
+at O
+BYLC O
+Youth O
+Leadership O
+Summit O
+2012 O
+. O
+
+Workshop O
+Conducted O
+
+
+
+
+Machine O
+Learning O
+Beyond O
+an O
+introductory O
+workshop O
+on O
+Machine O
+Learning O
+in O
+PyCamp O
+
+
+Khulna O
+organized O
+by O
+PythonBD O
+. O
+
+Cluster O
+I O
+Robo O
+, O
+My O
+Robo O
+a O
+7 O
+days O
+workshop O
+on O
+Microcontroller O
+and O
+Line O
+Follower O
+Robot O
+. O
+
+
+Trainer O
+at O
+KUPC O
+- O
+group O
+for O
+programming O
+contest O
+for O
+the O
+students O
+of O
+Khulna O
+University O
+. O
+
+
+Projects O
+
+Smart O
+Burner O
+
+A O
+smart O
+gas O
+burner O
+with O
+remote O
+control O
+facility O
+from O
+smart O
+phone O
+and O
+gas O
+leakage O
+detection O
+which O
+
+stood O
+8th O
+in O
+Make O
+- O
+a O
+- O
+thon O
+2016 O
+and O
+awarded O
+a O
+research O
+fund O
+from O
+ICT O
+Ministry O
+. O
+
+Tools O
 : O
-Science Education_Subject
+Arduino O
+UNO O
+, O
+Android O
+SDK O
+. O
+
+Rickshaw O
+Racing O
+
+It O
+s O
+a O
+game O
+developed O
+for O
+android O
+driven O
+handheld O
+devices O
+which O
+stood O
+1st O
+in O
+EATL O
+App O
+Development O
+
+Contest O
+2015 O
+. O
+I O
+developed O
+AI O
+for O
+the O
+racing O
+. O
+
+Tools O
+: O
+Unity O
+5 O
+, O
+3D O
+Studio O
+Max O
+. O
+
+Download O
+Link O
+: O
+http://eatlapps.com/apps/app_details/519 O
+
+Autonomous O
+Obstacle O
+Avoiding O
+Maze O
+Solver O
+Mobile O
+Robot O
+
+It O
+s O
+a O
+line O
+follower O
+robot O
+that O
+can O
+solve O
+maze O
+and O
+avoid O
+obstacle O
+that O
+is O
+on O
+the O
+track O
+. O
+I O
+developed O
+and O
+
+implemented O
+PID O
+Algorithm O
+for O
+the O
+robot O
+. O
+
+Tools O
+: O
+Arduino O
+Uno O
+. O
+
+Robotic O
+Arm O
+
+A O
+robotic O
+with O
+arm O
+with O
+360 O
+degree O
+of O
+freedom O
+. O
+
+Tools O
+: O
+Arduino O
+UNO O
+
+
+2 O
+| O
+P O
+a O
+g O
+e O
+
+
+
+
+
+
+
+
+BSc O
+Engineering O
+in O
+CSE O
+
+Degree O
+
+Examination O
+
+Examination O
+
+Secondary O
+School O
+Certification O
+
+Higher O
+Secondary O
+School O
+Certification O
+
+Face O
+Recognizer O
+
+It O
+s O
+an O
+Android O
+App O
+that O
+can O
+detect O
+face O
+and O
+recognize O
+the O
+person O
+if O
+the O
+person O
+s O
+info O
+is O
+previously O
+
+saved O
+. O
+I O
+developed O
+it O
+as O
+an O
+academic O
+project O
+using O
+eigenvalue O
+of O
+the O
+images O
+. O
+
+Tools O
+: O
+OpenCv O
+2.4.9 O
+Android O
+SDK O
+. O
+
+
+Research O
+Work O
+
+
+My O
+undergraduate O
+thesis O
+entitled O
+Identifying O
+miRNA O
+- O
+mRNA O
+Causal O
+Regulatory O
+Relationship O
+Using O
+
+Multiple O
+Computational O
+Methods O
+Through O
+Gene O
+Family O
+Prediction O
+is O
+published O
+in O
+ICIEV O
+2016 O
+. O
+
+
+Academic O
+Background O
+
+
+Year O
+
+Result O
 
 Institution O
-: O
-Saint Education_Institution_Name
-Joseph Education_Institution_Name
-Higher Education_Institution_Name
-Secondary Education_Institution_Name
-School Education_Institution_Name
+
+WORK O
+EXPERIENCE O
+
+April WE_Job_Duration
+2016-Present WE_Job_Duration
+
+
+
+Junior WE_Job_Role
+SQA WE_Job_Role
+Engineer WE_Job_Role
 , O
-Dhaka Education_Location
+Bit WE_Company_Name
+Mascot WE_Company_Name
+( WE_Company_Name
+PVT WE_Company_Name
+) WE_Company_Name
+Ltd WE_Company_Name
 
-Year O
-of O
-passing O
+Game O
+Analysis O
+and O
+Quality O
+Assurance O
+. O
+
+
+Job O
+Responsibilities O
 : O
-2012 Education_End_Year
+
+Testing O
+game O
+applications O
+and O
+suggesting O
+refinements O
+that O
+ensure O
+
+its O
+quality O
+and O
+playability O
+. O
+
+Assuring O
+quality O
+in O
+a O
+game O
+and O
+finding O
+all O
+its O
+flaws O
+before O
+it O
+goes O
+
+public O
+
+Analyzing O
+recent O
+trends O
+and O
+writing O
+articles O
+for O
+organization O
+website O
+. O
 
 
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
-S. Education_Degree
-S. Education_Degree
-C. Education_Degree
-) Education_Degree
-
-Group O
-: O
-Science Education_Subject
-
-Institution O
-: O
-Badarganj Education_Institution_Name
-ML Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
+Web O
+Developer O
 , O
-Badarganj Education_Location
-, Education_Location
-Rangpur Education_Location
+Innovation O
+Softs O
 
-Year O
+Maintaining O
+WordPress O
+Website O
+
+
+
+Volunteer O
+, O
+Women O
+Tech O
+Makers O
+Bangladesh O
+
+
+
+Microsoft O
+Student O
+Partners O
+
+Organized O
+workshop O
+teaching O
+Fresher O
+Students O
+how O
+to O
+use O
+Visual O
+
+Studio O
+2013 O
+and O
+taught O
+them O
+coding O
+
+
+
+Marketing O
+Intern O
+, O
+Green O
+and O
+Red O
+Technologies O
+
+Research O
+and O
+analysis O
+on O
+the O
+market O
 of O
-passing O
+Internet O
+and O
+Technology O
+
+users O
+of O
+Bangladesh O
+. O
+
+
+
+Volunteer O
+, O
+BRAC O
+University O
+Computer O
+Club O
+
+
+Manager O
+, O
+Branding O
+and O
+Communication O
+, O
+IABC|BRAC O
+
+University O
+
+INSTITUTION O
+
+BRAC O
+University O
+
+Holy O
+Cross O
+College O
+
+RESULT O
+
+3.21 O
+( O
+on O
+a O
+scale O
+of O
+4.0 O
+) O
+
+5.00 O
+( O
+on O
+a O
+scale O
+of O
+5.0 O
+) O
+
+
+
+
+
+September O
+2015 O
+March O
+2016 O
+
+March,2015March,2016 O
+
+September O
+2014 O
+- O
+December O
+2015 O
+
+
+May O
+2014 O
+- O
+July O
+2014 O
+
+
+September O
+2012 O
+January O
+2015 O
+
+
+September,2012-December,2012 O
+
+
+EDUCATION O
+AND O
+TRAINING O
+
+YEAR O
+
+2015 O
+
+2010 O
+
+Degree O
+
+B.Sc O
+. O
+in O
+Computer O
+Science O
+and O
+
+Engineering O
+
+H.S.C O
+( O
+Science O
+) O
+
+S.S.C O
+( O
+Science O
+) O
+
+
+
+2008 O
+
+
+PERSONAL O
+SKILLS O
+
+
+Mother O
+Tongue(s O
+) O
+
+
+Other O
+language O
+( O
+English O
+) O
 : O
-2010 Education_End_Year
+
+IELTS O
+score O
+
+Experience O
 
 
+Vizrt WE_Company_Name
+, O
+Bangladesh WE_Company_Location
+Dec WE_Job_Duration
+2016 WE_Job_Duration
+- WE_Job_Duration
+Present WE_Job_Duration
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+In WE_Job_Role
+Test WE_Job_Role
+
+
+
+Automate O
+testing O
+tickets O
+through O
+Windows O
+PowerShell O
+using O
+a O
+custom O
+frame O
+work O
+for O
+regression O
+and O
+standard O
+
+library O
+. O
+
+Manually O
+execute O
+the O
+assigned O
+JIRA O
+tickets O
+and O
+perform O
+functional O
+test O
+. O
+
+Perform O
+exploratory O
+test O
+on O
+the O
+system O
+and O
+log O
+the O
+issues O
+in O
+JIRA O
+
+
+
+
+
+
+ServicEngineBPO WE_Company_Name
+, O
+Bangladesh WE_Company_Location
+Aug WE_Job_Duration
+2015 WE_Job_Duration
+- WE_Job_Duration
+Nov WE_Job_Duration
+2016 WE_Job_Duration
+
+Senior WE_Job_Role
+SQA WE_Job_Role
+Engineer WE_Job_Role
+
+
+
+
+Develop O
+a O
+test O
+framework O
+in O
+Java O
+for O
+IOS O
+app O
+and O
+api O
+test O
+. O
+
+Develop O
+a O
+framework O
+for O
+Xcode O
+- O
+UI O
+- O
+Test O
+in O
+swift O
+. O
+
+Test O
+API O
+using O
+rest O
+- O
+assured O
+library O
+, O
+Selenium O
+web O
+driver O
+and O
+Postman O
+. O
+
+Added O
+new O
+feature O
+( O
+automatically O
+insert O
+test O
+cases O
+in O
+DB O
+) O
+to O
+the O
+existing O
+automation O
+framework O
+. O
+
+
+Integrate O
+the O
+Jenkins O
+with O
+the O
+current O
+automation O
+framework O
+. O
+
+Write O
+test O
+scripts O
+from O
+test O
+cases O
+in O
+selenium O
+web O
+driver O
+( O
+java O
+) O
+for O
+web O
+application O
+functional O
+test O
+. O
+
+Analyze O
+the O
+failed O
+test O
+scripts O
+and O
+fix O
+the O
+problems O
+. O
+
+Write O
+test O
+cases O
+using O
+Appium O
+driver O
+for O
+IOS O
+mobile O
+application O
+test O
+. O
+
+Implement O
+Extent O
+Reports O
+for O
+better O
+test O
+report O
+. O
+
+
+
+March WE_Job_Duration
+2015 WE_Job_Duration
+- WE_Job_Duration
+Aug WE_Job_Duration
+2015 WE_Job_Duration
+
+
+
+
+
+
+
+
+
+
+Brac WE_Company_Name
+IT WE_Company_Name
+Services WE_Company_Name
+Ltd. WE_Company_Name
+
+Senior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+
+Train O
+Team O
+members O
+to O
+write O
+automated O
+test O
+script O
+in O
+Selenium O
+Web O
+Driver O
+. O
+
+Write O
+automated O
+test O
+scripts O
+from O
+test O
+cases O
+in O
+Selenium O
+web O
+driver O
+. O
+
+Write O
+Test O
+cases O
+from O
+Software O
+Requirement O
+Specification O
+and O
+execute O
+them O
+. O
+
+Performed O
+System O
+test O
+and O
+Integration O
+test O
+. O
+
+Performed O
+the O
+Database O
+testing O
+manually O
+. O
+
+Assist O
+the O
+Team O
+Leader O
+to O
+create O
+Test O
+Plan O
+and O
+Risk O
+Analysis O
+. O
+
+Nov WE_Job_Duration
+2012 WE_Job_Duration
+- WE_Job_Duration
+Feb WE_Job_Duration
+2015 WE_Job_Duration
+
+
+
+
+
+
+
+
+Samsung WE_Company_Name
+R&D WE_Company_Name
+Institute WE_Company_Name
+, O
+Dhaka WE_Company_Location
+
+Senior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+
+Perform O
+API O
+testing O
+for O
+Tizen O
+OS O
+and O
+Tizen O
+Gear O
+. O
+
+Develop O
+Unit O
+and O
+Integration O
+test O
+scripts O
+using O
+Tizen O
+api O
+for O
+Tizen O
+OS O
+. O
+
+Review O
+and O
+modify O
+the O
+existing O
+Unit O
+and O
+Integration O
+test O
+cases O
+. O
+
+Modify O
+existing O
+automation O
+tool O
+for O
+better O
+performance O
+using O
+python O
+and O
+shell O
+script O
+. O
+
+Compatibility O
+test O
+cases O
+development O
+of O
+Tizen O
+Z1 O
+device O
+. O
+
+Analyze O
+the O
+failure O
+test O
+scripts O
+using O
+Tizen O
+source O
+code O
+and O
+log O
+the O
+defects O
+on O
+JIRA O
+. O
+
+Development O
+of O
+Automation O
+Tizen O
+compliance O
+test O
+( O
+TCT O
+) O
+framework O
+. O
+( O
+C++ O
+and O
+Java O
+part O
+) O
+
+
+
+Aug WE_Job_Duration
+2011 WE_Job_Duration
+- WE_Job_Duration
+Sep WE_Job_Duration
+2012 WE_Job_Duration
+
+
+
+
+
+
+
+
+
+
+
+LEADS WE_Company_Name
+Corporation WE_Company_Name
+Ltd. WE_Company_Name
+
+Software WE_Job_Role
+Test WE_Job_Role
+Engineer WE_Job_Role
+
+
+Involved O
+in O
+requirement O
+elicitation O
+phase O
+to O
+understand O
+the O
+user O
+requirements O
+. O
+
+
+Write O
+complex O
+test O
+cases O
+and O
+scenarios O
+from O
+Software O
+Requirement O
+Specification O
+. O
+
+Prioritized O
+the O
+written O
+test O
+cases O
+. O
+
+Performed O
+functional O
+and O
+regression O
+test O
+. O
+
+Executed O
+the O
+test O
+cases O
+and O
+post O
+the O
+bugs O
+in O
+defect O
+tracking O
+tool O
+. O
+
+WORK O
+EXPERIENCE O
+
+		 O
+Working O
+at O
+Scholastica WE_Company_Name
+school WE_Company_Name
+as O
+Mathematics WE_Job_Role
+teacher WE_Job_Role
+( O
+joined O
+in O
+15th WE_Job_Duration
+July WE_Job_Duration
+, WE_Job_Duration
+2016 WE_Job_Duration
+) O
+
+		 O
+Worked O
+at O
+Bit WE_Company_Name
+Mascot WE_Company_Name
+( WE_Company_Name
+Pvt WE_Company_Name
+. WE_Company_Name
+) WE_Company_Name
+Ltd WE_Company_Name
+as O
+a O
+Junior WE_Job_Role
+SEO WE_Job_Role
+Analyst WE_Job_Role
+( O
+19th WE_Job_Duration
+Nov,2015 WE_Job_Duration
+5th WE_Job_Duration
+Feb,2016 WE_Job_Duration
+) O
+
+Did O
+website O
+health O
+check O
+and O
+onsite O
+enhancement O
+for O
+different O
+Australian O
+clients O
+of O
+the O
+company O
+. O
+
+Worked O
+in O
+WordPress O
+, O
+Web O
+Console O
+, O
+Google O
+analytics O
+and O
+Google O
+webmaster O
+tool O
+. O
+
+Email O
+communication O
+with O
+employees O
+at O
+Australia O
+and O
+the O
+design O
+team O
+. O
+
+Learned O
+about O
+search O
+engine O
+optimization O
+. O
+
+Publishing O
+articles O
+written O
+in O
+site O
+s O
+blog O
+and O
+content O
+marketing O
+. O
+
+Social O
+bookmarking O
+and O
+sharing O
+in O
+Google+ O
+, O
+Tumblr O
+, O
+Pinterest O
+, O
+Twitter O
+, O
+StumbleUpon O
+and O
+many O
+others O
+. O
+
+Worked O
+in O
+Confluence O
+and O
+jira O
+for O
+keeping O
+records O
+of O
+work O
+done O
+. O
+
+		 O
+Internship WE_Job_Role
+at O
+ROBI WE_Company_Name
+AXIATA WE_Company_Name
+LIMITED WE_Company_Name
+( O
+17th WE_Job_Duration
+May,2015 WE_Job_Duration
+31st WE_Job_Duration
+August,2015 WE_Job_Duration
+) O
+
+Market O
+Systems O
+team O
+under O
+IT O
+& O
+Charging O
+Department O
+, O
+Technology O
+
+Division O
+. O
+
+Prepared O
+system O
+handover O
+documents O
+on O
+NID O
+Verification O
+, O
+IP O
+DLS O
+, O
+OPT O
+- O
+IN O
+- O
+OUT O
+
+and O
+many O
+other O
+applicationsof O
+Robi O
+Axiata O
+Limited O
+. O
+
+Created O
+the O
+Technical O
+Evaluation O
+report O
+on O
+Loyalty O
+Management O
+System O
+, O
+
+Integrated O
+Campaign O
+Management O
+System O
+, O
+NNS O
+, O
+Mir O
+and O
+many O
+other O
+vendorsof O
+
+Robi O
+Axiata O
+Limited O
+. O
+
+		 O
+Teach O
+students O
+Science O
+, O
+English O
+and O
+Math O
+of O
+English O
+medium O
+background O
+from O
+class O
+six O
+to O
+ten O
+since O
+2011 O
+. O
+
+Preparing O
+questions O
+and O
+formula O
+list O
+for O
+Math O
+and O
+Physics O
+. O
+
+Assessing O
+and O
+evaluating O
+students O
+. O
+
+
+SKILLS O
+& O
+COMPETENCIES O
+
+		 O
+Language O
+skill O
+: O
+Fluent O
+in O
+Bangla O
+and O
+English O
+. O
+
+		 O
+Computer O
+Proficiency O
+: O
+Good O
+Operational O
+Command O
+in O
+Java O
+, O
+PSPICE O
+, O
+Export O
+DSCH2 O
+, O
+MATLAB O
+, O
+Emulator O
+, O
+Packet O
+Tracer O
+, O
+Microsoft O
+PowerPoint O
+, O
+Microsoft O
+Word O
+, O
+Microsoft O
+Outlook O
+, O
+Microsoft O
+Excel O
+& O
+Windows O
+. O
+
+		 O
+Interpersonal O
+skill O
+: O
+Communication O
+skills O
+, O
+teamwork O
+, O
+leadership O
+skill O
+and O
+respecting O
+others O
+point O
+of O
+view O
+. O
+
+Work O
+Experience O
+: O
+
+SSL WE_Company_Name
+Wireless WE_Company_Name
+( O
+Jun WE_Job_Duration
+2015 WE_Job_Duration
+March WE_Job_Duration
+2016 WE_Job_Duration
+) O
+
+Position O
+: O
+Associate WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+( O
+C O
+# O
+, O
+PHP O
+, O
+JAVA O
+) O
+
+Duties O
+: O
+
+Develop O
+, O
+maintain O
+, O
+improve O
+software O
+( O
+applications O
+built O
+on O
+
+C O
+# O
+.NET O
+) O
+, O
+reporting O
+panels O
+( O
+web O
+sites O
+built O
+with O
+PHP O
+, O
+AJAX O
+, O
+
+jQuery O
+) O
+
+Create O
+APIs O
+for O
+various O
+Services O
+( O
+e.g. O
+Radio O
+Apps O
+) O
+
+Contribution O
+: O
+
+Developed O
+desktop O
+application O
+
+transfer O
+MetLife O
+
+to O
+
+Bangladesh O
+customer O
+data O
+to O
+OneBank O
+( O
+with O
+database O
+level O
+
+encryption O
+) O
+and O
+
+time O
+significantly O
+. O
+
+transfer O
+
+Application O
+was O
+able O
+to O
+send O
+( O
+retrieve O
+& O
+encrypt O
+, O
+send O
+over O
+
+vpn O
+, O
+decrypt O
+& O
+store O
+) O
+around O
+1.5 O
+million O
+of O
+rows O
+in O
+25 O
+to O
+40 O
+
+minutes O
+( O
+depending O
+on O
+others O
+tasks O
+done O
+by O
+DB O
+Servers O
+) O
+. O
+
+Also O
+programmed O
+with O
+correct O
+data O
+structure O
+to O
+cope O
+with O
+
+limited O
+memory O
+. O
+
+Real O
+time O
+issue O
+monitoring O
+system O
+: O
+to O
+resolve O
+problems O
+
+before O
+they O
+even O
+happens O
+or O
+before O
+customer O
+complains O
+. O
+
+Experience O
+
+: O
+Narayangonj O
+Government O
+Mohila O
+College O
+
+: O
+Science O
+. O
+
+: O
+Dhaka O
+
+: O
+4 O
+out O
+of O
+5.00 O
+
+: O
+Daffodil O
+International O
+University O
+. O
+
+: O
+Computer O
+Science O
+& O
+Engineering O
+. O
+
+: O
+3.55 O
+out O
+of O
+4 O
+Year O
+: O
+2016 O
+
+
+: O
+Dapa O
+Adarsha O
+High O
+School O
+
+: O
+Science O
+. O
+
+Board O
+
+: O
+4.88 O
+out O
+of O
+5.00 O
+
+: O
+Dhaka O
+
+Board O
+
+
+
+Internship O
+
+Web WE_Job_Role
+Application WE_Job_Role
+Developer WE_Job_Role
+( O
+C O
+# O
+, O
+ASP.Net O
+) O
+
+IPAC WE_Company_Name
+Software WE_Company_Name
+Limited WE_Company_Name
+( O
+Dec WE_Job_Duration
+, WE_Job_Duration
+2016 WE_Job_Duration
+Jan WE_Job_Duration
+, WE_Job_Duration
+2017 WE_Job_Duration
+) O
+
+
+Professional O
+Training O
+: O
+
+Attended O
+BITM O
+SEIP O
+program O
+for O
+Web O
+Application O
+Development- O
+
+ASP.NET O
+( O
+Sep,2016-Nov,2016 O
+) O
+
+Unit O
+of O
+Competencies O
+( O
+Basic O
+C O
+# O
+, O
+OOP O
+, O
+Working O
+with O
+database O
+, O
+ASP.NET O
+
+web O
+form O
+, O
+ASP.NET O
+MVC O
+, O
+Agile O
+software O
+project O
+management O
+, O
+Full O
+life O
+cycle O
+of O
+
+real O
+life O
+project O
+) O
+
+Attended O
+RRF O
+Institute O
+for O
+Web O
+Design O
+
+Attended O
+Saifur O
+s O
+Coaching O
+Center O
+for O
+English O
+Course O
+Certificate O
+. O
+
+
+
+Programming O
+and O
+Computer O
+Skills O
+
+
+Programming O
+
+Experience O
+: O
+
+
+InfoLink WE_Company_Name
+( O
+Dec WE_Job_Duration
+2011 WE_Job_Duration
+Oct WE_Job_Duration
+2012 WE_Job_Duration
+) O
+
+Junior WE_Job_Role
+Software WE_Job_Role
+Engineer(Part WE_Job_Role
+time O
+) O
+
+R#12 WE_Company_Location
+, WE_Company_Location
+H#19(1st WE_Company_Location
+Floor WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+Baridhara WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+
+Projects O
+: O
 
 
 1 O
+. O
+Student O
+And O
+Hospital O
+Management O
+System O
+of O
+Uttara O
+Women O
+s O
 
+Medical O
+College(PHP O
+- O
+Codeigniter O
+) O
 
-Major O
-Courses O
+Description O
+: O
+This O
+system O
+is O
+to O
+automate O
+the O
+whole O
+process O
+of O
+management O
+of O
+
+UWMCH O
+. O
+
+Role O
 : O
 
-Object O
-- O
-Oriented O
-Programming O
-with O
-C++ O
-, O
-Object O
-- O
-Oriented O
-Programming O
-II O
-with O
-JAVA O
-, O
-Visual O
-Internet O
-
+Development O
+of O
+Student O
+Accounts O
 and O
-Programming O
-, O
-Computer O
-Networks O
-, O
-Digital O
-Signal O
-Processing O
-, O
-Artificial O
-Intelligence O
-, O
+Class O
+Time O
+Scheduling O
+Module O
+. O
 
-Microprocessor O
-, O
+Update O
 and O
-Assembly O
-Languages O
-, O
-Digital O
+Bug O
+Fixing O
+of O
+Patient O
+Management O
+Module O
+. O
+
+
+2 O
+. O
+An O
+In O
+house O
+Office O
+Management O
+Solution(PHP- O
+Codeigniter O
+) O
+. O
+
+Description O
+: O
+It O
+is O
+an O
+OMS O
+portal O
+. O
+It O
+covers O
+most O
+of O
+the O
+parts O
+of O
+an O
+office O
+and O
+
+helps O
+to O
+run O
+office O
+more O
+smoothly O
+. O
+
+Role O
+: O
+
+Development O
+of O
+App O
+Settings O
+Module O
+. O
+
+Development O
+of O
+Client O
+Management O
+Module O
+. O
+
+Development O
+of O
+Expense O
+Module O
+. O
+
+3 O
+. O
+Desktop O
+Panel O
+of O
+above O
+mentioned O
+In O
+house O
+Business O
+Solution O
+
+Management(C#.NET O
+and O
+MSSQL O
+) O
+
+Description O
+: O
+Above O
+mentioned O
+OMS O
+portal O
+has O
+a O
+desktop O
+panel O
+. O
+An O
+a O
+/ O
+c O
+holder O
+
+can O
+run O
+his O
+a O
+/ O
+c O
+from O
+his O
+desktop O
+too O
+. O
+
+Role O
+: O
+
+Development O
+of O
+the O
+desktop O
+panel O
+for O
+the O
+online O
+system O
+. O
+It O
+was O
+actually O
+
+conversion O
+of O
+the O
+online O
+system O
+. O
+
+4 O
+. O
+An O
+In O
+house O
+Shop O
+Management O
+Solution(PHP O
+- O
+Codeigniter O
+) O
+
+Description O
+: O
+It O
+is O
+an O
+Shop O
+management O
+system O
+it O
+was O
+developed O
+as O
+a O
+in O
+house O
+
+Development O
+of O
+the O
+Client O
+Module O
+. O
+
+Role O
+: O
+
+Development O
+of O
+the O
+Inventory O
+Module O
+
+Development O
+of O
+the O
+Sales O
+Module O
+. O
+
+Development O
+of O
+the O
+Supplier O
+Module O
+. O
+
+Development O
+of O
+the O
+Admin O
+panel O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrimeTech WE_Company_Name
+Solutions WE_Company_Name
+( O
+Nov WE_Job_Duration
+2012 WE_Job_Duration
+May WE_Job_Duration
+2013 WE_Job_Duration
+) O
+
+
+Software WE_Job_Role
+Engineer(Part WE_Job_Role
+time O
+) O
+
+BDBL WE_Company_Location
+Bhabhan WE_Company_Location
+( WE_Company_Location
+6th WE_Company_Location
+Floor WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+Karwan WE_Company_Location
+Bazar WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+
+www.primetechbd.com WE_Company_Website
+
+Projects O
+: O
+
+
+1 O
+. O
+BRAC O
+BANK O
+Kiosk O
+Admin O
+Panel(PHP- O
+Codeigniter O
+) O
+
+Description O
+: O
+BRAC O
+Bank O
+s O
+Money O
+Deposit O
+Kiosk O
+s O
+Admin O
+Panel O
+Portal O
+. O
+It O
+shows O
+
+transactions O
+of O
+every O
+Kiosk O
+. O
+
+Role O
+: O
+
+Development O
+and O
+update O
+of O
+the O
+search O
+tool O
+. O
+
+
+2 O
+. O
+Update O
+and O
+bug O
+fixing O
+of O
+Web4Talk O
+( O
+www.web4talk.com O
+) O
+
+Description O
+: O
+Its O
+an O
+online O
+communication O
+Website O
+. O
+It O
+lets O
+the O
+users O
+to O
+call O
+and O
+to O
+
+send O
+SMS O
+to O
+landlines O
+and O
+mobile O
+phones O
+of O
+different O
+countries O
+. O
+
+Role O
+: O
+
+Development O
+of O
+Promotional O
+Offer O
+Module O
+
+Development O
+of O
+Invoice O
+Module O
+. O
+
+Development O
+of O
+Caller O
+ID O
+App O
+Module O
+. O
+
+Development O
+of O
+Personal O
+Details O
+Module O
+. O
+
+Bug O
+Fixing O
+of O
+the O
+Whole O
 System O
-Design O
-, O
-Computer O
-Graphics O
-, O
-Data O
+. O
 
-Structures O
-, O
+
+3 O
+. O
+AIEUS O
+( O
+www.aieus.com O
+) O
+
+Description O
+: O
+Its O
+an O
+online O
+courier O
+service O
+system O
+. O
+It O
+lets O
+the O
+users O
+to O
+buy O
+from O
+
+different O
+foreign O
+E O
+- O
+commerce O
+websites O
 and O
-Algorithms O
+provide O
+a O
+address O
+at O
+that O
+country O
+
+and O
+deliver O
+the O
+things O
+to O
+user O
+within O
+a O
+short O
+time O
+at O
+a O
+cheaper O
+shipping O
+rate O
+. O
+
+Role O
+: O
+
+Bug O
+fixing O
+of O
+the O
+whole O
+system O
 . O
 
 
 
-Language O
-and O
-Skills O
-: O
 
-TECHNICAL O
-PROFICIENCIES O
-: O
 
-Operating O
-System O
-: O
-Windows O
-XP O
-, O
-Windows O
-7 O
-, O
-Windows O
-8 O
-, O
-Windows O
-8.1 O
-, O
-
-Windows O
-10 O
-, O
-LINUX O
-
-Database O
-: O
-MySQL O
-, O
-SQLite O
-, O
-Firebase O
-
-Language O
-: O
-C O
-, O
-C++ O
-, O
-Java O
-, O
-SWI O
-PROLOG O
-, O
-CSS(Basic O
+Enosis WE_Company_Name
+Solutions WE_Company_Name
+( O
+June WE_Job_Duration
+2013 WE_Job_Duration
+Jan WE_Job_Duration
+2015 WE_Job_Duration
 ) O
-, O
-HTML5(Basic) O
 
-Android O
-Architecture O
-: O
-MVC O
-, O
-MVVM. O
 
-Tools O
-& O
-Applications O
-: O
-Cisco O
-Packet O
-Tracer O
+Software WE_Job_Role
+Quality WE_Job_Role
+Assurance WE_Job_Role
+Engineer WE_Job_Role
 
-IDE O
-: O
-Android O
-Studio O
-, O
-MS O
-Visual O
-Studio O
-, O
-Netbeans O
-, O
-Eclipse O
-, O
-Code O
-Blocks. O
+H#16 WE_Job_Duration
+, WE_Job_Duration
+R#32 WE_Job_Duration
+, WE_Job_Duration
+Gulshan WE_Job_Duration
+Model WE_Job_Duration
+Town WE_Job_Duration
+, WE_Job_Duration
+Dhaka WE_Job_Duration
+
+www.enosisbd.com WE_Company_Website
+
+
 
 
 Projects O
 : O
 
-PicSecret O
 
-Online O
-
-Result O
-
-System O
-
-
-University O
-
-Grading O
-
-System O
-
-Obstacle O
-
-Avoiding O
-
-Robot O
-
-Project O
-Category O
-: O
-Android O
-Application O
-
-Description O
-: O
-PicSecret O
-is O
-an O
-Encryption O
-based O
-Android O
-Application O
-
-using O
-Steganography O
+1 O
 . O
-With O
-this O
-application O
-user O
-can O
-send O
-encrypted O
-
-text O
-through O
-and O
-image O
-file O
-by O
-using O
-a O
-secret O
-key O
-. O
-
-https://github.com/Simplyraktim/picsecret O
-
-Project O
-Category O
-: O
-Web O
-Application O
-. O
-
-Description O
-: O
-A O
-web O
-- O
-based O
-service O
-where O
-a O
-registered O
-student O
-can O
-
-see O
-the O
-result O
-of O
-his O
-previous O
-exams O
-. O
-There O
-was O
-an O
-Admin O
-panel O
-. O
-
-Admin O
-can O
-insert O
-and O
-update O
-the O
-result O
-. O
-
-Tools O
-Used O
-: O
-PHP5 O
-, O
-MySQL O
-, O
-Ajax O
-, O
-Net O
-beans O
-IDE O
-, O
-XAMPP O
-( O
-Apache O
-
-web O
-server O
+Advanced O
+Customer O
+Relation O
+Management.(ACRM O
 ) O
-. O
 
-Project O
-Category O
+Description O
 : O
-Database O
-project O
-Desktop O
+WCF O
+Service O
 based O
-Application O
+scientific O
+pricing O
+suggestion O
+system O
 . O
 
-Description O
+Role O
 : O
-Students O
-marks O
-are O
-taken O
-as O
-input O
-and O
-generate O
-the O
 
-Grade O
-Point O
-Average O
-as O
-well O
-as O
-Cumulative O
-GPA O
-. O
-All O
+Quality O
+Assurance O
 of O
 the O
+system O
+. O
 
-information O
-stored O
-in O
+Testing O
 the O
-database O
+whole O
+system O
 for O
-further O
-query O
+bugs O
 and O
-current O
-
-calculation O
+flaws O
 . O
 
-Tools O
-Used O
+Total O
+bug O
+count O
 : O
-C O
-# O
+117 O
 , O
-SQL O
-Server O
-2014 O
-, O
-Microsoft O
-Visual O
-Studio O
-2010 O
-. O
-
-Project O
-Category O
+total O
+Improvement O
+suggestion O
 : O
-Computer O
-Peripherals O
-& O
-Interfacing O
-project O
-
-Description O
-: O
-A O
-Robot O
-that O
-can O
-detect O
-an O
-obstacle O
-and O
-keep O
-avoiding O
-
-it O
-. O
-The O
-project O
-was O
-a O
-robotic O
-vehicle O
-that O
-has O
-an O
-inbuilt O
-intelligence O
-
-which O
-can O
-guide O
-itself O
-whenever O
-an O
-obstacle O
-came O
-after O
-it O
-. O
-The O
-robotic O
-
-vehicle O
-is O
-built O
-by O
-using O
-an O
-Arduino O
-board O
-. O
-An O
-ultrasonic O
-sensor O
-is O
-
-used O
-to O
-detect O
-any O
-obstacle O
-ahead O
-of O
-it O
-and O
-sent O
-a O
-command O
-to O
-the O
-
-Arduino O
-. O
-
-Tools O
-Used O
-: O
-Arduino O
-kit O
-, O
-C O
-Language O
+19 O
 
 
 2 O
+. O
+Sysco O
+Migration O
+( O
+Postgres O
+to O
+MySQL O
+DataWareHouse O
+Migration O
+. O
+) O
+
+Description O
+: O
+Test O
+and O
+Test O
+automation O
+of O
+database O
+migration O
+process O
+of O
+a O
+data O
+
+warehouse O
+which O
+was O
+first O
+developed O
+using O
+Postgres O
+Sql O
+and O
+then O
+migrated O
+to O
+
+MySql O
+. O
+
+Role O
+: O
+
+Assuring O
+the O
+quality O
+of O
+migration O
+process O
+. O
+
+Testing O
+the O
+scripts O
+for O
+bugs O
+and O
+flaws O
+. O
+
+Performance O
+analysis O
+and O
+suggesting O
+optimization O
+. O
+
+Automating O
+routine O
+script O
+checks O
+. O
+
+Total O
+bug O
+count O
+: O
+73 O
+, O
+total O
+improvement O
+suggestion O
+: O
+7 O
+
+
+3 O
+. O
+KRAFT O
+ETL O
+MIgration O
+( O
+MSSQL O
+to O
+MySQL O
+DataWareHouse O
+Migration O
+. O
+) O
+
+Description O
+: O
+Test O
+of O
+database O
+migration O
+process O
+of O
+a O
+data O
+warehouse O
+primarily O
+
+developed O
+using O
+MSSQL O
+and O
+then O
+migrated O
+to O
+MySql O
+. O
+
+Role O
+: O
+
+Assuring O
+the O
+quality O
+of O
+migration O
+process O
+. O
+
+Testing O
+the O
+scripts O
+and O
+store O
+procedures O
+for O
+bugs O
+and O
+flaws O
+. O
+
+Performance O
+analysis O
+and O
+suggesting O
+optimization O
+. O
+
+Automating O
+routine O
+script O
+checks O
+. O
+
+Total O
+bug O
+count O
+: O
+29 O
+, O
+total O
+improvement O
+suggestion O
+: O
+3 O
+
+
+Vizrt WE_Company_Name
+Bangladesh WE_Company_Name
+Ltd. WE_Company_Name
+( O
+Feb WE_Job_Duration
+2015 WE_Job_Duration
+- WE_Job_Duration
+Present WE_Job_Duration
+) O
+
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+in WE_Job_Role
+Test WE_Job_Role
+
+Vizrt O
+Bangladesh O
+Ltd. O
+Kaderia WE_Company_Location
+Tower WE_Company_Location
+, WE_Company_Location
+JA WE_Company_Location
+28/8B WE_Company_Location
+, WE_Company_Location
+Mohakhali WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+
+
+Projects O
+: O
+
+
+1 O
+. O
+HACTAR O
+( O
+Test O
+automation O
+using O
+Python O
+and O
+Windows O
+Powershell O
+) O
+
+Description O
+: O
+Hactar O
+is O
+a O
+test O
+automation O
+project O
+under O
+Vizrt O
+s O
+Integration O
+team O
+
+which O
+automates O
+product O
+integration O
+test O
+cases O
+as O
+well O
+as O
+product O
+regression O
+tests O
+
+cases O
+. O
+
+Role O
+: O
+
+Development O
+of O
+test O
+Framework O
+. O
+
+Automating O
+Integration O
+test O
+cases O
+. O
+
+Finding O
+out O
+test O
+scenarios O
+and O
+writing O
+test O
+cases O
+. O
+
+Finding O
+out O
+possible O
+automation O
+candidates O
+. O
+
+Helping O
+developers O
+for O
+test O
+automation O
+friendly O
+development O
+. O
+
+Suggesting O
+Framework O
+and O
+testing O
+process O
+improvements O
+. O
+
+2 O
+. O
+Automation O
+of O
+Viz O
+Story O
+( O
+Test O
+automation O
+using O
+Java O
+and O
+Selenium O
+) O
+
+Role O
+: O
+
+Development O
+of O
+test O
+Framework O
+. O
+
+Finding O
+out O
+test O
+scenarios O
+and O
+writing O
+test O
+cases O
+. O
+
+Automating O
+test O
+cases O
+. O
+
+Finding O
+out O
+possible O
+automation O
+candidates O
+. O
+
+Helping O
+developers O
+for O
+test O
+automation O
+friendly O
+development O
+. O
+
+Suggesting O
+Framework O
+and O
+testing O
+process O
+improvements O
+. O
 
 
 
-Line O
 
-Following O
 
-Robot O
+3 O
+. O
+Automation O
+of O
+Viz O
+Trio O
+( O
+Test O
+automation O
+using O
+.Net O
+) O
 
-Hospital O
+Role O
+: O
+
+Development O
+of O
+test O
+Framework O
+. O
+
+Finding O
+out O
+test O
+scenarios O
+and O
+writing O
+test O
+cases O
+. O
+
+Automating O
+test O
+cases O
+. O
+
+Finding O
+out O
+possible O
+automation O
+candidates O
+. O
+
+
+Personal O
+Projects O
+: O
+
+
+1 O
+. O
+Nutriscan O
+Agro O
+BD O
+Ltd O
+, O
+s O
+Business O
+Management O
+System O
+using O
+C#.NET O
+
+and O
+MSSQL O
+Server O
+
+Description O
+: O
+This O
+system O
+contains O
+Sales O
+Management O
+Module O
+, O
+Inventory O
+
+Management O
+Module O
+, O
+Employee O
+Management O
+Module O
+, O
+Client O
+Management O
+
+Module O
+and O
+a O
+mini O
+Accounts O
+Module O
+. O
+
+2 O
+. O
+Development O
+of O
+Sales O
+and O
+Inventory O
+Management O
+System O
+of O
+
+Medicine O
+Plus O
+Ltd O
+using O
+C#.NET O
+and O
+MSSQL O
+Server O
+. O
+
+Description O
+: O
+This O
+system O
+contains O
+Sales O
+Management O
+Module O
+and O
+Inventory O
+
+Management O
+Module O
+. O
+
+3 O
+. O
+Development O
+of O
+Easy O
+Business O
+Solution O
+using O
+C#.NET O
+and O
+Oracle O
+Server O
+. O
+
+Description O
+: O
+This O
+system O
+was O
+developed O
+for O
+an O
+university O
+project O
+. O
+This O
+system O
+
+contains O
+all O
+the O
+modules O
+necessary O
+( O
+Sales O
+, O
+Inventory O
+, O
+Employee O
+detail O
+, O
+Supplier O
+
+detail O
+) O
+
+4 O
+. O
+Development O
+of O
+Online O
+POS O
+system O
+for O
+Medicine O
+Plus O
+Ltd. O
+( O
+PHP O
+- O
+CI O
+, O
+
+MySQL O
+) O
+
+Description O
+: O
+Online O
+POS O
+system O
+for O
+Medicine O
+Plus O
+Ltd O
+, O
+which O
+maintains O
+all O
+the O
+
+Sales O
+of O
+every O
+chain O
+shop O
+of O
+this O
+company O
+. O
+Has O
+a O
+nice O
+reporting O
+module O
+. O
+
+Work O
+Experience O
+
+2015 O
+Lab WE_Job_Role
+Assistant WE_Job_Role
+, O
+American WE_Company_Name
+International WE_Company_Name
+University WE_Company_Name
+- O
+Bangladesh WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+. WE_Company_Location
+
+Class O
+of O
+Programming O
+Language O
+- O
+I O
+
+Class O
+of O
+Computer O
+Organization O
+and O
+Architecture(Assembly O
+Language O
+) O
+
+Nov O
+2016-Jan O
+
+Junior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+, O
+Spicy WE_Company_Name
+Binary WE_Company_Name
+, O
+Dhaka WE_Company_Location
+. WE_Company_Location
+
+2017 O
+
+Working O
+in O
+asp.net O
+mvc O
+. O
+Helping O
+company O
+with O
+old O
+and O
+new O
+projects O
+. O
+
+Projects O
+
+Crime O
+Tracking O
+
+Using O
+Asp.net O
+, O
+Javascript O
+Google O
+Map O
+Api O
+, O
+Bootstrap O
+and O
+SQL O
+database O
+This O
+
+System O
+
+project O
+is O
+about O
+zonal O
+crime O
+mapping O
+. O
+We O
+have O
+divided O
+area O
+s O
+with O
+polygon O
+
+and O
+colored O
+those O
+area O
+according O
+to O
+density O
+of O
+crime O
+. O
+You O
+can O
+check O
+my O
+work O
+
+@ O
+www.crimemanage.somee.com O
+[ O
+un O
+: O
+admin O
+pw:123 O
+] O
+
+Using O
+C O
+# O
+and O
+SQL O
+database O
+. O
+The O
+complex O
+prison O
+system O
+simplied O
+in O
+this O
+
+Prison O
+
+Management O
+
+management O
+system O
+with O
+various O
+options O
+. O
+
+System O
+
+Timeshare O
+Using O
+Ruby O
+on O
+rails O
+, O
+Bootstrap O
+, O
+Mysql O
+database O
+. O
+Timeshare O
+is O
+a O
+system O
+to O
+
+share O
+your O
+property O
+with O
+other O
+people O
+around O
+the O
+world O
+for O
+many O
+purposes O
+. O
+
+Showbiz O
+News O
+
+Using O
+core O
+Html O
+, O
+php O
+and O
+CSS O
+and O
+Mysql O
+database O
+. O
+No O
+other O
+framework O
+is O
+
+used O
+. O
+Showbiz O
+news O
+is O
+to O
+provide O
+celebrity O
+news O
+and O
+celebrity O
+prole O
+and O
+other O
+
+Portal O
+
+available O
+data O
+. O
+You O
+can O
+check O
+my O
+work O
+@ O
+www.showbiznews.epizy.com O
+
+[ O
+un O
+: O
+admin O
+pw:123 O
+] O
+
+1/3 O
+
+- O
+Pre O
+- O
+Intermediate O
+3 O
+, O
+British O
+Council O
+, O
+
+Using O
+java O
+servlet O
+, O
+jsp O
+, O
+mysql O
+database O
+, O
+bootstrap O
+and O
+tomcat O
+6 O
+. O
+This O
+is O
+a O
+a O
+
+Hotel O
+
+very O
+simple O
+hotel O
+management O
+system O
+on O
+java O
+mvc O
+. O
 
 Management O
 
 System O
 
-
-Project O
-Category O
-: O
-Computer O
-Peripherals O
-& O
-Interfacing O
-project O
-
-Description O
-: O
-A O
-Robot O
-that O
-can O
-detect O
-a O
-particular O
-line O
-and O
-keep O
-
-following O
-it O
-. O
-An O
-array O
-of O
-the O
-sensor O
+This O
 is O
-used O
-to O
-detect O
-the O
-line O
-. O
-Based O
-on O
+simple O
+database O
+management O
+system O
+created O
+for O
+Database O
+Management O
 
-the O
-status O
-of O
-sensors O
-, O
-special O
-circuit O
-or O
-controller O
-decides O
-the O
-position O
+Library O
 
-of O
-the O
-line O
-and O
-also O
-the O
-direction O
-of O
-motion O
-required O
-to O
-follow O
-the O
-line O
+System O
+Course O
 . O
+The O
+system O
+was O
+implemented O
+using O
+oracle O
+database O
+. O
+You O
+can O
+
+Management O
+
+System O
+
+check O
+the O
+documentation O
+@ O
+http://docdro.id/aIqo6yc O
 
 The O
-motor O
-driver O
-circuit O
+following O
+project O
 is O
-used O
-to O
-ON O
-/ O
-OFF O
-the O
-LEFT O
-/ O
-RIGHT O
-motors O
-
-of O
-the O
-robot O
-to O
-provide O
-the O
-desired O
-motion O
-. O
-
-Tools O
-Used O
-: O
-Arduino O
-kit O
-, O
-C O
-Language O
-
-Project O
-Category O
-: O
-Software O
-Engineering O
-project O
-
-Description O
-: O
-As O
-an O
-S O
-/ O
-W O
-Engineering O
-course O
-, O
-all O
-of O
-the O
-steps O
-of O
-the O
-
-software O
-development O
-lifecycle O
-has O
-been O
-followed O
-and O
-used O
-the O
-
-Iterative O
-model O
-. O
-In O
-the O
-project O
-, O
-people O
-have O
+about O
 a O
-portal O
-with O
-all O
-of O
-his O
-
-patient O
-details O
-. O
-People O
-can O
+saloon O
+which O
+needs O
+a O
+software O
+to O
 keep O
 track O
 of O
-its O
-day O
-- O
-to O
-- O
-day O
-activities O
-and O
-
-record O
-of O
-its O
-patients O
-, O
-doctors O
-, O
-nurses O
-, O
-ward O
-boys O
-and O
-other O
-staff O
-
-personals O
-that O
-keep O
-the O
-hospital O
-running O
-smoothly O
-and O
-successfully O
-. O
-
-Tools O
-Used O
-: O
-C O
-# O
-, O
-Microsoft O
-Visual O
-Studio O
-2010 O
-. O
-
-Area O
-of O
-Technical O
-Interest O
-: O
 
 Software O
-Development. O
 
-Mobile O
-Based O
-Software O
-Development. O
-
-
-Bengali O
-: O
-Writing O
-, O
-Understanding O
+records O
+of O
+it O
+s O
+present O
+customer O
 and O
-speaking O
-abilities O
-Excellent O
-
-English O
-: O
-Writing O
-and O
-Understanding O
-abilities O
-Excellent O
-; O
-Speaking O
-ability O
-Good O
-
-Language O
-Proficiencies O
-: O
-
-Other O
-Skills O
-: O
-
-Have O
-the O
-ability O
+provide O
+additional O
+services O
 to O
-work O
-independently O
-as O
-well O
-as O
-groups O
-
-Can O
-work O
-with O
-people O
-of O
-all O
-levels O
-
-Possess O
-analytical O
-abilities O
-
-Have O
 the O
-ability O
-to O
-work O
-under O
-pressure O
-in O
-any O
-circumstances O
+customer O
 
-Education O
-: O
+Requirement O
 
-Diploma Education_Degree
-- O
-in O
-- O
-Computer Education_Degree
-Engineering Education_Degree
-
-GPA Education_Result
-: Education_Result
-3.71 Education_Result
-
-Jessore Education_Institution_Name
-Polytechnic Education_Institution_Name
-Institute Education_Institution_Name
-
-
-
-2003 Education_Start_Year
-- O
-2008 Education_End_Year
-
-Education O
-	 O
-
-
-Qualification O
-: O
-
-Completed O
-B.Tech Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-Engineering Education_Subject
-from O
-JNTU Education_Institution_Name
-in O
-2011 Education_End_Year
+via O
+internet O
 . O
-
-Education O
-: O
-
-B.Tech Education_Degree
-( O
-INFORMATION Education_Subject
-TECHNOLOGY Education_Subject
-) O
-at O
-JERUSALEM Education_Institution_Name
-COLLEGE Education_Institution_Name
-OF Education_Institution_Name
-ENGINEERING Education_Institution_Name
-, O
-CHENNAI Education_Location
-in O
-the O
-year O
-2008 Education_Start_Year
-2012 Education_End_Year
-with O
-an O
-overall O
-aggregate O
-of O
-7.85(CGPA Education_Result
-) Education_Result
-
-H.S.C Education_Degree
-( O
-CLASS O
-XII O
-) O
-at O
-JAIGOPAL Education_Institution_Name
-GARODIA Education_Institution_Name
-NATIONAL Education_Institution_Name
-HIGHER Education_Institution_Name
-SECONDARY Education_Institution_Name
-SCHOOL Education_Institution_Name
-, O
-CHENNAI Education_Location
-completed O
-in O
-the O
-year O
-2008 Education_End_Year
-with O
-an O
-aggregate O
-of O
-88 Education_Result
-% Education_Result
-
-S.S.L.C Education_Degree
-( O
-CLASS O
-X O
-) O
-at O
-GOVERNMENT Education_Institution_Name
-HIGHER Education_Institution_Name
-SECONDARY Education_Institution_Name
-SCHOOL Education_Institution_Name
-, O
-TRICHY Education_Location
-completed O
-in O
-the O
-year O
-2006 Education_End_Year
-with O
-an O
-aggregate O
-of O
-87 Education_Result
-% Education_Result
-
-Education O
-: O
-
-B.Tech Education_Degree
-( O
-INFORMATION Education_Subject
-TECHNOLOGY Education_Subject
-) O
-at O
-JERUSALEM Education_Institution_Name
-COLLEGE Education_Institution_Name
-OF Education_Institution_Name
-ENGINEERING Education_Institution_Name
-, O
-CHENNAI Education_Location
-in O
-the O
-year O
-2008 Education_Start_Year
-2012 Education_End_Year
-with O
-an O
-overall O
-aggregate O
-of O
-7.85(CGPA Education_Result
-) Education_Result
-
-H.S.C Education_Degree
-( O
-CLASS Education_Subject
-XII Education_Subject
-) O
-at O
-JAIGOPAL Education_Institution_Name
-GARODIA Education_Institution_Name
-NATIONAL Education_Institution_Name
-HIGHER Education_Institution_Name
-SECONDARY Education_Institution_Name
-SCHOOL Education_Institution_Name
-, O
-CHENNAI Education_Location
-completed O
-in O
-the O
-year O
-2008 Education_End_Year
-with O
-an O
-aggregate O
-of O
-88 Education_Result
-% Education_Result
-
-S.S.L.C Education_Degree
-( O
-CLASS Education_Subject
-X Education_Subject
-) O
-at O
-GOVERNMENT Education_Institution_Name
-HIGHER Education_Institution_Name
-SECONDARY Education_Institution_Name
-SCHOOL Education_Institution_Name
-, O
-TRICHY Education_Location
-completed O
-in O
-the O
-year O
-2006 Education_End_Year
-with O
-an O
-aggregate O
-of O
-87 Education_Result
-% Education_Result
-
-EDUCATION O
-: O
-
-B.TECH Education_Degree
-from O
-JNTU Education_Institution_Name
-ANANTAPUR Education_Location
-in O
-Kuppam Education_Institution_Name
-Engineering Education_Institution_Name
-Collage Education_Institution_Name
-, O
-Completed O
-in O
-2014 Education_End_Year
-. O
-
-EXPERIENCE O
-PROFILE O
-: O
-
-	 O
-Working O
-as O
+The O
+software O
+required O
+for O
+this O
+shop O
+would O
+be O
 a O
-SharePoint O
-Developer O
-from O
-NETWORK O
-ENHANCERS O
-INDIA O
-PVT O
-LTD O
-from O
-2015 O
-to O
-Till O
-date O
+web O
+application O
 . O
 
-TECHNICAL O
-PROFILE O
-: O
-
-Portal O
-Technology O
-		 O
-: O
-SharePoint O
-2013&2010 O
-. O
-
-Front O
-End O
-			 O
-: O
-.Net O
-Framework O
-, O
-ASP.NET O
-, O
-ADO.NET O
-. O
-
-Technologies O
-: O
-ASP.Net O
-, O
-JavaScript O
-, O
-HTML O
-, O
-XML O
-, O
-ADO.Net O
-& O
-CSS O
-. O
-
-Languages O
-			 O
-: O
-C#.net O
-. O
-
-DBMS O
-			             O
-: O
-Microsoft O
-SQL O
-Server O
-. O
-
-Microsoft O
-Office O
-: O
-InfoPath O
-, O
-Microsoft O
-Visio O
-. O
-
-Operating O
-System O
-		 O
-: O
-Windows O
-Server O
-2003 O
-, O
-Windows O
-Server O
-2008 O
-, O
-
-Windows O
-XP O
-, O
-Windows O
-7 O
-. O
-
-Web O
-Designing O
-: O
-SharePoint O
-Designer O
-, O
-HTML O
-, O
-CSS O
-. O
-
-Scripting O
-Languages O
-		 O
-: O
-Java O
-Script O
-, O
-Ajax O
-, O
-XML O
-and O
-SharePoint O
-Client O
-Script O
-. O
-
-PROJECT O
-PROFILE O
-: O
-
-	 O
-PROJECT O
-1 O
-: O
-
-Project O
-Name O
-			 O
-: O
-SHAL O
-
-Platform O
-			 O
-: O
-Visual O
-Studio O
-, O
-SharePoint O
-Designer O
-, O
-Office365 O
-, O
-
-SQL O
-server O
-, O
-HTML O
-, O
-RESTAPI O
-, O
-JavaScript O
-, O
-CSS O
-, O
-JQuery O
-, O
-. O
-
-Role O
-				 O
-: O
-SharePoint O
-Developer O
-
-Team O
-Size O
-			 O
-: O
-6 O
-
-EDUCATION O
-
-NOAKHALI Education_Institution_Name
-SCIENCE Education_Institution_Name
-AND Education_Institution_Name
-TECHNOLOGY Education_Institution_Name
-UNIVERSITY Education_Institution_Name
-| O
-B.SC Education_Degree
-. Education_Degree
-IN O
-COMPUTER Education_Subject
-SCIENCE Education_Subject
-
-Related O
-Courses O
-: O
-Data O
-Structures O
-and O
-Algorithms O
-, O
-Object O
-Oriented O
-Programming O
-in O
-GUI O
-Environment O
-, O
-Operating O
-
-System O
-and O
-System O
-Programming O
-, O
-Software O
-Engineering O
-and O
-Information O
-System O
-Design O
-, O
-Articial O
-Intelligence O
+Gathering O
 and O
 
-Neural O
-Networks O
+You O
+can O
+check O
+my O
+work O
+@ O
+http://docdro.id/YDfVCAw O
 
-Expected O
-Oct Education_End_Year
-2018 Education_End_Year
-| O
-Noakhali Education_Location
-, Education_Location
-Bangladesh Education_Location
-CGPA Education_Result
-: Education_Result
-3.2/4.0 Education_Result
+Analysing O
 
-JAHANGIRNAGAR Education_Institution_Name
-UNIVERISTY Education_Institution_Name
-SCHOOL Education_Institution_Name
-& Education_Institution_Name
-COLLEGE Education_Institution_Name
-| O
-HIGHER Education_Degree
-SECONDARY Education_Degree
-SCHOOL Education_Degree
-
-Passed O
-July Education_End_Year
-2013 Education_End_Year
-| O
-Savar Education_Location
-, Education_Location
-Bangladesh Education_Location
-GPA Education_Result
-: Education_Result
-5.00/5.00 Education_Result
-
-EDUCATION O
-
-2006 Education_Start_Year
-2011 Education_End_Year
+Work O
+Experience O
 
 
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-, O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-, O
-Bangladesh Education_Location
+Aug2016 WE_Job_Duration
+- WE_Job_Duration
+Dec2016 WE_Job_Duration
 
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-and Education_Institution_Name
-Technology Education_Institution_Name
-( Education_Institution_Name
-BUET Education_Institution_Name
-) Education_Institution_Name
-
-Quazi O
-Md O
-Mohebur O
-Rahman O
-
-2 O
-
-EDUCATION O
+Company WE_Company_Name
+: WE_Company_Name
+ONY WE_Company_Name
+Enterprise WE_Company_Name
 
 
-Shri Education_Institution_Name
-Shankaracharya Education_Institution_Name
-Institute Education_Institution_Name
-of Education_Institution_Name
-Technology Education_Institution_Name
-& Education_Institution_Name
-Management Education_Institution_Name
-
-Bhilai Education_Location
+Position WE_Job_Role
+: WE_Job_Role
+Network WE_Job_Role
+Administrator WE_Job_Role
 
 
-Bachelor Education_Degree
-of Education_Degree
-Engineering Education_Degree
-( O
-Information Education_Subject
-Technology Education_Subject
-) O
-
-
-Academic Education_Result
-Percentage Education_Result
-- Education_Result
-78 Education_Result
-% Education_Result
-As Education_Result
-an Education_Result
-Honor Education_Result
-. Education_Result
-
-Education O
-
-Metropolitan Education_Institution_Name
-University Education_Institution_Name
-- O
-B.Sc Education_Degree
-. Education_Degree
-in O
-CSE Education_Subject
-( O
-2015 Education_Start_Year
-- O
-February Education_End_Year
-2019 Education_End_Year
-) O
-
-Graduating O
-in O
-February Education_End_Year
-2019 Education_End_Year
-. O
-
-CGPA O
-till O
-11th O
-out O
-of O
-12 O
-semester- O
-3.39 Education_Result
-
-EDUCATION O
-
-	 O
-B.E.(ECE Education_Degree
-) O
-Anna Education_Institution_Name
-University Education_Institution_Name
-in O
-2013 Education_End_Year
-with O
-8.74 Education_Result
-CGPA Education_Result
-
-	 O
-
-PERSONAL O
-DETAILS O
-
-Date O
-of O
-Birth O
-: O
-
-15th O
-June O
-1992 O
-
-Languages O
-Known O
-: O
-
-English O
-, O
-Tamil O
-& O
-Telugu O
-
-Marital O
-Status O
-: O
-
-Single O
-
-Current O
-Location O
-: O
-
-Bangalore O
-
-EDUCATION O
-: O
-
-B. Education_Degree
-Tech Education_Degree
-( O
-Electrical Education_Subject
-& Education_Subject
-Electronics Education_Subject
-. O
-) O
-, O
-Silicon Education_Institution_Name
-Inst Education_Institution_Name
-of Education_Institution_Name
-Tech Education_Institution_Name
-, O
-Bhubaneswar Education_Location
-, Education_Location
-Odisha Education_Location
-2009 Education_Start_Year
-- O
-2013 Education_End_Year
-, O
-Aggregate Education_Result
-87.40 Education_Result
-% Education_Result
-. O
-
-PROJECT O
-DETAILS O
-: O
-
-# O
-Project O
-5 O
-: O
-
-Title O
-: O
-TASK O
-CONTROLLER O
-PLUGIN O
-
-Team O
-size O
-: O
-5 O
-
-Duration O
-: O
-12 O
-months O
-
-Platform O
-: O
-QT O
-Creator O
-, O
-Linux O
-
-Language O
-: O
-C++ O
-
-Tools O
-: O
-QT O
-Creator O
-
-Role O
-: O
-Developer O
-
+Job O
 Responsibilities O
 : O
 
-Development O
-of O
-design O
-for O
-the O
-overall O
-Plugin O
-. O
 
-Implementing O
-the O
-features O
-based O
-on O
-design O
-( O
-C++ O
-) O
-. O
-
-TDD O
-and O
-Module O
-test O
-using O
-Google O
-- O
-Test O
-framework O
-
-Feature O
-testing O
-on O
-test O
-bench O
-
-
-Education O
-: O
-
-	 O
-B.Tech Education_Degree
-( O
-Computer Education_Subject
-Science Education_Subject
-) O
-, O
-VIT Education_Institution_Name
-Dadri Education_Institution_Name
-( O
-Affiliate O
+Secures O
+network O
 by O
-Utter Education_Institution_Name
-Pradesh Education_Institution_Name
-Technical Education_Institution_Name
-University Education_Institution_Name
-) O
+developing O
+network O
+access O
 , O
-Lucknow Education_Location
+monitoring O
 , O
-Year O
-2011 Education_End_Year
-with O
-securing O
-72.52 Education_Result
-% Education_Result
+
+
+control O
+, O
+and O
+evaluation O
+; O
+maintaining O
+documentation O
+, O
+
+Prepares O
+users O
+by O
+designing O
+and O
+conducting O
+training O
+programs O
+; O
+
+
+providing O
+references O
+and O
+support O
 . O
 
-	 O
-HSC Education_Degree
-from O
-Govt Education_Institution_Name
-. Education_Institution_Name
-Boys Education_Institution_Name
-Senior Education_Institution_Name
-Sec Education_Institution_Name
-. Education_Institution_Name
-School Education_Institution_Name
-, O
-New Education_Location
-Delhi Education_Location
+Upgrades O
+network O
+by O
+conferring O
 with O
-65 Education_Result
-% Education_Result
-marks Education_Result
-
-SSC Education_Degree
-from O
-Govt Education_Institution_Name
-. Education_Institution_Name
-Boys Education_Institution_Name
-Senior Education_Institution_Name
-Sec Education_Institution_Name
-. Education_Institution_Name
-School Education_Institution_Name
+vendors O
+; O
+developing O
 , O
-New Education_Location
-Delhi Education_Location
-57 Education_Result
-% Education_Result
-marks Education_Result
 
-		 O
-Personal O
-Details O
-: O
 
-		 O
-Father O
-s O
-Name O
-: O
-MahaKant O
-Jha O
-
-		 O
-PAN O
-			 O
-: O
-AQUPD3934A O
-
-		 O
-PASSPORT O
-		 O
-: O
-Available O
-
-		 O
-DOB O
-			 O
-: O
-19/06/1989 O
-
-		 O
-Gender O
-			 O
-: O
-Male O
-
-		 O
-Nationality O
-		 O
-: O
-Indian O
-
-		 O
-Language O
-		 O
-: O
-English O
-& O
-Hindi O
-
-		 O
-Marital O
-Status O
-		 O
-: O
-Married O
-
-		 O
-Address O
-		 O
-: O
-L-1st O
-2050 O
+testing O
 , O
-Sangam O
-Vihar O
-Delhi O
-110062 O
-
-EDUCATION O
-
-Diploma Education_Degree
-in O
-Advance Education_Subject
-Computing Education_Subject
-Aug Education_Start_Year
-2011 Education_Start_Year
-Feb Education_End_Year
-2012 Education_End_Year
-
-CDAC O
+evaluating O
 , O
-Sunbeam Education_Institution_Name
-Institute Education_Institution_Name
-, O
-Pune Education_Location
+and O
+installing O
+enhancements O
 . O
 
-Percentile O
-First Education_Result
-Class Education_Result
+Company WE_Company_Name
+: WE_Company_Name
+Atom WE_Company_Name
+Ap WE_Company_Name
 
-Bachelors Education_Degree
+Jan2017 WE_Job_Duration
+Till WE_Job_Duration
+now WE_Job_Duration
+
+Position WE_Job_Role
+: WE_Job_Role
+AWS WE_Job_Role
+Solution WE_Job_Role
+Architect WE_Job_Role
+and WE_Job_Role
+SysOps WE_Job_Role
+& WE_Job_Role
+QA WE_Job_Role
+
+Hands O
+on O
+architect O
+with O
+focus O
+on O
+designing O
+highly O
+availa O
+
+ble O
+, O
+scalable O
+and O
+reliable O
+cloud O
+solutions O
+
+In O
+- O
+depth O
+understanding O
 of O
-Electronics Education_Subject
-Engineering Education_Subject
-	 O
-July Education_Start_Year
-2006 Education_Start_Year
-May2010 Education_End_Year
-
-Shivaji Education_Institution_Name
-University Education_Institution_Name
+AWS O
 , O
-Dr. Education_Institution_Name
-J. Education_Institution_Name
-J. Education_Institution_Name
-Magdum Education_Institution_Name
-College Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-, O
-Jaysingpur Education_Location
-. O
 
-Percentile O
-60.25 O
-% O
-First Education_Result
-Class Education_Result
-
-Higher Education_Degree
-Secondary Education_Degree
-Certificate Education_Degree
-	               O
-July Education_Start_Year
-2004 Education_Start_Year
-May Education_End_Year
-2006 Education_End_Year
-
-Kolhapur O
-Board O
-, O
-Jaysingpur Education_Institution_Name
-College Education_Institution_Name
-Jaysingpur Education_Location
-
-Percentile O
-74.50 Education_Result
-% Education_Result
-
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-	               O
-July Education_Start_Year
-2003 Education_Start_Year
-Aug Education_End_Year
-2004 Education_End_Year
-
-Kolhapur O
-Board O
-, O
-L.N.M. Education_Institution_Name
-High Education_Institution_Name
-- Education_Institution_Name
-School Education_Institution_Name
-, O
-Jaysingpur Education_Location
-
-Percentile O
-80.00 Education_Result
-% Education_Result
-Distinction O
-
-Education O
-
-Savitribai Education_Institution_Name
-Phule Education_Institution_Name
-Pune Education_Institution_Name
-University Education_Institution_Name
-
-B.E Education_Degree
-IN O
-ELECTRONICS Education_Subject
-AND Education_Subject
-TELECOMMUNICATION Education_Subject
-
-Percentage Education_Result
-69 Education_Result
-
-Maharashtra Education_Institution_Name
-Board Education_Institution_Name
-of Education_Institution_Name
-Technical Education_Institution_Name
-Education Education_Institution_Name
-
-DIPLOMA Education_Degree
-IN O
-ELECTRONICS Education_Subject
-AND Education_Subject
-TELECOMMUNICATION Education_Subject
-
-Percentage Education_Result
-79 Education_Result
-
-Maharahtra Education_Location
-Board Education_Location
-
-THE Education_Institution_Name
-GOOD Education_Institution_Name
-SAMARITAN Education_Institution_Name
-SCHOOL Education_Institution_Name
-
-Percentage Education_Result
-82 Education_Result
-
-ACADEMIC O
-QUALIFICATION O
-
-
-B.Sc Education_Degree
+Experience O
 in O
-Computer Education_Subject
-Science Education_Subject
-& Education_Subject
-Engineering Education_Subject
-
-International Education_Institution_Name
-Islamic Education_Institution_Name
-University Education_Institution_Name
+implementing O
+CI O
+/ O
+CD O
 , O
-Chittagong Education_Location
+SysOps O
+and O
+DevOps O
 
-CGPA Education_Result
-: Education_Result
-3.513 Education_Result
-out Education_Result
-of Education_Result
-4 Education_Result
-
-Passing O
-year O
-: O
-2019 Education_End_Year
-
-Higher Education_Degree
-Secondary Education_Degree
-Certificate Education_Degree
-( Education_Degree
-HSC Education_Degree
-) Education_Degree
-
-Islamia O
-University O
-College O
-
-Science Education_Subject
+Designing O
+IoT O
+solutions O
+involving O
+devices O
 , O
-GPA Education_Result
-: Education_Result
-4.00 Education_Result
+cloud O
 , O
-Passing O
-year O
-: O
-2013 Education_End_Year
+and O
+an O
 
-Secondary Education_Degree
-School Education_Degree
-Certificate Education_Degree
-( Education_Degree
-SSC Education_Degree
-) Education_Degree
+alytics O
 
-Anowara Education_Institution_Name
-Model Education_Institution_Name
-High Education_Institution_Name
-School Education_Institution_Name
+Building O
+IoT O
+products O
+on O
+AWS O
 
-Science Education_Subject
+Hands O
+- O
+on O
+experience O
+in O
+deploying O
+Git O
 , O
-GPA Education_Result
-: Education_Result
-5.00 Education_Result
+Github O
 , O
-Passing O
-year O
-: O
-2011 Education_End_Year
-
-
-PROGRAMMING O
-SKILL O
+Gitlab O
+, O
 S O
 
-
-Programming O
-Language O
-: O
-
-PHP O
+VN O
 , O
 C O
+panel O
 , O
-C++ O
+Mail O
+server O
 , O
-JAVA O
+LAMP O
+server O
+. O
+
+Core O
+knowledge O
+about O
+MYSQl O
 , O
-Python O
+RAID O
+, O
+Master O
+slave O
+data O
+
+base O
+. O
+
+Windows O
+Active O
+Directory O
+and O
+LDAP O
+
+Agile(Scrum O
+) O
+, O
+LAMP O
+server O
+, O
+APACHE O
+. O
+
+Test O
+automation O
+, O
+use O
+case O
+documentation O
+. O
+
+Experience O
+
+
+
+1 O
+. O
+bKash WE_Company_Name
+Ltd WE_Company_Name
+
+Division O
+
+Department O
+
+Designation O
+
+Duration O
+
+Address WE_Company_Location
+: WE_Company_Location
+Paragon WE_Company_Location
+House WE_Company_Location
+( WE_Company_Location
+2nd WE_Company_Location
+floor),5 WE_Company_Location
+Mohakhali WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+, WE_Company_Location
+Dhaka-1212 WE_Company_Location
+. WE_Company_Location
+
+Key O
+Responsibilities O
+: O
+
+Resolving O
+customer O
+Query O
+, O
+Request O
+, O
+and O
+Complain O
+. O
+
+Preparing O
+various O
+reports O
+, O
+work O
+report O
+, O
+summery O
+& O
+other O
+reports O
+as O
+per O
+management O
+
+requirements O
+. O
+
+Handling O
+special O
+queries O
+. O
+
+Providing O
+solution O
+of O
+fraud O
+issues O
+. O
+
+: O
+Customer O
+Service O
+
+: O
+Customer O
+Interaction O
+& O
+Alternative O
+Services O
+
+: O
+Officer O
+
+: O
+1st WE_Job_Duration
+November WE_Job_Duration
+2016 WE_Job_Duration
+to WE_Job_Duration
+till WE_Job_Duration
+now WE_Job_Duration
+. WE_Job_Duration
+
+
+
+
+
+: O
+Customer O
+Service O
+
+: O
+Customer O
+Interaction O
+& O
+Alternative O
+Services O
+
+: O
+Junior WE_Job_Role
+Officer WE_Job_Role
+
+: O
+11th WE_Job_Duration
+October WE_Job_Duration
+2015 WE_Job_Duration
+to WE_Job_Duration
+31st WE_Job_Duration
+October WE_Job_Duration
+2016 WE_Job_Duration
+
+
+
+2 O
+. O
+bKash WE_Company_Name
+Ltd WE_Company_Name
+
+Division O
+
+Department O
+
+Designation O
+
+Duration O
+
+Address WE_Company_Location
+: WE_Company_Location
+Paragon WE_Company_Location
+House WE_Company_Location
+( WE_Company_Location
+2nd WE_Company_Location
+floor),5 WE_Company_Location
+Mohakhali WE_Company_Location
+C WE_Company_Location
+/ WE_Company_Location
+A WE_Company_Location
+, WE_Company_Location
+Dhaka-1212 WE_Company_Location
+. WE_Company_Location
+
+Key O
+Responsibilities O
+: O
+
+Resolving O
+customer O
+Query O
+, O
+Request O
+, O
+and O
+Complain O
+through O
+my O
+assigned O
+bKash O
+plus O
+. O
+
+Update O
+front O
+officers O
+regarding O
+new O
+updates O
+and O
+process O
+. O
+
+Preparing O
+various O
+reports O
+, O
+work O
+report O
+, O
+summery O
+& O
+other O
+reports O
+as O
+per O
+management O
+
+requirements O
+. O
+
+Training O
+and O
+development O
+of O
+my O
+assigned O
+front O
+officers O
+for O
+proper O
+solutions O
+. O
+
+Handling O
+special O
+queries O
+. O
+
+Providing O
+solution O
+of O
+fraud O
+issues O
+
+Follow O
+up O
+assigned O
+front O
+officers O
+regular O
+task O
+. O
+
+
+
+
+3 O
+. O
+Genex WE_Company_Name
+Infosys WE_Company_Name
+Limited WE_Company_Name
+
+: O
+Market O
+Operation O
+
+Division O
+
+: O
+Customer O
+Service O
 ( O
-Data O
-mining O
-purpose O
+Customer O
+Experience O
+of O
+Robi O
+Axiata O
+Ltd O
 ) O
 
-Framework O
+Department O
+
 : O
-Laravel O
+Senior WE_Job_Role
+Customer WE_Job_Role
+Manager WE_Job_Role
+
+Designation O
+
+: O
+6th WE_Job_Duration
+July WE_Job_Duration
+2013 WE_Job_Duration
+18th WE_Job_Duration
+June WE_Job_Duration
+2015 WE_Job_Duration
+
+Duration O
+
+Address WE_Company_Location
+: WE_Company_Location
+Mascot WE_Company_Location
+Plaza WE_Company_Location
+( WE_Company_Location
+5th WE_Company_Location
+floor),107/A WE_Company_Location
+Sonargaon WE_Company_Location
+Janapath WE_Company_Location
+, WE_Company_Location
+Sector#7,Uttara WE_Company_Location
+, WE_Company_Location
+Dhaka- WE_Company_Location
+
+1230 WE_Company_Location
+. WE_Company_Location
+
+Key O
+Responsibilities O
+: O
+
+Assist O
+customer O
+query O
 , O
-Bootstrap O
+request O
+, O
+complaint O
+& O
+insight O
+through O
+call O
+
+Handling O
+special O
+calls O
+such O
+as O
+International O
+Roaming O
+Services O
+
+Providing O
+solution O
+of O
+fraud O
+issues O
+
+Web O
+mail O
+management O
+of O
+Robi O
+Axiata O
+Limited O
+
+Solving O
+Robi O
+customer O
+s O
+query O
+, O
+request O
+and O
+complaint O
+
+Handling O
+special O
+cases O
+
+
+
+4 O
+. O
+
+Robi WE_Company_Name
+Axiata WE_Company_Name
+( WE_Company_Name
+Bangladesh WE_Company_Name
+) WE_Company_Name
+Ltd WE_Company_Name
+
+: O
+Market O
+Operation O
+
+Division O
+
+: O
+Customer O
+Service O
+( O
+Customer O
+Experience O
+unit O
+) O
+
+Department O
+
+Designation O
+
+: O
+Customer WE_Job_Role
+Manager WE_Job_Role
+
+: O
+1st WE_Job_Duration
+January WE_Job_Duration
+2013 WE_Job_Duration
+- WE_Job_Duration
+6th WE_Job_Duration
+July WE_Job_Duration
+2013 WE_Job_Duration
+. WE_Job_Duration
+
+Duration O
+
+Address WE_Company_Location
+: WE_Company_Location
+Mascot WE_Company_Location
+Plaza WE_Company_Location
+( WE_Company_Location
+5th WE_Company_Location
+floor WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+107/A WE_Company_Location
+Sonargaon WE_Company_Location
+Janapath WE_Company_Location
+, WE_Company_Location
+Sector#7 WE_Company_Location
+, WE_Company_Location
+Uttara WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+
+1230 WE_Company_Location
+. WE_Company_Location
+
+Key O
+Responsibilities O
+: O
+
+Assist O
+customer O
+query O
+, O
+request O
+, O
+complaint O
+& O
+insight O
+through O
+call O
+, O
+sms O
+& O
+e O
+- O
+mail O
+
+Handling O
+special O
+calls O
+such O
+as O
+International O
+Roaming O
+Services O
+
+Providing O
+solution O
+of O
+fraud O
+issues O
+
+EXPERIENCE O
+
+Total O
+Year O
+of O
+Experience O
+: O
+4 O
++ O
+Years O
+. O
+
+1 O
+. O
+Sr WE_Job_Role
+. WE_Job_Role
+Software WE_Job_Role
+Test WE_Job_Role
+Engineer WE_Job_Role
+( O
+REVE WE_Company_Name
+Systems WE_Company_Name
+Ltd WE_Company_Name
+, O
+From O
+
+June WE_Job_Duration
+2015 WE_Job_Duration
+Present WE_Job_Duration
+) O
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duties O
+and O
+Responsibilities O
+: O
+
+Develop O
+testing O
+programs O
+that O
+address O
+areas O
+such O
+as O
+database O
+impacts O
+, O
+
+software O
+scenarios O
+, O
+regression O
+testing O
+, O
+negative O
+testing O
+, O
+error O
+or O
+bug O
+
+retests O
+, O
+or O
+usability O
+. O
+
+Document O
+software O
+defects O
+, O
+using O
+a O
+bug O
+tracking O
+system O
+, O
+and O
+report O
+
+defects O
+to O
+software O
+developers O
+. O
+
+Monitor O
+program O
+performance O
+to O
+ensure O
+efficient O
+and O
+problem O
+free O
+
+operation O
+. O
+
+Plan O
+test O
+schedules O
+or O
+strategies O
+in O
+accordance O
+with O
+project O
+scope O
+or O
+
+delivery O
+dates O
+. O
+
+Provide O
+feedback O
+and O
+recommendations O
+to O
+developers O
+on O
+software O
+
+usability O
+and O
+functionality O
+. O
+
+Test O
+system O
+modifications O
+to O
+prepare O
+for O
+implementation O
+. O
+
+Monitor O
+bug O
+resolution O
+efforts O
+and O
+track O
+successes O
+. O
+
+Develop O
+or O
+specify O
+standards O
+, O
+methods O
+, O
+or O
+procedures O
+to O
+determine O
+
+product O
+quality O
+or O
+release O
+readiness O
+. O
+
+Evaluate O
+or O
+recommend O
+software O
+for O
+testing O
+or O
+bug O
+tracking O
+. O
+
+Conduct O
+historical O
+analyses O
+of O
+test O
+results O
+. O
+
+Analysis O
+user O
+requirements O
+and O
+Prepare O
+Test O
+plan O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 O
+. O
+SQA WE_Job_Role
+Engineer WE_Job_Role
+( O
+ServicEngine WE_Company_Name
+Ltd WE_Company_Name
+, O
+From O
+July,2012- WE_Job_Duration
+May WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
+) O
+
+Duties O
+and O
+Responsibilities O
+: O
+
+Functional O
+testing O
+, O
+Re O
+- O
+testing O
+, O
+Regression O
+testing O
+. O
+UAT O
+and O
+Ad- O
+
+hoc O
+testing O
+. O
+
+Mobile O
+application O
+and O
+website O
+testing O
+by O
+comparing O
+with O
+HTML O
+
+site O
+in O
+different O
+devices O
+and O
+browsers O
+simultaneously O
+- O
+a O
+project O
+of O
+
+Usablenet O
+Inc. O
+
+M O
+- O
+commerce O
+, O
+Secure O
+and O
+Non O
+- O
+secure O
+, O
+assistive O
+web O
+site O
+testing O
+
+using O
+given O
+credit O
+card O
+information O
+. O
+
+Test O
+using O
+emulators- O
+Device O
+Anywhere O
+studio O
+, O
+Perfecto O
+mobile O
+. O
+
+Follow O
+up O
+QA O
+tickets O
+( O
+assigned O
+by O
+other O
+QA O
+teams O
+) O
+by O
+comparing O
+
+with O
+appropriate O
+PRD O
+. O
+
+Preparing O
+defect O
+report O
+, O
+Bug O
+tracking O
+list O
+and O
+sending O
+daily O
+status O
+
+report O
+to O
+PM O
+, O
+leads O
+through O
+macro O
+sheet O
+. O
+Transmission O
+of O
+all O
+
+macros O
+to O
+the O
+different O
+stakeholders O
+. O
+
+Weekly O
+follow O
+up O
+meeting O
+with O
+other O
+team O
+leaders O
+along O
+with O
+
+project O
+manager O
+. O
+Prioritize O
+test O
+requirements O
+and O
+assign O
+to O
+the O
+
+team O
+members O
+. O
+
+Managing O
+daily O
+stand O
+up O
+meeting O
+, O
+matrix O
+of O
+my O
+team O
+and O
+trained O
+
+up O
+new O
+team O
+members O
+. O
+
+International O
+working O
+experiences O
+, O
+Maintain O
+close O
+communication O
+
+with O
+all O
+other O
+QA O
+and O
+development O
+teams O
+in O
+Europe O
+and O
+America O
+. O
+
+
+Tested O
+Applications O
+: O
+
+1 O
+. O
+REVE O
+Chat O
+live O
+chat O
+solution O
+
+2 O
+. O
+American O
+Airline O
+
+3 O
+. O
+Us O
+Airways O
+
+4 O
+. O
+SPG O
+brands O
+all O
+of O
+the O
+hotels O
+
+5 O
+. O
+Hard O
+Rock O
+hotels O
+
+6 O
+. O
+Zoom O
+
+7 O
+. O
+Dell O
+
+Professional O
+Experience O
+: O
+
+Eniacs WE_Company_Name
+Solution WE_Company_Name
+, O
+
+Intern WE_Job_Role
+, O
+PHP O
 , O
 Java O
-Swing O
+and O
+Android O
+Development O
+October WE_Job_Duration
+, WE_Job_Duration
+2015-January WE_Job_Duration
+, WE_Job_Duration
+2016 WE_Job_Duration
 
-Have O
-Knowledge O
-About O
+NON O
+- O
+ACADEMIC O
+PROJECTS O
+AND O
+EXPERIANCES O
 : O
-HTML O
+
+Making O
+YouTube O
+Tutorial O
+: O
+
+I O
+have O
+made O
+a O
+tutorial O
+for O
+Enterprise O
+JavaBeans O
+( O
+EJB O
+) O
+. O
+How O
+to O
+Configure O
+
+
+
+
+
+
+
+
+Shop O
+Management O
+: O
+
+TO O
+DO O
+APPLICATION O
+: O
+
+MySQL O
+with O
+Enterprise O
+JavaBean O
+in O
+Net O
+beans O
+. O
+
+YouTube O
+Link O
+: O
+https://www.youtube.com/watch?v=SkluPizOIUA O
+
+Web O
+Application O
+Using O
+REST O
+API O
+By O
+Django O
+Framework O
+: O
+
+It O
+s O
+a O
+web O
+application O
+on O
+programming O
+language O
+Python O
+& O
+followed O
+
+Django O
+framework O
+. O
+Here O
+I O
+have O
+maintained O
+Music O
+& O
+User O
+Profile O
+. O
+
+It O
+is O
+a O
+Web O
+Application O
+. O
+This O
+Application O
+is O
+build O
+up O
+by O
+following O
+a O
+PHP O
+framework O
+
+LARAVEL-5 O
+. O
+Actually O
+here O
+I O
+have O
+successfully O
+implemented O
+the O
+CRUD O
+operation O
+. O
+
+Shop O
+Management O
+is O
+a O
+software O
+for O
+managing O
+a O
+stationary O
+shop O
+. O
+It O
+s O
+a O
+
+desktop O
+application O
+It O
+was O
+build O
+using O
+Java O
+and O
+MySQL O
+database O
+. O
+
+It O
+can O
+make O
+you O
+amused O
+. O
+Here O
+if O
+you O
+shake O
+your O
+mobile O
+phone O
+there O
+it O
+
+will O
+display O
+different O
+words O
+. O
+You O
+have O
+to O
+predict O
+how O
+many O
+words O
+it O
+will O
+
+display O
+at O
+a O
+time O
+. O
+
+Android O
+Video O
+Player O
+: O
+
+This O
+player O
+can O
+run O
+videos O
+of O
+any O
+format O
+. O
+Here O
+YouTube O
+Android O
+Player O
+
+API O
+is O
+used O
+in O
+this O
+application O
+. O
+
+I O
+have O
+worked O
+with O
+a O
+hospital O
+management O
+system O
+. O
+It O
+was O
+build O
+up O
+by O
+
+following O
+MVC O
+structure O
+of O
+PHP O
+& O
+also O
+used O
+AJAX O
 , O
-CSS O
+Java O
+Script O
 , O
-SQL O
+MySQL O
+. O
+
+Hospital O
+Management O
+: O
+
+Android O
+Magic O
+Box O
+: O
+
+PERSONAL O
+ACHIEVMENTS O
+: O
+
+Higher O
+Secondary O
+Level O
+Education O
+Board O
+Scholarship O
+2013 O
+. O
+
+OIC O
+awarded O
+full O
+scholarship O
+for O
+3 O
+years O
+of O
+undergraduate O
+study O
+. O
+
+Received O
+several O
+prize O
+& O
+awards O
+( O
+Debate O
+, O
+General O
+Knowledge O
+) O
+in O
+college O
+. O
+
+
+ACADEMIC O
+PROJECTS O
+AND O
+EXPERIANCES O
+: O
+
+
+TECHNOLOGIES O
+, O
+PLATFORMS O
+AND O
+FRAMEWORKS O
+: O
+
+Hotel O
+Management O
+System O
+: O
+
+JSF O
+
+Rapid O
+Roller O
+: O
+
+Employee O
+Management O
+System O
+: O
+
+Android O
+Application O
+Health O
+& O
+Fitness O
+: O
+
+Hotel O
+Management O
+System O
+is O
+a O
+software O
+which O
+can O
+be O
+used O
+by O
+both O
+
+customer O
+and O
+managers O
+. O
+This O
+software O
+was O
+developed O
+in O
+C++ O
+. O
+
+This O
+android O
+app O
+shows O
+the O
+times O
+of O
+calorie O
+Meter O
+which O
+is O
+taken O
+as O
+
+input O
+from O
+user O
+. O
+This O
+app O
+also O
+includes O
+BMI O
+Meter O
+& O
+Health O
+tips O
+. O
+
+Web O
+Application O
+of O
+Employee O
+Management O
+System O
+using O
+
+framework O
+, O
+Servlet O
+, O
+JSP O
+, O
+MySQL O
+database O
+. O
+
+Here O
+, O
+an O
+interesting O
+character O
+always O
+struggling O
+to O
+stay O
+on O
+Rolling O
+
+Ball O
+. O
+It O
+is O
+made O
+by O
+game O
+Engine O
+Construct O
+2 O
+. O
+
+
+SQLite O
+Database O
+, O
+Google O
+API O
+. O
+
+AJAX O
+, O
+Php O
+, O
+Python O
 , O
 JavaScript O
 , O
-
-Node.js O
-, O
-Ruby O
-on O
-Rails O
-
-Education O
-
-Bachelor Education_Degree
-of Education_Degree
-Science Education_Degree
-in O
-Electrical Education_Subject
-and Education_Subject
-Electronic Education_Subject
-Engineering Education_Subject
-
-Bangladesh Education_Institution_Name
-University Education_Institution_Name
-of Education_Institution_Name
-Engineering Education_Institution_Name
-and Education_Institution_Name
-Technology Education_Institution_Name
-
-CGPA Education_Result
-: Education_Result
-3.51/4.00 Education_Result
-
-A Education_Degree
-level Education_Degree
-
-Islamic Education_Institution_Name
-International Education_Institution_Name
-School Education_Institution_Name
-and Education_Institution_Name
-College Education_Institution_Name
-
-Grades Education_Result
-: Education_Result
-3A Education_Result
-* Education_Result
-, Education_Result
-1A Education_Result
-
-O Education_Degree
-level Education_Degree
-
-Islamic Education_Institution_Name
-International Education_Institution_Name
-School Education_Institution_Name
-and Education_Institution_Name
-College Education_Institution_Name
-
-Grades Education_Result
-: Education_Result
-5A Education_Result
-* Education_Result
-, Education_Result
-1A Education_Result
-, Education_Result
-1B Education_Result
-
-Education O
-: O
-
-Daffodil Education_Institution_Name
-International Education_Institution_Name
-University Education_Institution_Name
-( Education_Institution_Name
-DIU Education_Institution_Name
-) Education_Institution_Name
-, O
-Dhaka Education_Location
-, Education_Location
-Bangladesh Education_Location
-
-B. Education_Degree
-Sc Education_Degree
-. Education_Degree
-in O
-Computer Education_Subject
-Science Education_Subject
-and Education_Subject
-Engineering Education_Subject
-| O
-CGPA Education_Result
-: Education_Result
-3.45 Education_Result
-( Education_Result
-Out Education_Result
-of Education_Result
-4.0 Education_Result
-) Education_Result
-
-
-
-TECHNICAL O
-SKILLS O
-& O
-INTERESTS O
-: O
-
-Programming O
-Languages O
-: O
-C O
-, O
-C++ O
-, O
-Java O
-, O
-php O
-, O
-python O
-. O
-
-
-Markup O
-Languages O
-: O
-XML O
-, O
-XHTML O
-, O
-HTML O
-, O
 CSS O
 , O
-CSS3 O
-. O
-
-
-Database O
-: O
-MySQL O
-, O
-SQLite O
+Html O
 , O
 Oracle O
 10 O
 g O
-. O
 
-
-VCS O
-: O
-Git O
-. O
-
-
-Tools O
-: O
-Postman O
+Unix O
 , O
-JIRA O
-, O
-Selenium O
-WebDriver O
-, O
-Selenium O
-IDE O
-, O
-Appium O
-
-Testing O
-Documentations O
-: O
-Test O
-cases O
-, O
-Test O
-plan O
-, O
-Test O
-result O
-. O
-
-
-Applications O
-: O
-Eclipse O
-, O
-IntelliJ O
-IDEA O
-, O
-Android O
-Studio O
-, O
-Code::Blocks O
-, O
-Sublime O
-Text O
-. O
-
-Operating O
-System O
-: O
-Windows O
-7/8/8.1/10 O
-. O
 Ubuntu O
-14.04 O
+OS O
+, O
+Shell O
+Programming O
+
+Java O
+FX O
+, O
+Swing O
+, O
+JDBC O
+, O
+J2EE O
+, O
+Enterprise O
+JavaBean O
+
+Microsoft O
+Visual O
+Studio O
+
+System O
+Analysis O
 and O
-above O
+Design O
+, O
+, O
+AutoCAD O
+, O
+Matlab O
+, O
+and O
+AI O
 . O
 
+Android O
+
+Web O
+Apps O
+
+Unix O
 
 
-PROJECTS O
-EXPERIENCES O
-: O
+Java O
 
 
-
-
-Link O
-: O
-https://github.com/Onisha-95/OldAid O
-
-
-OldHome O
-: O
-An O
-android O
-application O
-for O
-searching O
-nearby O
-old O
-Home O
-and O
-renting O
-them O
-. O
-
-Link O
-: O
-https://github.com/Onisha-95/OldHome O
-
-
-Location O
-Finder O
-: O
-An O
-android O
-app O
-for O
-searching O
-location O
-in O
-the O
-Google O
-map O
-Api O
-version O
-2. O
-
-Link:https://github.com O
+C O
 / O
-Onisha-95/Fusedlocation O
-. O
+C++ O
+
+Others O
+
+Studying O
+Undergraduate O
+in O
+Computer O
+Science O
+and O
+Engineering O
 
 
-Snaky O
+Institution O
+name O
+
 : O
-A O
-snake O
-game O
-built O
-with O
-python O
-. O
-
-Link O
-: O
-https://github.com/Onisha-95/python_snake_game O
-. O
-
-
-
-ldAid O
-( O
-Thesis):This O
-is O
-final O
-year O
-project O
-which O
-is O
-An O
-android O
-application O
-for O
-helping O
-old O
-aged O
-
-People O
-and O
-providing O
-companionship O
-. O
-
-
-
-
-ONLINE O
-ACTIVITIES O
-& O
-COMPETITIVE O
-PROGRAMMING O
-
-
-Gold O
-Java O
-Badge O
-rated O
-coder O
-in O
-Hackerrank O
-https://www.hackerrank.com/Tasnim_Onisha O
-
-
-Participated O
-and O
-obtained O
-different O
-ranks O
-in O
-various O
-online O
-and O
-onsite O
-programming O
-contests O
-like O
-
-Google O
-Code O
-Jam O
-, O
-Facebook O
-Hacker O
-Cup O
-
-Hackathon O
-organized O
-by O
-Robi O
-Axiata O
-, O
-2018 O
-. O
-
-
-Stood O
-First O
-in O
-DIU O
-Project O
-Showcasing O
-2018 O
-. O
-
-IEEE O
-- O
-Institute O
+Islamic O
+University O
 of O
-Electrical O
-and O
-Electronics O
-Engineers O
+Technology O
 ( O
-January O
-2016 O
-to O
-August O
-2018 O
+IUT O
 ) O
 
 
-Organized O
-a O
-number O
-of O
-professional O
-, O
-technical O
-seminars O
-and O
-workshops O
-with O
-speakers O
+Department O
 
-from O
-Bangladesh O
-. O
-
-
-
-MASSIVE O
-OPEN O
-ONLINE O
-COURSES O
-
-
-Introduction O
-to O
-python O
-- O
-Udacity O
-
-
-Programming O
-Mobile O
-Applications O
-for O
-Android O
-Handheld O
-Systems O
-Coursera O
-
-Algorithms O
-, O
-part O
-1 O
-by O
-Princeton O
-university O
-
-Introduction O
-to O
-Programming O
-with O
-Java O
-- O
-edX O
-
-
-How O
-to O
-use O
-Git O
-and O
-Github O
-Udacity O
-
-Mobile O
-Cloud O
-Computing O
-With O
-Android O
-
-
-SCHOLARSHIPS O
 : O
-
-
-Dhaka O
-Board O
-Scholarship O
-for O
-outstanding O
-result O
-in O
-Secondary O
-School O
-Certificate O
+Computer O
+Science O
+and O
+Engineering O
 ( O
-SSC O
-) O
-
-Examination O
-, O
-2012 O
-. O
-
-Dhaka O
-Board O
-Scholarship O
-for O
-outstanding O
-result O
-in O
-Higher O
-Secondary O
-School O
-Certificate O
-( O
-HSC O
-) O
-
-Examination O
-, O
-2014 O
-. O
-
-Education O
-: O
-
-Name O
-of O
-education O
-
-B.S.C O
-in O
 CSE O
+) O
 
-H.S.C O
-
-S.S.C O
 
 Result O
 
-3.77 O
+: O
+CGPA O
+3.08 O
+( O
+Out O
+of O
+4 O
+) O
 
-4.20 O
+Higher O
+Secondary O
+Certificate O
+( O
+H.S.C O
+) O
 
-4.88 O
+Institution O
+name O
 
+: O
+Azizul O
+Haque O
+College O
+, O
+Bogra O
+, O
+Rajshahi O
+
+Year O
+of O
+Completion O
+: O
+2012 O
+
+Result O
+
+: O
+GPA-5(Golden O
+) O
+
+Secondary O
+School O
+Certificate O
+( O
+S.S.C O
+) O
+
+Institution O
+name O
+
+
+Year O
+of O
+Completion O
+
+Result O
+
+
+: O
+Bogra O
+Zilla O
+School O
+, O
+Bogra O
+, O
+Rajshahi O
+
+: O
+2010 O
+. O
+
+: O
+GPA-5 O
+( O
+Golden O
+) O
+
+: O
+
+: O
+
+: O
+
+: O
+
+: O
+
+: O
+
+EDUCATIONAL O
+QUALIFICATOIN O
+: O
+
+
+: O
+House-34,Road-11 O
+, O
+Nikunjo O
+, O
+Uttara O
+, O
+Dhaka O
+. O
+
+Personal O
+Details O
+: O
+
+Father O
+'s O
+name O
+: O
+Md. O
+Hashibul O
+Hossain O
+Nationality O
+: O
+Bangladeshi O
+
+Mother O
+'s O
+name O
+: O
+Shamsun O
+Nahar O
+Religion O
+: O
+Islam O
+( O
+Sunni O
+) O
+. O
+
+Date O
+of O
+birth O
+: O
+October O
+7 O
+, O
+1995 O
+Marital O
+Status O
+: O
+Single O
+. O
+
+Sex O
+: O
+Male O
+. O
+
+Present O
+Address O
+
+Permanent O
+Address O
+: O
+Datta O
+pungali O
+, O
+Faridpur O
+, O
+Pabna O
+
+EXPERIENCE O
+
+
+: O
+C O
+, O
+C++ O
+, O
+C#.NET O
+
+: O
+Microsoft O
+SQL O
+Server O
+2008 O
+& O
+2012 O
+
+: O
+ASP.NET O
+, O
+HTML O
+, O
+CSS3 O
+. O
+
+: O
+Windows O
+98/XP O
+, O
+Windows O
+8.1 O
+, O
+Linux O
+. O
+
+: O
+LAN O
+configuration O
+in O
+windows O
+, O
+Concept O
+on O
+HUB O
+, O
+switch O
+and O
+
+( O
+From O
+May O
+2016 O
+to O
+July O
+2016 O
+. O
+) O
+
+
+
+
+
+1 O
+. O
+Graphic WE_Company_Name
+People| WE_Company_Name
+Software WE_Company_Name
+People WE_Company_Name
+
+IT WE_Job_Role
+Support WE_Job_Role
+Engineer WE_Job_Role
+
+Company WE_Company_Location
+Location WE_Company_Location
+: WE_Company_Location
+House WE_Company_Location
+: WE_Company_Location
+76/A WE_Company_Location
+, WE_Company_Location
+Road WE_Company_Location
+no WE_Company_Location
+: WE_Company_Location
+11 WE_Company_Location
+, WE_Company_Location
+Banani WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+. WE_Company_Location
+
+Department O
+: O
+IT O
+
+
+2 O
+. O
+Head WE_Company_Name
+- WE_Company_Name
+Blocks WE_Company_Name
+
+Junior WE_Job_Role
+Programmer WE_Job_Role
+
+Job O
+Description O
+: O
+
+Primary O
+Responsibility O
+include O
+design O
+and O
+development O
+of O
+ASP.NET O
+project O
+
+Maintenance O
+and O
+
+equipment O
+, O
+email O
+etc O
+. O
+
+Desktop O
+& O
+network O
+support O
+, O
+Data O
+and O
 Computer O
+communication O
+
+WORK O
+EXPERIENCE O
+
+
+
+
+October WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
+Present WE_Job_Duration
+
+
+Software WE_Job_Role
+Developer WE_Job_Role
+
+Bangla WE_Company_Name
+Trac WE_Company_Name
+Miaki WE_Company_Name
+VAS WE_Company_Name
+Limited WE_Company_Name
+, O
+Bangladesh WE_Company_Location
+
+
+Working O
+Area O
+: O
+
+April O
+, O
+2015 O
+October O
+, O
+2015 O
+
+
+Jan O
+, O
+2014 O
+April,2015 O
+
+
+Jan,2013 O
+Dec O
+, O
+2013 O
+
+Android O
+Application O
+Development O
+. O
+( O
+Native O
+) O
+
+VAS O
+application O
+development O
+using O
+Telco O
+APIs O
+. O
+
+
+
+Infrastructure O
+Associate O
+
+Accenture O
+Communications O
+Infrastructure O
+Solutions O
+Limited O
+, O
+Bangladesh WE_Company_Location
+
+
+Working O
+Area O
+: O
+
+Windows O
+Server O
+Administration O
+and O
+Virtualization O
+. O
+
+Active O
+Directory O
+. O
+
+HPSM O
+Tool O
+Management O
+. O
+
+Freelance O
+Software WE_Job_Role
+Developer WE_Job_Role
+
+Different O
+Local O
+companies O
+and O
+organizations O
+. O
+
+
+Working O
+Area O
+: O
+
+Mobile O
+Application O
+Development O
+( O
+Android O
+) O
+
+Web O
+Application O
+Development O
+. O
+
+Undergraduate O
+Teaching O
+Assistant O
+
+North O
+South O
+University O
+, O
+Dhaka O
+, O
+Bangladesh WE_Company_Location
+
+
+Responsibilities O
+: O
+
+Grading O
+assignments O
+and O
+quiz O
+papers O
+, O
+assisting O
+instructors O
+in O
+the O
+lab O
+, O
+collaborating O
+with O
+the O
+
+students O
+to O
+grasp O
+the O
+content O
+of O
+the O
+courses O
+. O
+
+
+Courses O
+I O
+have O
+assisted O
+: O
+
+Software O
+Engineering O
+. O
+
+Theory O
+of O
+Fuzzy O
+Systems O
+. O
+
+Database O
+Management O
+Systems O
+. O
+
+Fundamentals O
+of O
+Computer O
+Programming O
++ O
+Lab O
+( O
+Java O
+) O
+
+Digital O
+Logic O
+
+Digital O
+and O
+Microprocessor O
+Design O
+Laboratory O
+( O
+Lab O
+) O
+. O
+
+Nahidul O
+Islam O
+
+Page O
+1 O
 / O
-Technical O
-Skills O
+3 O
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum O
+Vitae O
+
+
+EDUCATION O
+AND O
+
+Experience O
+
+Title O
+: O
+Jr. WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+( WE_Job_Role
+Ruby WE_Job_Role
+on WE_Job_Role
+Rails WE_Job_Role
+) WE_Job_Role
+
+Company WE_Company_Name
+: WE_Company_Name
+Nascenia WE_Company_Name
+Limited WE_Company_Name
+
+Join WE_Job_Duration
+Date WE_Job_Duration
+: WE_Job_Duration
+1 WE_Job_Duration
+, WE_Job_Duration
+June WE_Job_Duration
+, WE_Job_Duration
+2016 WE_Job_Duration
+
+Address WE_Company_Location
+: WE_Company_Location
+Suite#4A WE_Company_Location
+, WE_Company_Location
+House#6/14 WE_Company_Location
+, WE_Company_Location
+Lalmatia WE_Company_Location
+, WE_Company_Location
+Dhaka-1207 WE_Company_Location
+
+Website WE_Company_Website
+: WE_Company_Website
+www.nascenia.com WE_Company_Website
+
+
+Undergraduate O
+in O
+Computer O
+Science O
+and O
+Engineering O
+
+Institution O
+: O
+Islamic O
+University O
+of O
+Technology(IUT O
+) O
+
+CGPA O
+: O
+3.63 O
+out O
+of O
+4.00 O
+
+Date O
+of O
+Graduation O
+: O
+4 O
+, O
+December O
+, O
+2015 O
+
+Higher O
+Secondary O
+Certificate O
+
+Institution O
+: O
+Dhaka O
+College O
 
 Passing O
 Year O
-
-2018 O
-
-2013 O
-
+: O
 2011 O
 
+Secondary O
+School O
+Certificate O
+
 Institution O
+: O
+Dhanmondi O
+Govt O
+. O
+Boys O
+High O
+School O
 
-Shanto O
+Passing O
+Year O
+: O
+2009 O
+
+
+Company O
+: O
+Metlife O
+Bangladesh O
+
+Company O
+: O
+Airtel O
+BD O
+
+Title O
+: O
+MTO O
+
+Duration O
+: O
+February,2016 O
+~ O
+May,2016 O
+
+
+Title O
+: O
+Summer O
+Intern O
+
+Duration O
+: O
+December O
+2014 O
+( O
+1 O
+month O
+) O
+
+Title O
+: O
+Industrial O
+Training O
+on O
+Android O
+( O
+Intern O
+) O
+
+Duration O
+: O
+November O
+, O
+2014 O
+( O
+1 O
+Month O
+) O
+
+Company O
+: O
+Xeon O
+BD O
+
+Professional O
+Experience O
+: O
+
+Nilsagor WE_Company_Name
+Group WE_Company_Name
 - O
-Mariam O
-University O
+Dhaka WE_Company_Location
+
+IT WE_Job_Role
+Officer WE_Job_Role
+( O
+01 WE_Job_Duration
+- WE_Job_Duration
+05 WE_Job_Duration
+- WE_Job_Duration
+2016 WE_Job_Duration
+to WE_Job_Duration
+still WE_Job_Duration
+now WE_Job_Duration
+) O
+
+Used O
+Technologies O
+: O
+Media O
+converter O
+, O
+Microtik O
+1100 O
+, O
+4 O
+- O
+32 O
+port O
+switch O
+, O
+Hub O
+, O
+Router O
+, O
+Finger O
+print O
+attendence O
+
+machine O
+, O
+etc O
+. O
+
+My O
+responsibilities O
+: O
+
+TCP O
+/ O
+IP O
+, O
+routing O
+, O
+switching O
+, O
+VPN O
+, O
+SoHo O
+device O
+configuration O
+. O
+
+Client O
+mail O
+configuration O
+, O
+backup O
+and O
+restore O
+. O
+
+Antivirus O
+s O
+/ O
+w O
+management O
+. O
+
+CCTV O
+, O
+PABX O
+and O
+attendance O
+s O
+/ O
+w O
+configuration O
+, O
+management O
+and O
+troubleshooting O
+. O
+
+Support O
+for O
+Windows O
+and O
+Android O
+based O
+system O
+admin O
+, O
+troubleshooting O
+. O
+
+HRM O
+s O
+/ O
+w O
+management O
+and O
+Cisco O
+routing O
+/ O
+switching O
+. O
+
+
+Cosmosoft WE_Company_Name
+System WE_Company_Name
+Khulna WE_Job_Duration
+
+Maintenance WE_Job_Role
+and WE_Job_Role
+Network WE_Job_Role
+Engineer(01 WE_Job_Role
+- WE_Job_Duration
+02 WE_Job_Duration
+- WE_Job_Duration
+2013 WE_Job_Duration
+to WE_Job_Duration
+31 WE_Job_Duration
+- WE_Job_Duration
+12 WE_Job_Duration
+- WE_Job_Duration
+2015 WE_Job_Duration
+) O
+
+My O
+Responsibilities O
+: O
+
+Support O
+and O
+troubleshooting O
+all O
+computers O
+. O
+
+Maintain O
+the O
+server O
+computer O
+and O
+its O
+operating O
+system O
+windows O
+server O
+2000 O
+. O
+
+Switching O
+/ O
+routing O
+configuaration O
+. O
+
+
+Works O
+: O
+
+Project O
+Title O
+: O
+Laboratory O
+Management O
+( O
+Laboratory O
+management O
+system O
 of O
+CSE O
+Discipline O
+in O
+Khulna O
 
-Creative O
-Technology O
+University O
+) O
 
-Safiuddin O
-Sarker O
-Academy O
+Creating O
+an O
+desktop O
+application O
+Laboratory O
+management O
+System O
+. O
+
+Differentiating O
+Software O
 and O
+Hardware O
+lab O
+. O
 
-College O
-
-Safiuddin O
-Sarker O
-Academy O
+Using O
+C O
+# O
+language O
 and O
+IDE O
+visual O
+studio10 O
+. O
 
-College O
 
-Programming O
-Language O
+Project O
+Title O
+: O
+Open O
+Idea O
+( O
+Web O
+Application O
+on O
+Khulna O
+University O
+Open O
+Idea O
+Center O
+) O
+. O
+
+Anyone O
+can O
+register O
+on O
+the O
+site O
+can O
+share O
+his O
+/ O
+her O
+idea O
+. O
+
+Using O
+HTML5 O
+, O
+CSS O
+, O
+Java O
+Script O
+, O
+PHP O
+. O
+
+
+Project O
+Title O
+: O
+Project O
+Management O
+( O
+Official O
+project O
+management O
+) O
+
+A O
+project O
+Manager O
+can O
+split O
+the O
+job O
+to O
+the O
+developers O
+and O
+can O
+monitor O
+the O
+progress O
+. O
+
+Using O
+HTML5 O
+, O
+CSS O
+, O
+Java O
+Script O
+, O
+PHP O
+. O
+
+
+
+1 O
+
+
+
+Thesis O
+: O
+Home O
+Automation O
+( O
+Home O
+Automation O
+by O
+Android O
+Phone O
+) O
+
+Home O
+Appliances(lights O
+, O
+fans O
+, O
+tv O
+etc O
+. O
+) O
+can O
+be O
+controlled O
+by O
+android O
+application O
+. O
+
+A O
+microcontroller O
+is O
+used O
+to O
+control O
+those O
+devices O
+. O
+
+Using O
+Arduino O
+Uno O
+, O
+Arduino O
+IDE O
+1.6.0 O
+, O
+Eclipse O
+. O
+
+
+
+
+
+Familiar O
+with O
+the O
+following O
+technical O
+areas O
+: O
+
+Languages O
 : O
 C O
 , O
 Java O
-
-Basic O
-Computer O
-Knowledge(Fundamental O
-Of O
-Computer O
-) O
-
-Microsoft O
-Office O
-Program(M.S O
-- O
-word O
 , O
-Excel O
-, O
-Power O
-- O
-Point O
-, O
-Access O
-) O
+C#. O
 
-Operating O
-System O
-( O
+Web O
+programming O
+: O
+HTML5 O
+, O
+CSS3 O
+, O
+Java O
+Script O
+, O
+PHP O
+. O
+
+Platforms O
+: O
 Windows O
-- O
-Xp O
+. O
+
+Programming O
+Tools O
+: O
+Code O
+Block O
 , O
-2007 O
+Netbeans O
 , O
-2008 O
-& O
-2010 O
-) O
-
-Have O
-good O
-knowledge O
-in O
-computer O
-hardware O
+Eclipse O
 , O
-software O
-& O
-internet O
+Notepad++ O
+, O
+visual O
+studio10 O
+. O
 
-application O
 
-Also O
-work O
-with O
-Adobe O
-Photoshop O
-and O
-Illustrator O
-
-Language O
-Skills O
+Interests O
 : O
 
-Bengali O
+Database O
 , O
-English O
-and O
-Hindi O
+Android O
+Applications O
+, O
+.net O
+development O
+, O
+Web O
+development O
+. O
 
+Work O
+Experience O
+
+TigerIT WE_Company_Name
+Bangladesh WE_Company_Name
+Ltd. WE_Company_Name
+Trainee WE_Job_Role
+Executive WE_Job_Role
+, O
+Network O
+Operations O
+Center O
+
+Feb,2016 WE_Job_Duration
+Dec,2016 WE_Job_Duration
+Key O
+Responsibilities O
+: O
+
+1 O
+. O
+Network O
+and O
+Server O
+monitoring O
+manually O
+and O
+using O
+tools O
+
+( O
+e.g. O
+Nagios O
+, O
+Cacti O
+) O
+
+
+2 O
+. O
+Providing O
+software O
+and O
+hardware O
+support O
+
+( O
+Configuration O
+, O
+Maintenance O
+, O
+Troubleshooting O
+) O
+
+3 O
+. O
+Collaboration O
+with O
+various O
+data O
+centers O
+and O
+provide O
+support O
+
+4 O
+. O
+Upon O
+arising O
+of O
+any O
+issue O
+establishing O
+and O
+maintaining O
+contact O
+
+with O
+assigned O
+teams O
+to O
+handle O
+the O
+issue O
+hard O
+and O
+fast O
+
+5 O
+. O
+Keeping O
+log O
+of O
+all O
+issues O
+using O
+various O
+tools O
+( O
+e.g. O
+Vtiger O
+CRM O
+) O
+
+6 O
+. O
+Assist O
+Network O
+and O
+System O
+Administration O
+
+7 O
+. O
+Assuring O
+Internet O
+and O
+Intranet O
+connectivity O
+and O
+monitoring O
+
+
+Academic O
+
+Qualification O
+
+BACHELOR O
+OF O
+SCIENCE O
+Computer O
+Science O
+and O
+Engineering O
+
+January O
+, O
+2016 O
+Ahsanullah O
+University O
+of O
+Science O
+and O
+Technology O
+
+HIGHER O
+SECONDARY O
+Science O
+
+CERTIFICATE O
+Bir O
+Shreshtha O
+Munshi O
+Abdur O
+Rouf O
+Rifles O
+College O
+
+August O
+, O
+2011 O
+
+SECONDARY O
+SCHOOL O
+Science O
+
+CERTIFICATE O
+Bir O
+Shreshtha O
+Munshi O
+Abdur O
+Rouf O
+Rifles O
+College O
+
+May O
+, O
+2009 O
+
+Work O
+Experience O
+
+Java WE_Job_Role
+/ WE_Job_Role
+J2EE WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+Cloud WE_Company_Name
+of WE_Company_Name
+Choice WE_Company_Name
+( O
+http://www.cloudofchoice.com/ WE_Company_Website
+) O
+
+June/2016 WE_Job_Duration
+- WE_Job_Duration
+today WE_Job_Duration
+, O
+Bangladesh WE_Company_Location
+
+Technology O
+: O
+Java O
+Spring O
+, O
+Java O
+Jersey O
+, O
+Hibernate O
+, O
+JPA O
+, O
+AWS O
+. O
+
+Responsibilities O
+: O
+
+Design O
+& O
+Develop O
+RESTful O
+API O
+using O
+Java O
+Spring O
+Dependency O
+Injection O
+and O
+Java O
+Jersey O
+
+
+Software O
+Testing O
+with O
+proper O
+test O
+cases O
+
+Architecture O
+and O
+Database O
+Design O
+
+Deployed O
+in O
+Amazon O
+Web O
+Service O
+
+Requirement O
+Analysis O
+& O
+Project O
+Proposal O
+Writing O
+
+Android WE_Job_Role
+Developer WE_Job_Role
+
+TBD WE_Company_Name
+, WE_Company_Name
+Start WE_Company_Name
+Up WE_Company_Name
+
+Apr/2016-June/2016 WE_Job_Duration
+
+Job O
+Role O
+: O
+Developed O
+Job O
+Site O
+like O
+Task O
+Rabbit O
+. O
+
+Job O
+Type O
+: O
+Full O
+Time O
+, O
+Remote O
+
+Responsibilities O
+: O
+
+Design O
+& O
+Manipulate O
+JSON O
+data O
+from O
+RESTful O
+API O
+
+Auth0 O
+Implementation O
+for O
+login O
+purpose O
+
+Use O
+Asynchronous O
+HTTP O
+requests O
+, O
+handle O
+responses O
+in O
+anonymous O
+callbacks O
+
+Use O
+GCM O
+for O
+Push O
+notifications O
+& O
+Tried O
+Firebase O
+for O
+Chat O
+Options O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACADEMIC O
+QUALIFICATIONS O
+
+
+01 O
+. O
+B.Sc.in O
+Computer O
+Science O
+and O
+Engineering O
+( O
+2012 O
+2016 O
+) O
+
+Institution O
+: O
+BRAC O
+University O
+, O
+Dhaka O
+, O
+Bangladesh O
+. O
+
+Result O
+: O
+CGPA O
+3.23 O
+out O
+of O
+4.0 O
+
+B.Sc O
+. O
+Thesis O
+: O
+Universal O
+API O
+for O
+Managing O
+Multiple O
+Cloud O
+Platforms O
+. O
+
+
+02 O
+. O
+H.S.C O
+IN O
+SCIENCE O
+( O
+2011 O
+) O
+
+Institution O
+: O
+Dhaka O
+College O
+, O
+Dhaka O
+
+Result O
+: O
+GPA O
+5.00 O
+without O
+4th O
+Subject O
+
+
+03 O
+. O
+S.S.C O
+in O
+Science O
+( O
+2009 O
+) O
+
+Institution O
+: O
+Model O
+Academy O
+, O
+Dhaka O
+
+Result O
+: O
+GPA O
+5.00 O
+without O
+4th O
+Subject O
+. O
+
+
+
+Research O
+& O
+Projects O
+
+01 O
+. O
+Integrated O
+Common O
+Platform O
+for O
+Managing O
+Multiple O
+Cloud O
+Platform O
+
+Overview O
+: O
+Cloud O
+computing O
+emerged O
+and O
+acquired O
+huge O
+popularity O
+. O
+Many O
+Cloud O
+Service O
+
+Providers O
+( O
+CSPs O
+) O
+like O
+, O
+AWS O
+, O
+Rackspace O
+, O
+Azure O
+and O
+many O
+more O
+are O
+facilitating O
+clients O
+with O
+
+common O
+services O
+( O
+storage O
+, O
+computing O
+, O
+networking O
+, O
+etc O
+. O
+) O
+and O
+thriving O
+for O
+more O
+client O
+by O
+adding O
+
+new O
+features O
+. O
+So O
+, O
+Cloud O
+Consumer O
+( O
+CC O
+) O
+falls O
+under O
+critical O
+situation O
+to O
+adapt O
+new O
+API O
+and O
+quickly O
+
+switch O
+to O
+CSP O
+that O
+best O
+suits O
+their O
+business O
+requirement O
+. O
+To O
+solve O
+this O
+perplexity O
+of O
+CC O
+, O
+we O
+
+introduce O
+a O
+prototype O
+which O
+integrates O
+different O
+Cloud O
+API O
+to O
+an O
+abstract O
+API O
+platform O
+and O
+
+developed O
+a O
+Proof O
+of O
+concept O
+( O
+PoC O
+) O
+for O
+our O
+platform O
+. O
+Using O
+our O
+single O
+point O
+API O
+CC O
+can O
+quickly O
+
+switch O
+and O
+get O
+facilitated O
+with O
+the O
+services O
+of O
+different O
+CSP O
+without O
+individual O
+API O
+knowledge O
+
+Purpose O
+: O
+Undergrad O
+Thesis O
+Research O
+. O
+
+Project O
+URL O
+: O
+http://universalapi.codeplex.com O
+
+Technology O
+: O
+JavaEE O
+, O
+Java O
+Jersey O
+, O
+Jax O
+- O
+RS O
+, O
+Eucalyptus(AWS O
+) O
+, O
+OpenStack O
+
+02 O
+. O
+Develop O
+Module O
+for O
+Open O
+Source O
+Microfinance O
+Banking O
+Software O
+Mifos O
+
+Initiatives O
+
+Overview O
+: O
+Mifos O
+initiatives O
+is O
+an O
+open O
+source O
+microfinance O
+banking O
+software O
+. O
+I O
+design O
+and O
+
+developed O
+Database O
+and O
+RESTul O
+API O
+for O
+Card O
+Management(Credit O
+Card O
+, O
+Master O
+Card O
+etc O
+. O
+) O
+and O
+
+Online O
+banking O
+Module O
+. O
+Besides O
+this O
+I O
+also O
+did O
+Requirement O
+analysis O
+for O
+this O
+software O
+module O
+. O
+
+Purpose O
+: O
+Developed O
+for O
+my O
+company O
+Cloud O
+of O
+Choice O
+
+Technology O
+: O
+Java O
+EE O
+, O
+Java O
+Jersey O
+, O
+Java O
+Spring O
+( O
+DI O
+) O
+, O
+Hibernate O
+, O
+Mysql O
+
+03 O
+. O
+Job O
+Application O
+
+Overview O
+: O
+This O
+Android O
+application O
+introduced O
+Job O
+site O
+through O
+which O
+user O
+can O
+POST O
+job O
+
+and O
+Job O
+seeker O
+can O
+apply O
+for O
+job O
+. O
+On O
+the O
+other O
+hand O
+Job O
+owner O
+can O
+select O
+and O
+reject O
+application O
+
+as O
+well O
+. O
+User O
+can O
+create O
+profile O
+with O
+his O
+/ O
+her O
+experience O
+. O
+There O
+is O
+vice O
+versa O
+review O
+system O
+as O
+
+well O
+. O
+Here O
+is O
+only O
+android O
+part O
+which O
+I O
+developed O
+. O
+Auth0 O
+Implementation O
+is O
+available O
+here O
+so O
+you O
+
+can O
+get O
+help O
+from O
+here O
+. O
+Besides O
+, O
+you O
+can O
+get O
+help O
+for O
+manipulating O
+JSON O
+Object O
+/ O
+Array O
+over O
+
+different O
+activity O
+using O
+local O
+storage O
+. O
+Everything O
+I O
+did O
+here O
+using O
+Asynchttpclientrequest O
+. O
+
+Purpose O
+: O
+Developed O
+for O
+a O
+Startup O
+Company O
+
+Technology O
+: O
+Nodejs O
+, O
+Android O
+
+04 O
+. O
+Demo O
+Search O
+Engine O
+using O
+PHP O
+
+Overview O
+: O
+The O
+search O
+engine O
+takes O
+an O
+input O
+from O
+the O
+user O
+and O
+then O
+, O
+returns O
+the O
+
+appropriate O
+result O
+. O
+As O
+the O
+time O
+was O
+short O
+for O
+this O
+project O
+, O
+I O
+used O
+php O
+crawler O
+to O
+gather O
+all O
+the O
+URL O
+
+from O
+the O
+website O
+and O
+show O
+the O
+expected O
+using O
+cURL O
+to O
+the O
+user O
+and O
+as O
+input O
+, O
+I O
+collect O
+the O
+
+website O
+URL O
+rather O
+than O
+keywords O
+. O
+
+Purpose O
+: O
+Undergrad O
+Course O
+Project O
+CSE391 O
+( O
+Programming O
+for O
+the O
+Internet O
+) O
+Semester O
+: O
+9th O
+
+Project O
+URL O
+: O
+https://github.com/Sufian-Abu/Demo-Search-Engine O
+
+Technology O
+: O
+PHP O
+, O
+Mysql O
+
+05 O
+. O
+Intelligent O
+Carrier O
+Robot O
+Using O
+Raspberry O
+pi O
+
+Overview O
+: O
+The O
+robot O
+can O
+move O
+any O
+object O
+wrapped O
+by O
+metal O
+and O
+carry O
+that O
+to O
+a O
+desired O
+
+place O
+. O
+The O
+robot O
+is O
+monitored O
+from O
+the O
+laptop O
+. O
+Here O
+is O
+a O
+simple O
+demo O
+. O
+In O
+future O
+, O
+this O
+project O
+can O
+
+be O
+implemented O
+in O
+the O
+industries O
+for O
+shifting O
+heavy O
+goods O
+. O
+
+Purpose O
+: O
+Undergrad O
+Course O
+Project O
+( O
+Digital O
+System O
+Design O
+) O
+
+Project O
+URL O
+: O
+https://goo.gl/8pfC1T O
+
+Technology O
+: O
+Python O
+
+06 O
+. O
+Multi O
+- O
+user O
+chat O
+server O
+using O
+Java O
+
+Overview O
+: O
+This O
+is O
+a O
+simple O
+multi O
+user O
+chat O
+- O
+server O
+where O
+I O
+have O
+used O
+Multi O
+threads O
+to O
+handle O
+
+all O
+the O
+data O
+traffic O
+. O
+User O
+will O
+be O
+able O
+to O
+chat O
+directly O
+with O
+another O
+user O
+without O
+writing O
+their O
+
+names O
+in O
+the O
+beginning O
+of O
+their O
+message O
+. O
+
+Purpose O
+: O
+Undergrad O
+Course O
+Project O
+( O
+Object O
+Oriented O
+Programming O
+) O
+
+Project O
+URL O
+: O
+https://github.com/Sufian-Abu/Mutl-Client-Chat-Server O
+
+Technology O
+: O
+Java O
+
+07 O
+. O
+Implementing O
+IaaS O
+( O
+Infrastructure O
+as O
+a O
+service O
+) O
+
+Overview O
+: O
+I O
+along O
+with O
+other O
+team O
+mates O
+( O
+Syeda O
+NoorJaha O
+Azim O
+) O
+worked O
+to O
+install O
+and O
+
+build O
+up O
+Eucalyptus O
+Cloud O
+in O
+a O
+normal O
+desktop O
+computer O
+. O
+Due O
+to O
+insufficient O
+ram O
+, O
+we O
+were O
+not O
+
+able O
+to O
+run O
+more O
+than O
+8 O
+instances O
+at O
+the O
+same O
+time O
+. O
+We O
+configured O
+for O
+: O
+Running O
+application O
+with O
+
+Auto O
+Scaling O
+, O
+Cloud O
+Watch O
+, O
+ELB O
+, O
+To O
+run O
+a O
+PaaS O
+software O
+on O
+Eucalyptus O
+and O
+run O
+a O
+demo O
+
+application O
+, O
+Yum O
+repository O
+using O
+s3 O
+, O
+Installation O
+and O
+demonstration O
+of O
+docker O
+. O
+
+Purpose O
+: O
+Undergrad O
+Course O
+Project O
+( O
+Cloud O
+Computing O
+) O
+
+Project O
+URL O
+: O
+https://github.com O
+/ O
+Sufian O
+- O
+Abu O
+/ O
+Cloud O
+- O
+Computing- O
+
+Technology O
+: O
+CetnOS O
+
+08 O
+. O
+Family O
+Management O
+System O
+for O
+daily O
+expenses O
+
+Overview O
+: O
+Project O
+Kiptus O
+is O
+simple O
+software O
+to O
+demonstrate O
+the O
+database O
+skills O
+. O
+The O
+
+software O
+will O
+have O
+the O
+all O
+the O
+family O
+expenditure O
+and O
+income O
+, O
+finally O
+will O
+generate O
+a O
+monthly O
+data O
+
+for O
+the O
+family O
+. O
+User O
+will O
+be O
+able O
+to O
+track O
+his O
+/ O
+her O
+daily O
+expense O
+by O
+giving O
+input O
+for O
+particular O
+
+expense O
+he O
+/ O
+she O
+made O
+. O
+
+Purpose O
+: O
+Undergrad O
+Course O
+Project O
+( O
+Database O
+System O
+) O
+
+
+Project O
+URL O
+: O
+https://github.com O
+/ O
+Sufian O
+- O
+Abu O
+/ O
+Project O
+- O
+Kiptus- O
+
+Technology O
+: O
+Java O
+, O
+Mysql O
+, O
+Net O
+beans O
+
+09 O
+. O
+Women O
+Safety O
+Application O
+
+Overview O
+: O
+Women O
+can O
+create O
+community O
+; O
+private O
+group O
+where O
+women O
+can O
+share O
+any O
+kind O
+
+of O
+incident O
+s O
+using O
+our O
+application O
+. O
+We O
+developed O
+a O
+demo O
+for O
+women O
+safety O
+application O
+where O
+
+there O
+is O
+news O
+feed O
+and O
+user O
+will O
+be O
+able O
+to O
+get O
+information O
+for O
+various O
+incidents O
+location O
+
+regarding O
+women O
+harassment O
+. O
+Even O
+women O
+can O
+roaming O
+with O
+a O
+group O
+by O
+creating O
+private O
+group O
+
+according O
+to O
+her O
+wish O
+. O
+Besides O
+parents O
+will O
+be O
+able O
+to O
+track O
+her O
+children O
+for O
+safety O
+reason O
+fo O
+any O
+
+kind O
+of O
+destination O
+where O
+internet O
+is O
+available O
+. O
+This O
+system O
+will O
+automatically O
+send O
+notification O
+s O
+
+for O
+vulnerable O
+location O
+. O
+
+Purpose O
+: O
+Smart O
+City O
+Hackathon O
+( O
+Became O
+Group O
+Champion O
+) O
+
+Project O
+URL O
+: O
+https://github.com/Sufian-Abu/node-android O
+( O
+Server O
+Side O
+) O
+
+Technology O
+: O
+Nodejs O
+, O
+MongoDB O
+, O
+Android O
+
+
+
+Top O
+Skills O
+& O
+Knowledge O
+
+
+1 O
+. O
+Programming O
+& O
+Framework O
+: O
+Java O
+SE O
+, O
+Java O
+EE O
+, O
+Java O
+Spring O
+, O
+Java O
+Jersey O
+, O
+
+Nodejs O
+, O
+PHP O
+, O
+Bash O
+, O
+Hibernate O
+, O
+Mysql O
+, O
+MongoDB O
+
+2 O
+. O
+Cloud O
+Computing O
+: O
+AWS O
+, O
+Eucalyptus O
+, O
+OpenStack O
+
+3 O
+. O
+Tools O
+: O
+IntelliJ O
+IDEA O
+, O
+Eclipse O
+, O
+Netbeans O
+, O
+Android O
+Studio O
+, O
+notepad++ O
+, O
+Visual O
+Studio O
+, O
+
+Sublime O
+Text O
+, O
+ShareLaTeX O
+, O
+Microsoft O
+project O
+Professional O
+, O
+Slack O
+, O
+Trello O
+, O
+Jenkins O
+, O
+
+Github O
+, O
+BitBucket O
+. O
+
+Experience O
+
+Worked O
+as O
+Junior WE_Job_Role
+Software WE_Job_Role
+Quality WE_Job_Role
+Assurance WE_Job_Role
+Engineer WE_Job_Role
+at O
+Data WE_Company_Name
+- WE_Company_Name
+edge WE_Company_Name
+LTD WE_Company_Name
+( O
+From WE_Job_Duration
+06 WE_Job_Duration
+- WE_Job_Duration
+12- WE_Job_Duration
+
+2015 WE_Job_Duration
+to WE_Job_Duration
+28 WE_Job_Duration
+- WE_Job_Duration
+04 WE_Job_Duration
+- WE_Job_Duration
+2016 WE_Job_Duration
+) O
+
+Working O
+as O
+a O
+QA WE_Job_Role
+Analyst WE_Job_Role
+at O
+Unisoft WE_Job_Role
+Systems WE_Job_Role
+Limited WE_Job_Role
+( O
+From O
+21 WE_Job_Duration
+- WE_Job_Duration
+05 WE_Job_Duration
+- WE_Job_Duration
+2016 WE_Job_Duration
+
+Ongoing WE_Job_Duration
+) O
+
+
+Professional O
+Project O
+
+Project O
+Name O
+: O
+Quick O
+Cheque O
+Processing O
+System O
+
+Client O
+: O
+EBL O
+, O
+One O
+Bank O
+
+Role O
+: O
+QA O
+Analyst O
+. O
+
+Tools O
+and O
+Technologies O
+: O
+Microsoft O
+Excel O
+for O
+test O
+Cases O
+, O
+Defect O
+and O
+Bug O
+Management O
+system O
+to O
+
+manage O
+the O
+bug O
+report O
+, O
+Manual O
+Testing O
+, O
+Smoke O
+Testing O
+, O
+Prepared O
+FRD O
+
+
+Project O
+Name O
+: O
+iRMS O
+
+Client O
+: O
+EBL O
+
+Role O
+: O
+QA O
+Analyst O
+. O
+
+Tools O
+and O
+Technologies O
+: O
+Microsoft O
+Excel O
+for O
+test O
+Cases O
+, O
+Defect O
+and O
+Bug O
+Management O
+system O
+to O
+
+manage O
+the O
+bug O
+report O
+, O
+Manual O
+Testing O
+, O
+Smoke O
+Testing O
+, O
+Prepared O
+FRD O
+
+
+Project O
+Name O
+: O
+STBL O
+( O
+ERP O
+System O
+) O
+
+Client O
+: O
+Lenovo O
+, O
+Printing O
+Solution O
+, O
+GEMCON O
+Group O
+( O
+Gemcon O
+Corporate O
+, O
+Meena O
+Bazar O
+, O
+Meena O
+
+Herbal O
+, O
+Kazi&Kazi O
+Tea O
+, O
+Gem O
+jute O
+) O
+
+Role O
+: O
+QA O
+Analyst O
+. O
+
+Tools O
+and O
+Technologies O
+: O
+Microsoft O
+Excel O
+for O
+test O
+Cases O
+, O
+Defect O
+and O
+Bug O
+Management O
+system O
+to O
+
+manage O
+the O
+bug O
+report O
+, O
+Manual O
+Testing O
+, O
+Smoke O
+Testing O
+, O
+Prepared O
+FRD O
+, O
+SRS O
+, O
+Use O
+case O
+, O
+User O
+Manual O
+, O
+
+Work O
+Experience O
+
+Company O
+: O
+ONY WE_Company_Name
+Enterprise WE_Company_Name
+		         O
+Aug2016 WE_Job_Duration
+- WE_Job_Duration
+Dec2016 WE_Job_Duration
+
+Position O
+: O
+Network WE_Job_Role
+Administrator WE_Job_Role
+
+Job O
+Responsibilities O
+: O
+
+Secures O
+network O
+by O
+developing O
+network O
+access O
+, O
+monitoring O
+, O
+control O
+, O
+and O
+evaluation O
+; O
+maintaining O
+documentation O
+, O
+
+Prepares O
+users O
+by O
+designing O
+and O
+conducting O
+training O
+programs O
+; O
+providing O
+references O
+and O
+support O
+. O
+
+Upgrades O
+network O
+by O
+conferring O
+with O
+vendors O
+; O
+developing O
+, O
+testing O
+, O
+evaluating O
+, O
+and O
+installing O
+enhancements O
+. O
+
+Company O
+: O
+Atom WE_Company_Name
+Ap WE_Company_Name
+	         O
+Jan2017 WE_Job_Duration
+Till WE_Job_Duration
+now WE_Job_Duration
+
+Position O
+: O
+AWS WE_Job_Role
+Solution WE_Job_Role
+Architect WE_Job_Role
+and WE_Job_Role
+SysOps WE_Job_Role
+. O
+
+Hands O
+on O
+architect O
+with O
+focus O
+on O
+designing O
+highly O
+available O
+, O
+scalable O
+and O
+reliable O
+cloud O
+solutions O
+
+In O
+- O
+depth O
+understanding O
+of O
+AWS O
+, O
+
+Experience O
+in O
+implementing O
+CI O
+/ O
+CD O
+, O
+SysOps O
+and O
+DevOps O
+
+Designing O
+IoT O
+solutions O
+involving O
+devices O
+, O
+cloud O
+, O
+and O
+analytics O
+
+Building O
+IoT O
+products O
+on O
+AWS O
+
+Hands O
+- O
+on O
+experience O
+in O
+deploying O
+Git O
+, O
+Github O
+, O
+Gitlab O
+, O
+SVN O
+, O
+C O
+panel O
+, O
+Mail O
+server O
+, O
+LAMP O
+server O
+. O
+
+Core O
+knowledge O
+about O
+MYSQl O
+, O
+RAID O
+, O
+Master O
+slave O
+database O
+. O
+
+Windows O
+Active O
+Directory O
+and O
+LDAP O
+
+Agile(Scrum O
+) O
+, O
+LAMP O
+server O
+, O
+APACHE O
+. O
+
+EXPERIENCE O
+
+
+1 O
+. O
+Senior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+( O
+Software O
+Quality O
+Assurance O
+) O
+
+Samsung WE_Company_Name
+Research WE_Company_Name
+& WE_Company_Name
+Development WE_Company_Name
+Institute WE_Company_Name
+, O
+Bangladesh WE_Company_Location
+
+1st WE_Job_Duration
+April2014 WE_Job_Duration
+Present WE_Job_Duration
+
+
+Work O
+duties O
+
+Analyzing O
+the O
+Requirements O
+from O
+the O
+client O
+
+Participating O
+in O
+preparing O
+Test O
+Plans O
+
+Menu O
+- O
+tree O
+and O
+Test O
+Case O
+creation O
+
+Preparing O
+Test O
+Data O
+for O
+the O
+test O
+cases O
+
+Preparing O
+Test O
+Environment O
+to O
+execute O
+the O
+test O
+cases O
+
+Executing O
+the O
+Test O
+Cases O
+
+Defect O
+Tracking O
+
+Giving O
+mandatory O
+information O
+of O
+a O
+defect O
+to O
+developers O
+in O
+order O
+to O
+fix O
+it O
+
+Preparing O
+Summary O
+Reports O
+
+Preparing O
+Lesson O
+Learnt O
+documents O
+from O
+the O
+previous O
+project O
+testing O
+experience O
+
+Communication O
+with O
+the O
+Test O
+Lead O
+/ O
+Overseas O
+clients O
+and O
+developers O
+
+Conducting O
+Review O
+Meetings O
+within O
+the O
+Team O
+
+Curriculum O
+Vitae O
+
+
+Page O
 1 O
 
 
 
-
-
-
-
-
-
-
-Training O
-/ O
-Certification O
-Details O
-
-LICT O
-TOP O
-- O
-UP O
-IT O
-Training O
-for O
-Big O
-Data O
-Analytics O
-
-Duration O
-: O
-300 O
-Hours O
-
-Android O
-App O
-Development O
-with O
-Java O
-SE O
-
-Duration O
-: O
-70 O
-Hours O
-
-Project O
-: O
-
-Developing O
-Package O
-: O
-A O
-mobile O
-based O
-point O
-of O
-sales O
-system O
-
-application O
+2 O
+. O
+Software WE_Job_Role
+Engineer WE_Job_Role
 ( O
-Available O
-Soon O
+Software O
+Quality O
+Assurance O
 ) O
 
-Big O
+Samsung WE_Company_Name
+Research WE_Company_Name
+& WE_Company_Name
+Development WE_Company_Name
+Institute WE_Company_Name
+, O
+Bangladesh WE_Company_Location
+
+15th WE_Job_Duration
+November2012 WE_Job_Duration
+31st WE_Job_Duration
+March2014 WE_Job_Duration
+
+
+Work O
+duties O
+
+Worked O
+at O
+Samsung O
+Electronics O
+Headquarter O
+, O
+Suwon O
+Korea O
+for O
+6 O
+months O
+in O
+Tizen O
+
+pre O
+- O
+release O
+candidate O
+SDK O
+testing O
+project O
+
+Platform O
+verification O
+( O
+Windows O
+, O
+Linux O
+& O
+Mac O
+) O
+of O
+mobile O
+SDK O
+( O
+Tizen O
+IDE O
+) O
+
+Device O
+flashing O
+with O
+latest O
+binary O
+, O
+Manual O
+testing O
+of O
+Native O
+and O
+Web O
+mobile O
+
+applications O
+and O
+defect O
+registration O
+at O
+JIRA O
+
+CTS O
+& O
+Coverage O
+testing O
+of O
+release O
+candidate O
+SDKs O
+
+Process O
+manual O
+creation O
+
+
+3 O
+. O
+Junior WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+Mysoftheaven WE_Company_Name
+( WE_Company_Name
+BD WE_Company_Name
+) WE_Company_Name
+Ltd. WE_Company_Name
+
+1st WE_Job_Duration
+April2012 WE_Job_Duration
+10th WE_Job_Duration
+November2012 WE_Job_Duration
+
+
+Work O
+duties O
+
+E O
+- O
+commerce O
+website O
+development O
+
+PSD O
+to O
+HTML O
+conversion O
+, O
+cross O
+- O
+browser O
+compatibility O
+testing O
+
+
+4 O
+. O
+Software WE_Job_Role
+Developer WE_Job_Role
+Intern WE_Job_Role
+
+Synesis WE_Company_Name
+IT WE_Company_Name
+Ltd. WE_Company_Name
+
+1st WE_Job_Duration
+January2012 WE_Job_Duration
+28th WE_Job_Duration
+February2012 WE_Job_Duration
+
+
+Work O
+duties O
+
+Front O
+- O
+end O
+( O
+UI O
+) O
+development O
+of O
+Bangladesh O
+Union O
+Parishad O
+Helpline O
+( O
+16256 O
+) O
+
+software O
+
+Database O
+creation O
+
+
+TECHNICAL O
+KNOWLEDGE O
+
+
+OS O
+Platform O
+
+Programming O
+Language O
+
+Database O
+
+Defect O
+Tracking O
+Tool O
+
+Testing O
+Tool O
+
+Other O
+
+PERSONAL O
+SKILL O
+
+
+Windows O
+, O
+Linux O
+
+C O
+, O
+C++ O
+, O
+PHP O
+, O
+HTML O
+, O
+CSS O
+
+ORACLE O
+, O
+MYSQL O
+
+JIRA O
+, O
+PLM O
+
+Google O
+Test O
+, O
+RCP O
+Test O
+Tool O
+
+MS O
+Office O
+, O
+Adobe O
+Photoshop O
+
+
+Broad O
+understanding O
+of O
+the O
+product O
+
+Effective O
+communication O
+
+Creativity O
+
+
+Test O
+to O
+break O
+attitude O
+
+Curriculum O
+Vitae O
+
+
+Team O
+building O
+& O
+leadership O
+
+Decision O
+making O
+
+Multi O
+- O
+tusker O
+
+Driving O
+for O
+results O
+
+Page O
+2 O
+
+
+
+
+Degree O
+
+EDUCATIONAL O
+QUALIFICATION O
+
+
+Name O
+of O
+Institute O
+
+BSc O
+Engineering O
+Jatiya O
+Kabi O
+Kazi O
+Nazrul O
+
+Islam O
+University O
+
+H.S.C O
+
+Kumudini O
+Govt O
+. O
+College O
+
+Bindu O
+Bashini O
+Govt O
+. O
+Girls O
+
+S.S.C O
+
+High O
+School O
+
+WORK O
+EXPERIENCE O
+
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+at O
+Humac WE_Company_Name
+Lab WE_Company_Name
+Ltd WE_Company_Name
+( O
+1 O
+year O
+1 O
+month O
+) O
+
+July WE_Job_Duration
+2014 WE_Job_Duration
+July WE_Job_Duration
+2015 WE_Job_Duration
+
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+at O
+Amadeyr WE_Company_Name
+Cloud WE_Company_Name
+Ltd WE_Company_Name
+( O
+1 O
+year O
+5 O
+months O
+) O
+
+February WE_Job_Duration
+2013 WE_Job_Duration
+June WE_Job_Duration
+2014 WE_Job_Duration
+
+
+Software WE_Job_Role
+Engineer(Contract WE_Job_Role
+Role O
+) O
+at O
+DCASTALIA(4 WE_Company_Name
+months O
+) O
+
+September WE_Job_Duration
+2012 WE_Job_Duration
+December WE_Job_Duration
+2012 WE_Job_Duration
+
+
+PROJECTS O
+
+
+Location O
+Aware O
+Recommendation O
+System O
+( O
+https://github.com/kaderchowdhury/LARS O
+) O
+as O
+Master O
+s O
+
+Project O
+. O
+A O
+prediction O
+and O
+recommendation O
+model O
+has O
+been O
+built O
+via O
+Random O
+Forest O
+and O
+Collaborative O
+
+Filtering O
+in O
+order O
+to O
+predict O
+and O
+recommend O
+appropriate O
+places O
+to O
+the O
+user O
+at O
+a O
+given O
+context O
+. O
+( O
+2016 O
+) O
+
+Language O
+Localization O
+on O
+Android O
+Platform O
+( O
+https://github.com/androidbangladesh O
+) O
+as O
+part O
+of O
+the O
+
+Bachelor O
+s O
+project O
+. O
+The O
+goal O
+of O
+this O
+project O
+was O
+to O
+enable O
+complex O
+text O
+rendering O
+support O
+in O
+Android O
+
+2.2(Froyo O
+) O
+by O
+tweaking O
+the O
+Android O
+OS.(2012 O
+) O
+
+Bangladesh O
+Bureau O
+of O
+Statistics O
+Consumer O
+Price O
+Index O
+Automation O
+at O
+Amadeyr O
+Cloud O
+Ltd. O
+( O
+2013 O
+) O
+
+Tapur O
+Tupur O
+Talk O
+at O
+Amadeyr O
+Cloud O
+Ltd. O
+Instant O
+messaging O
+application O
+using O
+XMPP O
+with O
+a O
+focus O
+
+on O
+white O
+- O
+board O
+capabilities O
+to O
+facilitate O
+remote O
+tuition.(2014 O
+) O
+Project O
+URL O
+: O
+( O
+https://goo.gl/BSXwCR O
+) O
+
+Madviser O
+at O
+Humac O
+Lab O
+Ltd O
+, O
+Mobile O
+bill O
+optimization O
+application O
+that O
+recommends O
+optimal O
+SIM O
+
+card O
+packages O
+by O
+analyzing O
+mobile O
+and O
+data O
+usage O
+. O
+( O
+2015 O
+) O
+Project O
+URL O
+: O
+( O
+https://goo.gl/Zs80w7 O
+) O
+
+Selliscope O
+at O
+Humac O
+Lab O
+Ltd O
+, O
+Sales O
+automation O
+system O
+that O
+enable O
+on O
+- O
+the O
+- O
+road O
+sales O
+staff O
+to O
+take O
+
+orders O
+, O
+generate O
+invoices O
+and O
+initiate O
+sales O
+process O
+workflows O
+. O
+( O
+2015 O
+) O
+URL:(http://www.selliscope.com/ O
+) O
+
+Experience O
+
+Jan WE_Job_Duration
+2015 WE_Job_Duration
+- WE_Job_Duration
+
+Present WE_Job_Duration
+
+
+
+
+
+
+Head WE_Job_Role
+of WE_Job_Role
+Technology WE_Job_Role
+
+Green WE_Company_Name
+and WE_Company_Name
+Red WE_Company_Name
+Technologies WE_Company_Name
+Limited WE_Company_Name
+
+Responsible O
+for O
+building O
+the O
+reporting O
+dashboard O
+of O
+G&R O
+Ad O
+Network O
+. O
+
+Besides O
+that O
+, O
+also O
+working O
+on O
+projects O
+like O
+e O
+- O
+wallet O
+, O
+email O
+etc O
+. O
+Also O
+, O
+as O
+a O
+
+tech O
+lead O
+, O
+training O
+the O
+junior O
+engineers O
+is O
+one O
+of O
+my O
+responsibilities O
+. O
+
+Major O
+Tasks O
+
+Constantly O
+adding O
+new O
+features O
+to O
+the O
+dashboard O
+to O
+meet O
+the O
+current O
+
+market O
+needs O
+
+Redesigning O
+previously O
+developed O
+the O
+Android O
+Ad O
+SDK O
+and O
+App O
+
+Tracker O
+SDK O
+to O
+keep O
+it O
+aligned O
+with O
+the O
+Android O
+development O
+
+environment O
+
+Optimizing O
+the O
+backend O
+structure O
+of O
+the O
+reporting O
+dashboard O
+
+Providing O
+guidelines O
+to O
+the O
+engineering O
+teams O
+and O
+interns O
+
+Software WE_Job_Role
+Engineer WE_Job_Role
+
+Green WE_Company_Name
+and WE_Company_Name
+Red WE_Company_Name
+Technologies WE_Company_Name
+Limited WE_Company_Name
+
+Worked O
+mainly O
+as O
+an O
+android O
+lead O
+. O
+Also O
+, O
+worked O
+with O
+the O
+core O
+engineering O
+
+team O
+which O
+is O
+responsible O
+for O
+building O
+the O
+main O
+network O
+structure O
+for O
+the O
+
+Ad O
+Network O
+. O
+
+Accomplishments O
+
+Built O
+an O
+Android O
+Ad O
+SDK O
+, O
+which O
+helps O
+to O
+display O
+ads O
+on O
+native O
+Android O
+
+applications O
+
+Built O
+simple O
+Android O
+applications O
+like O
+Bangla O
+Calculator O
+, O
+Bangla O
+Meme O
+, O
+
+Bangla O
+Calendar O
+etc O
+to O
+promote O
+G&R O
+s O
+Ad O
+Network O
+in O
+mobile O
+arena O
+
+Built O
+the O
+Publisher O
+Dashboard O
+for O
+the O
+Ad O
+Network O
+
+Built O
+the O
+Authorised O
+Publisher O
+Manager O
+( O
+APM O
+) O
+dashboard O
+
+Integrated O
+Google O
+Adx O
+with O
+G&R O
+dashboard O
+
+Senior O
+Android O
+Developer O
+
+Mangoes O
+Mobile O
+Limited O
+
+Worked O
+mainly O
+as O
+an O
+android O
+developer O
+. O
+But O
+was O
+also O
+responsible O
+for O
+
+building O
+web O
+services O
+and O
+iPhone O
+apps O
+. O
+
+Accomplishments O
+
+Built O
+a O
+communication O
+/ O
+case O
+analysis O
+tool O
+for O
+a O
+group O
+of O
+doctors O
+in O
+
+Botswana O
+
+Built O
+a O
+social O
+media O
+platform O
+for O
+a O
+group O
+of O
+doctors O
+in O
+Botswana O
+
+Ported O
+an O
+existing O
+telemedicine O
+system O
+( O
+web O
+app O
+) O
+to O
+mobile O
+
+Built O
+a O
+concept O
+app O
+which O
+allows O
+the O
+user O
+to O
+build O
+his O
+own O
+template O
+or O
+
+layout O
+where O
+he O
+can O
+organize O
+his O
+favorite O
+things O
+( O
+image O
+, O
+web O
+page O
+, O
+
+etc O
+) O
+in O
+his O
+way O
+simply O
+by O
+performing O
+drag O
+and O
+drop O
+
+Apr O
+2013 O
+- O
+
+Dec O
+2014 O
+
+Apr O
+2011 O
+- O
+
+Mar O
+2013 O
+
+
+
+Notable O
+Projects O
+
+Ad O
+Network O
+- O
+https://green O
+- O
+red.com O
+
+JossPay O
+- O
+https://goo.gl O
+/ O
+u65CKv O
+
+PRXS O
+- O
+https://goo.gl O
+/ O
+ERxv6z O
+
+iHadis O
+- O
+https://goo.gl O
+/ O
+xuHNNb O
+
+Guided O
+Verses O
+- O
+https://goo.gl O
+/ O
+ihj0x0 O
+
+QFlip O
+- O
+https://goo.gl O
+/ O
+R4KF8h O
+
+Lekhok O
+IME O
+- O
+https://goo.gl O
+/ O
+X9lMYA O
+
+Shongjom O
+- O
+https://goo.gl O
+/ O
+njaa1n O
+
+
+2013 O
+
+3.78 O
+/ O
+4.0 O
+
+3.33 O
+/ O
+4.0 O
+
+4.7 O
+/ O
+5.0 O
+
+5.0 O
+/ O
+5.0 O
+
+Jahangirnagar O
+University O
+, O
+M.Sc O
+in O
+CS O
+
+BRAC O
+University O
+, O
+B.Sc O
+in O
+CS O
+and O
+ECE O
+
+Dhaka O
+Residential O
+Model O
+College O
+, O
+HSC O
+
+Dhaka O
+Residential O
+Model O
+College O
+, O
+SSC O
+
+Professional O
+Experience O
+: O
+
+1 O
+. O
+Software WE_Job_Role
+Quality WE_Job_Role
+Assurance WE_Job_Role
+Intern WE_Job_Role
+( O
+January WE_Job_Duration
+23 WE_Job_Duration
+, WE_Job_Duration
+2017 WE_Job_Duration
+continuing WE_Job_Duration
+) O
+
+Audacity WE_Company_Name
+IT WE_Company_Name
+Solutions WE_Company_Name
+Ltd. WE_Company_Name
+
+Company O
+Location O
+: O
+Baridhara WE_Company_Location
+J WE_Company_Location
+Block WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+, WE_Company_Location
+Bangladesh WE_Company_Location
+
+Duties O
+/ O
+Responsibilities O
+: O
+Quality O
+Assurance O
+of O
+different O
+( O
+for O
+both O
+clients O
+and O
+company O
+own O
+products O
+) O
+
+-web O
+applications O
+, O
+
+-android O
+applications O
+( O
+both O
+in O
+different O
+mobile O
+platform O
+and O
+tablet O
+platform O
+) O
+, O
+
+-iOS O
+applications O
+( O
+both O
+in O
+iphone O
+and O
+ipad O
+) O
+
+Mainly O
+focused O
+in O
+manual O
+testing O
+
+2 O
+. O
+Trainee WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+( O
+March WE_Company_Location
+01 WE_Company_Location
+, WE_Company_Location
+2015 WE_Company_Location
+November WE_Company_Location
+30 WE_Company_Location
+, WE_Company_Location
+2016 WE_Company_Location
+) O
+
+Tappware WE_Company_Name
+Solution WE_Company_Name
+Ltd. WE_Company_Name
+
+Company O
+Location O
+: O
+H#566 WE_Company_Location
+( WE_Company_Location
+6TH WE_Company_Location
+Floor WE_Company_Location
+) WE_Company_Location
+, WE_Company_Location
+R#8 WE_Company_Location
+, WE_Company_Location
+Mirpur WE_Company_Location
+DOHS WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+, WE_Company_Location
+Bangladesh WE_Company_Location
+
+Department O
+: O
+Research O
+and O
+Development O
+
+Duties O
+/ O
+Responsibilities O
+: O
+Quality O
+Assurance O
+of O
+different O
+( O
+for O
+both O
+clients O
+and O
+company O
+own O
+products O
+) O
+
+-web O
+applications O
+, O
+
+-android O
+applications O
+( O
+both O
+in O
+different O
+mobile O
+platform O
+and O
+tablet O
+platform O
+) O
+, O
+
+-iOS O
+applications O
+( O
+both O
+in O
+iphone O
+and O
+ipad O
+) O
+
+Mainly O
+focused O
+in O
+manual O
+testing O
+
+
+
+3 O
+. O
+Trainee WE_Job_Role
+Software WE_Job_Role
+Engineer WE_Job_Role
+( O
+November WE_Job_Duration
+01 WE_Job_Duration
+, WE_Job_Duration
+2014 WE_Job_Duration
+February WE_Job_Duration
+28 WE_Job_Duration
+, WE_Job_Duration
+2015 WE_Job_Duration
+) O
+
+FTFL WE_Company_Name
+( WE_Company_Name
+Fast WE_Company_Name
+Track WE_Company_Name
+Future WE_Company_Name
+Leader WE_Company_Name
+) WE_Company_Name
+
+Location O
+: O
+Bangladesh WE_Company_Location
+Computer WE_Company_Location
+Council WE_Company_Location
+, WE_Company_Location
+Dhaka WE_Company_Location
+, WE_Company_Location
+Bangladesh WE_Company_Location
+
+Duties O
+/ O
+Responsibilities O
+: O
+Software O
+Quality O
+Assurance O
+for O
+different O
+web O
+application O
+and O
+mobile O
+application O
+
+Mainly O
+focused O
+in O
+manual O
+testing O
+
+
+Other O
+Experience O
+: O
+
+-Professional O
+experience O
+in O
+writing O
+Storyboard O
+, O
+Test O
+Cases O
+and O
+make O
+test O
+plans O
+for O
+web O
+applications O
+, O
+
+android O
+and O
+iOS O
+apps O
+and O
+games O
+
+-Professional O
+experience O
+in O
+manual O
+testing O
+for O
+web O
+applications O
+and O
+android O
+apps O
+and O
+games O
+
+- O
+Have O
+strong O
+mindset O
+for O
+find O
+out O
+bugs O
+from O
+software O
+
+-Professional O
+experience O
+in O
+identify O
+, O
+record O
+, O
+document O
+thoroughly O
+and O
+track O
+bugs O
+
+-Have O
+basic O
+knowledge O
+about O
+SQA O
+. O
+
+-Have O
+knowledge O
+about O
+Graphic O
+Design O
+. O
+Portfolio O
+link O
+: O
+https://www.behance.net/shamimashemon O
+
+-Website O
+Development O
+using O
+WordPress O
+, O
+link O
+: O
+http://flywithmee.tk/ O
+
+-University O
+project O
+on O
+Android O
+Mobile O
+Application O
+Development O
+at O
+June O
+2014 O
+to O
+September O
+2014 O
+. O
+
+-University O
+project O
+on O
+Web O
+Design O
+and O
+Development O
+by O
+HTML5 O
+, O
+CSS3 O
+, O
+PHP O
+at O
+January O
+2014 O
+to O
+June O
+
+2014 O
+
+Experience O
+: O
+
+1 O
+. O
+Pipilika WE_Company_Name
+Search WE_Company_Name
+Engine WE_Company_Name
+Project O
+SUST O
+
+Built O
+a O
+generic O
+product O
+parsing O
+module O
+which O
+parse O
+product O
+information O
+from O
+
+e O
+- O
+commerce O
+websites O
+using O
+pattern O
+recognition O
+in O
+product O
+pages O
+. O
+
+Technology O
+: O
+Java O
+
+Link O
+: O
+http://product.pipilika.com/ O
+
+Duration WE_Job_Duration
+: WE_Job_Duration
+Jun WE_Job_Duration
+2015 WE_Job_Duration
+- WE_Job_Duration
+Jan WE_Job_Duration
+2016 WE_Job_Duration
+
+2 O
+. O
+Backpack WE_Company_Name
+Inc. WE_Company_Name
+
+Building O
+web O
+front O
+- O
+end O
+using O
+React O
+, O
+Redux O
+. O
+And O
+API O
+using O
+nodejs O
+. O
+
+Duration WE_Job_Duration
+: WE_Job_Duration
+Feb WE_Job_Duration
+2016 WE_Job_Duration
+- WE_Job_Duration
+Nov WE_Job_Duration
+2016 WE_Job_Duration
+
+IPVision WE_Company_Name
+Canada WE_Company_Name
+inc WE_Company_Name
+
+Building O
+audio O
+module O
+for O
+VOIP O
+technology O
+
+Duration WE_Job_Duration
+: WE_Job_Duration
+Dec WE_Job_Duration
+2017 WE_Job_Duration
+- WE_Job_Duration
+present WE_Job_Duration
+. WE_Job_Duration
+
+1 O
+. O
+Trainer O
+: O
+Programming O
+at O
+SUST O
+
+2 O
+. O
+Executive O
+Member O
+At O
+BINARY O
+, O
+SUST O
+
+3 O
+. O
+Problem O
+setter O
+and O
+judge O
+: O
+Inter O
+University O
+Programming O
+Contests O
+
+3 O
+. O
+
+Voluntary O
+Work O
+: O
+
+Project O
+Experience O
+: O
+
+1 O
+. O
+Simple O
+Game O
+with O
+c++ O
+. O
+
+2 O
+. O
+OMR O
+set O
+code O
+auto O
+- O
+correction O
+for O
+admission O
+test O
+with O
+simple O
+probability O
+. O
+
+3 O
+. O
+Routine O
+Generation O
+For O
+University O
+using O
+Randomized O
+Genetic O
+Algorithm O
+. O
+
+4 O
+. O
+Digit O
+recognizer O
+using O
+Multi O
+- O
+layer O
+Neural O
+Network O
+. O
+
+5 O
+. O
+Public O
 Data O
+- O
+set O
+for O
+Bengali O
+Handwritten O
+Digit O
+Recognition O
+
+( O
+http://bangladata.com/dataset/4 O
+) O
+. O
+
+6 O
+. O
+Bengali O
+Digit O
+Recognizer O
+with O
+3-D O
+Convolutional O
+Deep O
+Neural O
+Network O
+in O
+Tensorflow O
+
+7 O
+. O
+Text O
+prediction O
+model O
+using O
+sequence O
+to O
+sequence O
+model O
+using O
+Recurrent O
+Neural O
+
+Network O
+. O
+
+8 O
+. O
+Built O
+a O
+website O
+for O
+hosting O
+the O
+public O
+data O
+- O
+set O
+in O
+Bengali O
+language O
+for O
+educational O
+
+purpose O
+in O
+React O
+, O
+Redux O
+, O
+Nodejs O
+. O
+( O
+http://bangladata.com/ O
+) O
+. O
+
+1 O
+. O
+Bengali O
+Document O
+Categorization O
+using O
+statistical O
+analysis O
+
+Thesis O
 Project O
 : O
-Data O
-Visualization O
-. O
 
-Strength O
+Online O
+profile O
 : O
 
-Strong O
-leadership O
-skills O
+1 O
 . O
-
-Ambitious O
-and O
-target O
-oriented O
-. O
-
-Personal O
-Interest O
+github O
+profile O
 : O
+https://github.com/maruf0011 O
 
-Reading O
-books O
-, O
-Newspaper O
-, O
-Magazines O
-. O
-
-Playing O
-cricket O
-, O
-Football O
-, O
-Badminton O
-. O
-
-Watching O
-movies O
-, O
-Crafting O
-, O
-Dancing O
-. O
-
+linkedin O
+profile O
 : O
-Nesar O
-Uddin O
-Ahammad O
+https://bd.linkedin.com/in/abdullah-al-maruf-2a19b581 O
 
+2 O
+. O
+
+3 O
+. O
+Kaggle O
+profile O
 : O
-Afruz O
-Jahan O
+https://www.kaggle.com/kagglemaruf O
